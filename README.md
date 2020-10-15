@@ -52,7 +52,7 @@
 **Recent GitHub Activity :zap:**
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/TheCynicalTeam/cynicalteam_repo/pull/1) in [TheCynicalTeam/cynicalteam_repo](https://github.com/TheCynicalTeam/cynicalteam_repo)
+1. ❗️ Opened issue [#168](https://github.com/wakatime/vscode-wakatime/issues/168) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
 2. 💪 Opened PR [#1](https://github.com/TheCynicalTeam/cynicalteam_repo/pull/1) in [TheCynicalTeam/cynicalteam_repo](https://github.com/TheCynicalTeam/cynicalteam_repo)
 <!--END_SECTION:activity-->
 
