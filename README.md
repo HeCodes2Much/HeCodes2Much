@@ -45,17 +45,16 @@
 
 ---
 
-<summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="TheCynicalLiger's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheCynicalLiger&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=TheCynicalLiger%27s+GitHub+Stats" />
-
-
----
-
 <!--START_SECTION:waka-->
 1. 🎉 Merged PR [#1](https://github.com/TheCynicalTeam/cynicalteam_repo/pull/1) in [TheCynicalTeam/cynicalteam_repo](https://github.com/TheCynicalTeam/cynicalteam_repo)
 2. 💪 Opened PR [#1](https://github.com/TheCynicalTeam/cynicalteam_repo/pull/1) in [TheCynicalTeam/cynicalteam_repo](https://github.com/TheCynicalTeam/cynicalteam_repo)
 <!--END_SECTION:waka-->
+
+---
+
+<summary>:zap: GitHub Stats</summary>
+
+<img align="left" alt="TheCynicalLiger's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheCynicalLiger&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=TheCynicalLiger%27s+GitHub+Stats" />
 
 
 [website]: https://github.com/TheCynicalLiger/
