@@ -40,7 +40,7 @@
 
 **GitHub Stats :zap:**
 
-![Chart not found](https://github-readme-stats.vercel.app/api?username=TheCynicalLiger&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=TheCynicalLiger%27s+GitHub+Stats)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TheCynicalLiger&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=TheCynicalLiger%27s+GitHub+Stats" align="center" /></div>
 
 ---
 
