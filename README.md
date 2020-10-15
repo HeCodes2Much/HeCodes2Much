@@ -1,6 +1,6 @@
 ### Hi there, I'm Wayne - aka [TheCynicalLiger][website] 👋
 
-[![Website](https://img.shields.io/website?label=TheCynicalLiger.com&style=for-the-badge&url=https%3A%2F%github.com/TheCynicalLiger/)](https://github.com/TheCynicalLiger/)
+[![Website](https://img.shields.io/website?label=https://github.com/TheCynicalLiger/&style=for-the-badge&url=https://github.com/TheCynicalLiger/)](https://github.com/TheCynicalLiger/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/TheCynicalLiger?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTheCynicalLiger&screen_name=TheCynicalLiger)
 
 ## I'm a Boyfriend, Developer, and Teacher!!
