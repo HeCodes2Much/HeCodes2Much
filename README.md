@@ -48,7 +48,6 @@
 <summary>:zap: Recent WakaTime Stats</summary>
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 ---
