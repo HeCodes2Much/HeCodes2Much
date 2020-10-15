@@ -3,7 +3,6 @@ name: GitHub - Waka - Readme
 on:
   schedule:
     - cron: '*/10 * * * *'
-  workflow_dispatch:
 
 jobs:
   waka-readme:
