@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  waka-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
