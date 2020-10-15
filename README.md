@@ -14,10 +14,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="TheCynicalLiger | GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="TheCynicalLiger | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="TheCynicalLiger | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][Twitch]
-[<img align="left" alt="TheCynicalLiger | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="TheCynicalLiger | GitHub" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="TheCynicalLiger | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="TheCynicalLiger | Twitch" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][Twitch]
+[<img align="left" alt="TheCynicalLiger | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
