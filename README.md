@@ -38,6 +38,15 @@
 
 ---
 
+<summary>:zap: GitHub Stats</summary>
+
+![Chart not found](https://github-readme-stats.vercel.app/api?username=TheCynicalLiger&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=TheCynicalLiger%27s+GitHub+Stats)
+
+<br />
+<br />
+
+---
+
 <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -113,12 +122,6 @@ JavaScript               1 repo              ████████░░░�
 
 
 <!--END_SECTION:waka-->
-
----
-
-<summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="TheCynicalLiger's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheCynicalLiger&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=TheCynicalLiger%27s+GitHub+Stats" />
 
 
 [website]: https://github.com/TheCynicalLiger/
