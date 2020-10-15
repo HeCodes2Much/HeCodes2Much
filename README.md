@@ -53,7 +53,8 @@
 ---
 
 <!--START_SECTION:waka-->
-test
+1. 🎉 Merged PR [#1](https://github.com/TheCynicalTeam/cynicalteam_repo/pull/1) in [TheCynicalTeam/cynicalteam_repo](https://github.com/TheCynicalTeam/cynicalteam_repo)
+2. 💪 Opened PR [#1](https://github.com/TheCynicalTeam/cynicalteam_repo/pull/1) in [TheCynicalTeam/cynicalteam_repo](https://github.com/TheCynicalTeam/cynicalteam_repo)
 <!--END_SECTION:waka-->
 
 
