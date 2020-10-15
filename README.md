@@ -45,7 +45,7 @@
 
 ---
 
-<summary>:zap: Recent GitHub Activity</summary>
+<summary>:zap: Recent WakaTime Stats</summary>
 
 <!--START_SECTION:waka-->
 
@@ -53,7 +53,7 @@
 
 ---
 
-<summary>:zap: WakaTime Stats</summary>
+<summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="TheCynicalLiger's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheCynicalLiger&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=TheCynicalLiger%27s+GitHub+Stats" />
 
