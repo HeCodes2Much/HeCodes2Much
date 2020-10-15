@@ -37,20 +37,17 @@
 ---
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+test
+<summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-</details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="TheCynicalLiger's GitHub Stats" src="https://github-readme-stats.TheCynicalLiger.vercel.app/api?username=TheCynicalLiger&show_icons=true&hide_border=true" />
+<img align="left" alt="TheCynicalLiger's GitHub Stats" src="https://github-readme-stats.TheCynicalLiger.vercel.app/api?username=TheCynicalLiger&show_icons=true&hide_border=true" />
 
-</details>
 
 [website]: https://github.com/TheCynicalLiger/
 [twitter]: https://twitter.com/TheCynicalLiger
