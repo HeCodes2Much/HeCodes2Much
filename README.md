@@ -37,7 +37,6 @@
 ---
 
 
-test
 <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -48,7 +47,7 @@ test
 
 <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="TheCynicalLiger's GitHub Stats" src="https://github-readme-stats.TheCynicalLiger.vercel.app/api?username=TheCynicalLiger&show_icons=true&hide_border=true" />
+<img align="left" alt="TheCynicalLiger's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheCynicalLiger&show_icons=true&hide_border=true" />
 
 
 [website]: https://github.com/TheCynicalLiger/
