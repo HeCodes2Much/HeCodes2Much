@@ -10,6 +10,15 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love nespresso coffee
 
+---
+
+<summary>:zap: GitHub Stats</summary>
+
+<img align="left" alt="TheCynicalLiger's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheCynicalLiger&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=TheCynicalLiger%27s+GitHub+Stats" />
+
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt="TheCynicalLiger | GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -36,24 +45,12 @@
 
 ---
 
-<summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="TheCynicalLiger's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheCynicalLiger&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=TheCynicalLiger%27s+GitHub+Stats" />
-
-<br />
-<br />
-
----
-
 <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/TheCynicalTeam/cynicalteam_repo/pull/1) in [TheCynicalTeam/cynicalteam_repo](https://github.com/TheCynicalTeam/cynicalteam_repo)
 2. 💪 Opened PR [#1](https://github.com/TheCynicalTeam/cynicalteam_repo/pull/1) in [TheCynicalTeam/cynicalteam_repo](https://github.com/TheCynicalTeam/cynicalteam_repo)
 <!--END_SECTION:activity-->
-
-<br />
-<br />
 
 ---
 
