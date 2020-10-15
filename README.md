@@ -48,6 +48,70 @@
 <summary>:zap: Recent WakaTime Stats</summary>
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.9%20million%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 415 Contributions in the Year 2020
+ > 
+> 📦 96 Bytes Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 2 Public Repositories
+ > 
+> 🔑 0 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.91% 
+🌆 Daytime    47 commits     ███████░░░░░░░░░░░░░░░░░░   28.83% 
+🌃 Evening    81 commits     ████████████░░░░░░░░░░░░░   49.69% 
+🌙 Night      27 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.56%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.07% 
+Tuesday      17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.43% 
+Wednesday    27 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.56% 
+Thursday     42 commits     ██████░░░░░░░░░░░░░░░░░░░   25.77% 
+Friday       49 commits     ███████░░░░░░░░░░░░░░░░░░   30.06% 
+Saturday     17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.43% 
+Sunday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.68%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in CSS** 
+
+```text
+CSS                      2 repos             ████████████████░░░░░░░░░   66.67% 
+JavaScript               1 repo              ████████░░░░░░░░░░░░░░░░░   33.33%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/TheCynicalLiger/TheCynicalLiger/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 ---
