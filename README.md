@@ -38,13 +38,13 @@
 
 ---
 
-<summary>:zap: GitHub Stats</summary>
+**:zap: GitHub Stats**
 
 ![Chart not found](https://github-readme-stats.vercel.app/api?username=TheCynicalLiger&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=TheCynicalLiger%27s+GitHub+Stats)
 
 ---
 
-<summary>:zap: Recent GitHub Activity</summary>
+**:zap: Recent GitHub Activity**
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/TheCynicalTeam/cynicalteam_repo/pull/1) in [TheCynicalTeam/cynicalteam_repo](https://github.com/TheCynicalTeam/cynicalteam_repo)
