@@ -53,7 +53,7 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#168](https://github.com/wakatime/vscode-wakatime/issues/168) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
-2. ❗️ Opened issue [#168](https://github.com/wakatime/vscode-wakatime/issues/168) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
+2. 🗣 Commented on [#168](https://github.com/wakatime/vscode-wakatime/issues/168) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
 <!--END_SECTION:activity-->
 
 ---
