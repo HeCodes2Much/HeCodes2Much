@@ -53,8 +53,8 @@
 **Recent GitHub Activity :zap:**
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#335](https://github.com/conformal/spectrwm/issues/335) in [conformal/spectrwm](https://github.com/conformal/spectrwm)
-2. 🗣 Commented on [#168](https://github.com/wakatime/vscode-wakatime/issues/168) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
+1. ❗️ Closed issue [#167](https://github.com/aristocratos/bpytop/issues/167) in [aristocratos/bpytop](https://github.com/aristocratos/bpytop)
+2. 🗣 Commented on [#167](https://github.com/aristocratos/bpytop/issues/167) in [aristocratos/bpytop](https://github.com/aristocratos/bpytop)
 <!--END_SECTION:activity-->
 
 ---
