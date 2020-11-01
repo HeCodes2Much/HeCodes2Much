@@ -53,8 +53,8 @@
 **Recent GitHub Activity :zap:**
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#168](https://github.com/aristocratos/bpytop/pull/168) in [aristocratos/bpytop](https://github.com/aristocratos/bpytop)
-2. ❗️ Closed issue [#167](https://github.com/aristocratos/bpytop/issues/167) in [aristocratos/bpytop](https://github.com/aristocratos/bpytop)
+1. ❗️ Closed issue [#1](https://github.com/TheCynicalTeam/i3session/issues/1) in [TheCynicalTeam/i3session](https://github.com/TheCynicalTeam/i3session)
+2. 🗣 Commented on [#1](https://github.com/TheCynicalTeam/i3session/issues/1) in [TheCynicalTeam/i3session](https://github.com/TheCynicalTeam/i3session)
 <!--END_SECTION:activity-->
 
 ---
