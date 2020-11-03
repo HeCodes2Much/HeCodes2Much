@@ -53,8 +53,8 @@
 **Recent GitHub Activity :zap:**
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/TheCynicalTeam/i3session/issues/1) in [TheCynicalTeam/i3session](https://github.com/TheCynicalTeam/i3session)
-2. ❗️ Closed issue [#1](https://github.com/TheCynicalTeam/i3session/issues/1) in [TheCynicalTeam/i3session](https://github.com/TheCynicalTeam/i3session)
+1. ❗️ Opened issue [#22](https://github.com/RasmusLindroth/i3keys/issues/22) in [RasmusLindroth/i3keys](https://github.com/RasmusLindroth/i3keys)
+2. 🗣 Commented on [#1](https://github.com/TheCynicalTeam/i3session/issues/1) in [TheCynicalTeam/i3session](https://github.com/TheCynicalTeam/i3session)
 <!--END_SECTION:activity-->
 
 ---
