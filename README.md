@@ -53,8 +53,8 @@
 **Recent GitHub Activity :zap:**
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1090](https://github.com/libratbag/libratbag/issues/1090) in [libratbag/libratbag](https://github.com/libratbag/libratbag)
-2. ❗️ Opened issue [#22](https://github.com/RasmusLindroth/i3keys/issues/22) in [RasmusLindroth/i3keys](https://github.com/RasmusLindroth/i3keys)
+1. ❗️ Closed issue [#46](https://github.com/PhantomBot/custom-modules/issues/46) in [PhantomBot/custom-modules](https://github.com/PhantomBot/custom-modules)
+2. 🗣 Commented on [#46](https://github.com/PhantomBot/custom-modules/issues/46) in [PhantomBot/custom-modules](https://github.com/PhantomBot/custom-modules)
 <!--END_SECTION:activity-->
 
 ---
