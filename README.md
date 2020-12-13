@@ -53,7 +53,7 @@
 **Recent GitHub Activity :zap:**
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#46](https://github.com/PhantomBot/custom-modules/issues/46) in [PhantomBot/custom-modules](https://github.com/PhantomBot/custom-modules)
+1. 🎉 Merged PR [#3](https://github.com/TheCynicalTeam/my-rest-api/pull/3) in [TheCynicalTeam/my-rest-api](https://github.com/TheCynicalTeam/my-rest-api)
 2. 🗣 Commented on [#46](https://github.com/PhantomBot/custom-modules/issues/46) in [PhantomBot/custom-modules](https://github.com/PhantomBot/custom-modules)
 <!--END_SECTION:activity-->
 
