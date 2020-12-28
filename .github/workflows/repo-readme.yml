@@ -14,5 +14,5 @@ jobs:
         uses: koj-co/readme-repos-list@master
         with:
           token: ${{ secrets.GH_TOKEN }}
-          query: "Octocat in:readme"
+          query: "GitHub in:readme user:TheCynicalLiger"
           max: 10
