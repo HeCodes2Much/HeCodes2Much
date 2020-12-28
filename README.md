@@ -18,10 +18,7 @@
 <!-- start: readme-repos-list -->
 <!-- This list is auto-generated using koj-co/readme-repos-list -->
 <!-- Do not edit this list manually, your changes will be overwritten -->
-[![TheCynicalTeam/siji](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F44934949%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/TheCynicalTeam/siji)
-[![TheCynicalTeam/i3session](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F44934949%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/TheCynicalTeam/i3session)
-[![TheCynicalTeam/multimonitorlock](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F44934949%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/TheCynicalTeam/multimonitorlock)
-[![TheCynicalTeam/i3-swallow](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F44934949%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/TheCynicalTeam/i3-swallow)
+
 <!-- end: readme-repos-list -->
 
 ---
