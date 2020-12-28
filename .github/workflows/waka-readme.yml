@@ -7,7 +7,7 @@ on:
 
 jobs:
   update-readme:
-    name: Profile Readme Development Stats
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
