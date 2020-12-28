@@ -15,16 +15,9 @@
 
 ### My Repos
 
-<!-- start: readme-repos-list -->
-<!-- This list is auto-generated using koj-co/readme-repos-list -->
-<!-- Do not edit this list manually, your changes will be overwritten -->
-[![jlord/patchwork](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F1305617%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](http://jlord.github.io/patchwork)
-[![dzharii/awesome-typescript](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F36020%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/dzharii/awesome-typescript)
-[![KotlinBy/awesome-kotlin](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F17604656%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://kotlin.link/)
-[![alexpate/awesome-design-systems](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F3749759%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://git.io/design-systems)
-[![521xueweihan/HelloGitHub](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F8255800%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://hellogithub.com/)
-<!-- end: readme-repos-list -->
+<!-- start: TheCynicalLiger -->
 
+<!-- end: TheCynicalLiger -->
 
 ---
 
