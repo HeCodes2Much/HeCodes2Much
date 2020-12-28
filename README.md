@@ -16,18 +16,6 @@
 ### My Repos
 
 <!-- start: readme-repos-list -->
-<!-- This list is auto-generated using koj-co/readme-repos-list -->
-<!-- Do not edit this list manually, your changes will be overwritten -->
-[![TheCynicalTeam/discord-rewrite-bot](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F44934949%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/TheCynicalTeam/discord-rewrite-bot)
-[![TheCynicalTeam/qt-logout](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F44934949%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/TheCynicalTeam/qt-logout)
-[![TheCynicalTeam/qt5-color-widgets](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F44934949%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/TheCynicalTeam/qt5-color-widgets)
-[![TheCynicalTeam/instamenu-schemas](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F44934949%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/TheCynicalTeam/instamenu-schemas)
-[![TheCynicalTeam/siji](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F44934949%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/TheCynicalTeam/siji)
-[![TheCynicalTeam/DotFiles](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F44934949%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/TheCynicalTeam/DotFiles)
-[![TheCynicalTeam/i3session](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F44934949%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/TheCynicalTeam/i3session)
-[![TheCynicalTeam/pyfetch](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F44934949%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/TheCynicalTeam/pyfetch)
-[![TheCynicalTeam/multimonitorlock-gui](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F44934949%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/TheCynicalTeam/multimonitorlock)
-[![TheCynicalTeam/Phantombot-Custom-Scripts](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F44934949%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/TheCynicalTeam/Phantombot-Custom-Scripts)
 <!-- end: readme-repos-list -->
 
 ---
