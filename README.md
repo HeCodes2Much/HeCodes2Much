@@ -16,8 +16,12 @@
 ### My Repo info
 
 <!--START_SECTION:activity-->
+1. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
+2. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
+3. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
+4. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
+5. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
 <!--END_SECTION:activity-->
-
 ---
 
 ### Connect with me:
