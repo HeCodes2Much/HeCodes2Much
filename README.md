@@ -20,6 +20,11 @@
 [<img align="left" alt="TheCynicalLiger | Twitch" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][Twitch]
 [<img align="left" alt="TheCynicalLiger | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[website]: https://github.com/TheCynicalLiger/
+[twitter]: https://twitter.com/TheCynicalLiger
+[twitch]: https://twitch.tv/TheCynicalLiger
+[instagram]: https://instagram.com/TheCynicalLiger
+
 <br />
 <br />
 <br />
@@ -122,7 +127,3 @@ Shell                    1 repo              ██████░░░░░�
 9. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
 10. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
 <!--END_SECTION:activity-->
-[website]: https://github.com/TheCynicalLiger/
-[twitter]: https://twitter.com/TheCynicalLiger
-[twitch]: https://twitch.tv/TheCynicalLiger
-[instagram]: https://instagram.com/TheCynicalLiger
