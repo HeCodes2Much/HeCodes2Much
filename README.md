@@ -119,8 +119,8 @@ Shell                    1 repo              ██████░░░░░�
 1. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
 2. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
 3. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
-4. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
-5. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
+4. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
+5. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
 6. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
 7. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
 8. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
