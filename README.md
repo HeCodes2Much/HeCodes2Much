@@ -52,8 +52,7 @@
 ---
 
 **Recent GitHub Activity :zap:**
-  
-  
+    
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
 2. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
@@ -66,6 +65,9 @@
 9. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
 10. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
 <!--END_SECTION:activity-->
+
+---
+
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
