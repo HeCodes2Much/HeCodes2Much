@@ -6,13 +6,19 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Profile Readme Repos Stats
+  publish:
     runs-on: ubuntu-latest
     steps:
-      - name: Run readme-repos-list
-        uses: koj-co/readme-repos-list@master
+      - uses: actions/checkout@master
         with:
-          token: ${{ secrets.GH_TOKEN }}
-          query: "user:TheCynicalTeam"
-          max: 15
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Create README.md
+        uses: actions-js/profile-readme@master
+        with:
+          username: TheCynicalLiger
+          github_token: ${{ secrets.GH_TOKEN }}
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
