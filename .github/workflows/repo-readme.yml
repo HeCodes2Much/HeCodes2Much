@@ -14,5 +14,5 @@ jobs:
         uses: koj-co/readme-repos-list@master
         with:
           token: ${{ secrets.GH_TOKEN }}
-          query: "user:TheCynicalTeam"
+          query: "user:TheCynicalTeam sort:created"
           max: 10
