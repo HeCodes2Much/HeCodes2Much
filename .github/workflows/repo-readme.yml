@@ -17,4 +17,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           COMMIT_MSG: ':zap: Update README with the recent activity'
-          MAX_LINES: 5
+          MAX_LINES: 10

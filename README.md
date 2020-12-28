@@ -13,17 +13,6 @@
 
 ---
 
-### My Repo info
-
-<!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
-2. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
-3. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
-4. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
-5. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
-<!--END_SECTION:activity-->
----
-
 ### Connect with me:
 
 [<img align="left" alt="TheCynicalLiger | GitHub" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -61,6 +50,13 @@
 ![Chart not found](https://github-readme-stats.vercel.app/api?username=TheCynicalLiger&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=TheCynicalLiger%27s+GitHub+Stats)
 
 ---
+
+**Recent GitHub Activity :zap:**
+  
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/TheCynicalTeam/my-rest-api/pull/3) in [TheCynicalTeam/my-rest-api](https://github.com/TheCynicalTeam/my-rest-api)
+2. 🗣 Commented on [#46](https://github.com/PhantomBot/custom-modules/issues/46) in [PhantomBot/custom-modules](https://github.com/PhantomBot/custom-modules)
+<!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
