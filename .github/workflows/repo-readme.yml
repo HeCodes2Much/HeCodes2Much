@@ -10,7 +10,7 @@ jobs:
     name: Profile Readme Repos Stats
     runs-on: ubuntu-latest
     steps:
-      - name: Run TheCynicalLiger
+      - name: Run readme-repos-list
         uses: koj-co/readme-repos-list@master
         with:
           token: ${{ secrets.GH_TOKEN }}
