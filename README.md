@@ -145,7 +145,7 @@ Shell                    1 repo              ██████░░░░░�
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
 2. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
-3. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
+3. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
 4. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
 5. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
 6. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
