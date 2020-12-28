@@ -6,19 +6,14 @@ on:
   workflow_dispatch:
 
 jobs:
-  publish:
+  build:
     runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+
     steps:
-      - uses: actions/checkout@master
-        with:
-          persist-credentials: false
-          fetch-depth: 0
-      - name: Create README.md
-        uses: actions-js/profile-readme@master
-        with:
-          username: TheCynicalLiger
-          github_token: ${{ secrets.GH_TOKEN }}
-      - name: Commit & Push changes
-        uses: actions-js/push@master
-        with:
-          github_token: ${{ secrets.GH_TOKEN }}
+      - uses: actions/checkout@v2
+      # Pin the version to the latest stable version.
+      # If you want to live on edge, use 'master' branch.
+      - uses: MadeByThePinsHub/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}

@@ -15,8 +15,6 @@
 
 ### My Repo info
 
-<!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
-
 ---
 
 ### Connect with me:

@@ -15,10 +15,8 @@
 
 ### My Repo info
 
-⭐️ 10 📦 TheCynicalTeam/Phantombot-Custom-Scripts
-⭐️ 0  📦 kayosgirl/kayosgirl.github.io
-⭐️ 0  📦 purrfectkitty/purrfectkitty.github.io
-⭐️ 0  📦 TheCynicalLiger/BTTVE4FFZV
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
@@ -112,11 +110,7 @@ JavaScript               1 repo              ██████░░░░░�
 Shell                    1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0%
 
 ```
-
-
-
 <!--END_SECTION:waka-->
-
 
 [website]: https://github.com/TheCynicalLiger/
 [twitter]: https://twitter.com/TheCynicalLiger
