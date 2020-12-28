@@ -1,0 +1,18 @@
+name: GitHub - Repos - Readme
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Profile Readme Repos Stats
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run readme-repos-list
+        uses: koj-co/readme-repos-list@master
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          query: "Octocat in:readme"
+          max: 5
