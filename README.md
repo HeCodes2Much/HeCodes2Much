@@ -52,7 +52,7 @@
 
 **GitHub Stats :zap:**
 
-![Chart not found](https://github-readme-stats.vercel.app/api?username=TheCynicalLiger&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=TheCynicalLiger%27s+GitHub+Stats)
+![Chart not found](https://github-readme-stats.vercel.app/api?username=TheCynicalLiger&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=TheCynicalTeam%27s+GitHub+Stats)
 
 ---
 
