@@ -15,7 +15,10 @@
 
 ### My Repo info
 
-<!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
+⭐️ 10 📦 TheCynicalTeam/Phantombot-Custom-Scripts
+⭐️ 0  📦 kayosgirl/kayosgirl.github.io
+⭐️ 0  📦 purrfectkitty/purrfectkitty.github.io
+⭐️ 0  📦 TheCynicalLiger/BTTVE4FFZV
 
 ---
 
