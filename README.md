@@ -54,10 +54,17 @@
 **Recent GitHub Activity :zap:**
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/TheCynicalTeam/my-rest-api/pull/3) in [TheCynicalTeam/my-rest-api](https://github.com/TheCynicalTeam/my-rest-api)
-2. 🗣 Commented on [#46](https://github.com/PhantomBot/custom-modules/issues/46) in [PhantomBot/custom-modules](https://github.com/PhantomBot/custom-modules)
+1. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
+2. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
+3. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
+4. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
+5. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
+6. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
+7. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
+8. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
+9. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
+10. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
 <!--END_SECTION:activity-->
-
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
