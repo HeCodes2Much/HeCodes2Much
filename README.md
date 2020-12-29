@@ -143,11 +143,11 @@ Shell                    1 repo              ██████░░░░░�
 **Recent GitHub Activity :zap:**
     
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/packer
-2. 🔥 Pushed to TheCynicalTeam/packer
+1. 🔥 Pushed to TheCynicalTeam/instamenu-extra
+2. 🔥 Pushed to TheCynicalTeam/DotFiles
 3. 🔥 Pushed to TheCynicalTeam/packer
-4. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
-5. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
+4. 🔥 Pushed to TheCynicalTeam/packer
+5. 🔥 Pushed to TheCynicalTeam/packer
 6. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
 7. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
 8. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
