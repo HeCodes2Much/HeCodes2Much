@@ -125,14 +125,14 @@ Shell                    1 repo              ██████░░░░░�
 **Recent GitHub Activity :zap:**
     
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
+1. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
 2. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
-3. 🔥 Pushed to TheCynicalTeam/picker
-4. 🔥 Pushed to TheCynicalTeam/instamenu-extra
-5. 🔥 Pushed to TheCynicalTeam/DotFiles
-6. 🔥 Pushed to TheCynicalTeam/packer
+3. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
+4. 🔥 Pushed to TheCynicalTeam/picker
+5. 🔥 Pushed to TheCynicalTeam/instamenu-extra
+6. 🔥 Pushed to TheCynicalTeam/DotFiles
 7. 🔥 Pushed to TheCynicalTeam/packer
 8. 🔥 Pushed to TheCynicalTeam/packer
-9. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
+9. 🔥 Pushed to TheCynicalTeam/packer
 10. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
 <!--END_SECTION:activity-->
