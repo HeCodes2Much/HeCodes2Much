@@ -1,7 +1,7 @@
-### Hi there, I'm Wayne - aka [TheCynicalLiger][website] 👋
+### Hi there, I'm Wayne - aka [TheCynicalTeam][website] 👋
 
-[![Website](https://img.shields.io/website?label=github.com/TheCynicalLiger/&style=for-the-badge&url=https://github.com/TheCynicalLiger/)][website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/TheCynicalLiger?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTheCynicalLiger&screen_name=TheCynicalLiger)
+[![Website](https://img.shields.io/website?label=github.com/TheCynicalTeam/&style=for-the-badge&url=https://github.com/TheCynicalTeam/)][website]
+[![Twitter Follow](https://img.shields.io/twitter/follow/TheCynicalTeam?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTheCynicalTeam&screen_name=TheCynicalTeam)
 ![Code Time](https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/192?logoColor=white%26project=%26recentMS=0%26showProject=true)
 
 ### I'm a Boyfriend, Developer, and Teacher!!
@@ -15,12 +15,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="TheCynicalLiger | GitHub" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="TheCynicalLiger | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="TheCynicalLiger | Twitch" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][Twitch]
-[<img align="left" alt="TheCynicalLiger | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="TheCynicalTeam | GitHub" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="TheCynicalTeam | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="TheCynicalTeam | Twitch" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][Twitch]
+[<img align="left" alt="TheCynicalTeam | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[website]: https://github.com/TheCynicalLiger/
+[website]: https://github.com/TheCynicalTeam/
 [twitter]: https://twitter.com/TheCynicalLiger
 [twitch]: https://twitch.tv/TheCynicalLiger
 [instagram]: https://instagram.com/TheCynicalLiger
@@ -52,7 +52,7 @@
 
 **GitHub Stats :zap:**
 
-![Chart not found](https://github-readme-stats.vercel.app/api?username=TheCynicalLiger&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=TheCynicalTeam%27s+GitHub+Stats)
+![Chart not found](https://github-readme-stats.vercel.app/api?username=TheCynicalTeam&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=TheCynicalTeam%27s+GitHub+Stats)
 
 ---
 
@@ -99,7 +99,7 @@ VS Code                  20 hrs 44 mins      ███████████�
 DotFiles                 6 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   30.92% 
 instamenu-extra          4 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.47% 
 instaMENU                4 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.8% 
-TheCynicalLiger          2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.67% 
+TheCynicalTeam          2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.67% 
 ArchRepo                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.8%
 
 💻 Operating System: 
