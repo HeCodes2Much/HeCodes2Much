@@ -126,14 +126,14 @@ Shell                    1 repo              ██████░░░░░�
 **Recent GitHub Activity :zap:**
     
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
-2. 🔥 Pushed to TheCynicalTeam/DotFiles
-3. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
-4. 🔥 Pushed to TheCynicalTeam/DotFiles
+1. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
+2. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
+3. 🔥 Pushed to TheCynicalTeam/DotFiles
+4. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
 5. 🔥 Pushed to TheCynicalTeam/DotFiles
-6. ❗️ Opened issue [#249](https://github.com/wakatime/wakatime/issues/249) in [wakatime/wakatime](https://github.com/wakatime/wakatime)
-7. 🔥 Pushed to TheCynicalTeam/DotFiles
+6. 🔥 Pushed to TheCynicalTeam/DotFiles
+7. ❗️ Opened issue [#249](https://github.com/wakatime/wakatime/issues/249) in [wakatime/wakatime](https://github.com/wakatime/wakatime)
 8. 🔥 Pushed to TheCynicalTeam/DotFiles
-9. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
-10. 🔥 Pushed to TheCynicalLiger/TheCynicalLiger
+9. 🔥 Pushed to TheCynicalTeam/DotFiles
+10. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
 <!--END_SECTION:activity-->
