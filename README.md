@@ -1,7 +1,7 @@
 ### Hi there, I'm Wayne - aka [TheCynicalTeam][website] 👋
 
 [![Website](https://img.shields.io/website?label=github.com/TheCynicalTeam/&color=orange&style=flat-square&url=https://github.com/TheCynicalTeam/)][website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/TheCynicalTeam?color=1DA1F2&logo=twitter&color=orange&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTheCynicalTeam&screen_name=TheCynicalTeam)
+[![Twitter Follow](https://img.shields.io/twitter/follow/TheCynicalTeam?color=orange&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTheCynicalTeam&screen_name=TheCynicalTeam)
 ![Code Time](https://img.shields.io/endpoint?color=orange&style=flat-square&url=https://codetime-api.datreks.com/badge/192?logoColor=white%26project=%26recentMS=0%26showProject=true)
 
 ### I'm a Boyfriend, Developer, and Teacher!!
