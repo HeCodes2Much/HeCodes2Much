@@ -126,13 +126,13 @@ Shell                    1 repo              ██████░░░░░�
     
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
-2. 🔥 Pushed to TheCynicalTeam/char-map
-3. 🔥 Pushed to TheCynicalTeam/char-map
-4. 🔥 Pushed to TheCynicalTeam/CharacterMap
-5. 🔥 Pushed to TheCynicalTeam/CharacterMap
+2. 🔥 Pushed to TheCynicalTeam/picker
+3. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
+4. 🔥 Pushed to TheCynicalTeam/char-map
+5. 🔥 Pushed to TheCynicalTeam/char-map
 6. 🔥 Pushed to TheCynicalTeam/CharacterMap
-7. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
-8. 🔥 Pushed to TheCynicalTeam/instamenu-extra
-9. 🔥 Pushed to TheCynicalTeam/instamenu
-10. 🔥 Pushed to TheCynicalTeam/DotFiles
+7. 🔥 Pushed to TheCynicalTeam/CharacterMap
+8. 🔥 Pushed to TheCynicalTeam/CharacterMap
+9. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
+10. 🔥 Pushed to TheCynicalTeam/instamenu-extra
 <!--END_SECTION:activity-->
