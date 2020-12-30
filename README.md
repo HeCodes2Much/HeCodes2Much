@@ -128,13 +128,13 @@ C                        1 repo              ███░░░░░░░░�
     
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-2. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
-3. 🔥 Pushed to TheCynicalTeam/picker
-4. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
-5. 🔥 Pushed to TheCynicalTeam/char-map
+2. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+3. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
+4. 🔥 Pushed to TheCynicalTeam/picker
+5. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
 6. 🔥 Pushed to TheCynicalTeam/char-map
-7. 🔥 Pushed to TheCynicalTeam/CharacterMap
+7. 🔥 Pushed to TheCynicalTeam/char-map
 8. 🔥 Pushed to TheCynicalTeam/CharacterMap
 9. 🔥 Pushed to TheCynicalTeam/CharacterMap
-10. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
+10. 🔥 Pushed to TheCynicalTeam/CharacterMap
 <!--END_SECTION:activity-->
