@@ -129,14 +129,14 @@ SCSS                     2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
     
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/wallpapers
-2. 🔥 Pushed to TheCynicalTeam/wallpapers
-3. 🎉 Merged PR [#1](https://github.com/TheCynicalTeam/wallpapers/pull/1) in [TheCynicalTeam/wallpapers](https://github.com/TheCynicalTeam/wallpapers)
-4. 💪 Opened PR [#1](https://github.com/TheCynicalTeam/wallpapers/pull/1) in [TheCynicalTeam/wallpapers](https://github.com/TheCynicalTeam/wallpapers)
-5. 🔥 Pushed to TheCynicalTeam/qt5-color-widgets
-6. 🔥 Pushed to TheCynicalTeam/nerdcommenter
-7. 🔥 Pushed to TheCynicalTeam/DotFiles
-8. ❗️ Opened issue [#179](https://github.com/Xuyuanp/nerdtree-git-plugin/issues/179) in [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin)
-9. 🔥 Pushed to TheCynicalTeam/DotFiles
-10. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+1. 🔥 Pushed to TheCynicalTeam/DotFiles
+2. 🔥 Pushed to TheCynicalTeam/DotFiles
+3. 🔥 Pushed to TheCynicalTeam/DotFiles
+4. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+5. 🔥 Pushed to TheCynicalTeam/Phantombot-Custom-Scripts
+6. 🔥 Pushed to TheCynicalTeam/DotFiles
+7. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+8. 🔥 Pushed to TheCynicalTeam/instamenu-schemas
+9. 🔥 Pushed to TheCynicalTeam/multimonitorlock
+10. 🔥 Pushed to TheCynicalTeam/instamenu-extra
 <!--END_SECTION:activity-->
