@@ -129,14 +129,14 @@ SCSS                     2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
     
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/instamenu-schemas
-2. 🔥 Pushed to TheCynicalTeam/i3-session
-3. 🔥 Pushed to TheCynicalTeam/i3-maim
-4. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-5. 🔥 Pushed to TheCynicalTeam/instamenu-extra
-6. 🔥 Pushed to TheCynicalTeam/instamenu
-7. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
-8. 🔥 Pushed to TheCynicalTeam/discord-rewrite-bot
-9. 🔥 Pushed to TheCynicalTeam/i3_keybinds
-10. 🔥 Pushed to TheCynicalTeam/i3-cheat
+1. 🔥 Pushed to TheCynicalTeam/DotFiles
+2. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+3. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
+4. 🔥 Pushed to TheCynicalTeam/instamenu-schemas
+5. 🔥 Pushed to TheCynicalTeam/i3-session
+6. 🔥 Pushed to TheCynicalTeam/i3-maim
+7. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+8. 🔥 Pushed to TheCynicalTeam/instamenu-extra
+9. 🔥 Pushed to TheCynicalTeam/instamenu
+10. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
 <!--END_SECTION:activity-->
