@@ -129,14 +129,14 @@ SCSS                     2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
     
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/DotFiles
-2. 🔥 Pushed to TheCynicalTeam/cynical.vim
-3. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-4. 🔥 Pushed to TheCynicalTeam/cynical.vim
+1. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+2. 🔥 Pushed to TheCynicalTeam/DotFiles
+3. 🔥 Pushed to TheCynicalTeam/cynical.vim
+4. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
 5. 🔥 Pushed to TheCynicalTeam/cynical.vim
 6. 🔥 Pushed to TheCynicalTeam/cynical.vim
-7. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-8. 🔥 Pushed to TheCynicalTeam/DotFiles
-9. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-10. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
+7. 🔥 Pushed to TheCynicalTeam/cynical.vim
+8. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+9. 🔥 Pushed to TheCynicalTeam/DotFiles
+10. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
 <!--END_SECTION:activity-->
