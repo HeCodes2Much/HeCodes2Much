@@ -129,14 +129,14 @@ SCSS                     2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
     
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/DotFiles
-2. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-3. 🔥 Pushed to TheCynicalTeam/DotFiles
-4. 🔥 Pushed to TheCynicalTeam/cynical.vim
-5. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-6. 🔥 Pushed to TheCynicalTeam/cynical.vim
+1. ❗️ Opened issue [#179](https://github.com/Xuyuanp/nerdtree-git-plugin/issues/179) in [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin)
+2. 🔥 Pushed to TheCynicalTeam/DotFiles
+3. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+4. 🔥 Pushed to TheCynicalTeam/DotFiles
+5. 🔥 Pushed to TheCynicalTeam/cynical.vim
+6. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
 7. 🔥 Pushed to TheCynicalTeam/cynical.vim
 8. 🔥 Pushed to TheCynicalTeam/cynical.vim
-9. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-10. 🔥 Pushed to TheCynicalTeam/DotFiles
+9. 🔥 Pushed to TheCynicalTeam/cynical.vim
+10. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
 <!--END_SECTION:activity-->
