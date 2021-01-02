@@ -112,8 +112,8 @@ class ReadmeGenerator
 
         <img src="#{WORD_CLOUD_URL}" alt="WordCloud" width="100%">
 
-        ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-#{current_words_added}-informational?style=flat-square&labelColor=7D898B)
-        ![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-#{current_contributors.size}-blueviolet?style=flat-square&labelColor=7D898B)
+        ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-#{current_words_added}-informational?style=flat-square)
+        ![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-#{current_contributors.size}-blueviolet?style=flat-square)
 
 
       HTML
