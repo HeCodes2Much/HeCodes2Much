@@ -73,18 +73,14 @@ A new word cloud will be automatically generated when you [add your own word](ht
 
 :star2: Don't like the arrangement of the current word cloud? [Regenerate it](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle) :game_die:
 
-<img src="https://raw.githubusercontent.com/TheCynicalTeam/TheCynicalTeam/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
-
 <div align="center">
 
-  ## What podcast are you currently listening to? :microphone: :headphones: :notes:
+  ## Favourite/Dream Company? :money_with_wings: :star2: :chart_with_upwards_trend:
 
   <img src="https://raw.githubusercontent.com/TheCynicalTeam/TheCynicalTeam/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 
-  ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-8-informational?labelColor=7D898B)
+  ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-4-informational?labelColor=7D898B)
   ![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-1-blueviolet?labelColor=7D898B)
 [![Github Badge](https://img.shields.io/badge/-@TheCynicalTeam-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/TheCynicalTeam)](https://github.com/TheCynicalTeam) 
 
- Check out the [previous word cloud](https://github.com/TheCynicalTeam/TheCynicalTeam/blob/master/previous_clouds/previous_clouds.md#favourite/dream-company-money_with_wings-star2-chart_with_upwards_trend) to see our community's **Favourite/Dream Company? :money_with_wings: :star2: :chart_with_upwards_trend:**</div>
-
- ### Need inspiration for your own README? Check out [How to Stand out on GitHub using Profile READMEs](https://medium.com/better-programming/how-to-stand-out-on-github-with-profile-readmes-dfd2102a3490?source=friends_link&sk=61df9c4b63b329ad95528b8d7c00061f)
+ Check out the [previous word cloud](https://github.com/TheCynicalTeam/TheCynicalTeam/blob/master/previous_clouds/previous_clouds.md#favourite-food-yum-pizza-cookie) to see our community's **Favourite Food? :yum: :pizza: :cookie:**</div>
