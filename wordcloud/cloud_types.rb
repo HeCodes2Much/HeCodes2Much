@@ -2,7 +2,7 @@ module CloudTypes
   CLOUDLABELS = [
     "quarantine",
     "food",
-    "company"
+    "company",
     "github",
   ]
 
