@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love nespresso coffee
 
 ---
@@ -56,89 +56,17 @@
 ---
 
   <!--START_SECTION:waka-->
-**I'm a Night 🦉**
 
-```text
-🌞 Morning    9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.99%
-🌆 Daytime    81 commits     ██████░░░░░░░░░░░░░░░░░░░   26.91%
-🌃 Evening    152 commits    ████████████░░░░░░░░░░░░░   50.5%
-🌙 Night      59 commits     █████░░░░░░░░░░░░░░░░░░░░   19.6%
-
-```
-📅 **I'm Most Productive on Saturday**
-
-```text
-Monday       76 commits     ██████░░░░░░░░░░░░░░░░░░░   25.25%
-Tuesday      19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.31%
-Wednesday    17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.65%
-Thursday     30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.97%
-Friday       52 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.28%
-Saturday     84 commits     ███████░░░░░░░░░░░░░░░░░░   27.91%
-Sunday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.64%
-
-```
-
-
-📊 **This Week I Spent My Time On**
-
-```text
-⌚︎ Time Zone: Europe/London
-
-💬 Programming Languages:
-Other                    20 hrs 1 min        ████████████░░░░░░░░░░░░░   47.56%
-VimL                     6 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.8%
-Bash                     5 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.89%
-Markdown                 3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.36%
-Python                   1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.47%
-
-🔥 Editors:
-VS Code                  38 hrs 46 mins      ███████████████████████░░   92.15%
-Vim                      3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.77%
-Fish                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
-
-🐱‍💻 Projects:
-DotFiles                 17 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   42.7%
-instamenu-extra          7 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.9%
-instaMENU                5 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.57%
-TheCynicalLiger          2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.24%
-ArchRepo                 2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.01%
-
-💻 Operating System:
-Linux                    42 hrs 5 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Shell**
-
-```text
-Shell                    11 repos            █████████░░░░░░░░░░░░░░░░   36.67%
-Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0%
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-SCSS                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-
-```
-
-
-
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
   ---
 
   **Recent GitHub Activity :zap:**
 
   <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-2. ❗️ Closed issue [#22](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/22) in [TheCynicalTeam/TheCynicalTeam](https://github.com/TheCynicalTeam/TheCynicalTeam)
-3. ❗️ Opened issue [#22](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/22) in [TheCynicalTeam/TheCynicalTeam](https://github.com/TheCynicalTeam/TheCynicalTeam)
-4. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-5. 🗣 Commented on [#21](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/21) in [TheCynicalTeam/TheCynicalTeam](https://github.com/TheCynicalTeam/TheCynicalTeam)
-6. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-7. 🎉 Merged PR [#21](https://github.com/TheCynicalTeam/TheCynicalTeam/pull/21) in [TheCynicalTeam/TheCynicalTeam](https://github.com/TheCynicalTeam/TheCynicalTeam)
-8. 💪 Opened PR [#21](https://github.com/TheCynicalTeam/TheCynicalTeam/pull/21) in [TheCynicalTeam/TheCynicalTeam](https://github.com/TheCynicalTeam/TheCynicalTeam)
-9. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-10. ❗️ Closed issue [#20](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/20) in [TheCynicalTeam/TheCynicalTeam](https://github.com/TheCynicalTeam/TheCynicalTeam)
-<!--END_SECTION:activity-->
+
+  <!--END_SECTION:activity-->
+
 ---
 
 A new word cloud will be automatically generated when you [add your own word](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E). The prompt will change frequently, so be sure to come back and check it out :relaxed:
@@ -151,10 +79,10 @@ A new word cloud will be automatically generated when you [add your own word](ht
 
   <img src="https://raw.githubusercontent.com/TheCynicalTeam/TheCynicalTeam/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 
-  ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-8-informational?labelColor=7D898B)
-  ![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-1-blueviolet?labelColor=7D898B)
+  ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-9-informational?style=flat-square&labelColor=7D898B)
+  ![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-1-blueviolet?style=flat-square&labelColor=7D898B)
 
 
-[![Github Badge](https://img.shields.io/badge/-@TheCynicalTeam-24292e?style=flat-square&logo=Github&logoColor=white&link=https://github.com/TheCynicalTeam)](https://github.com/TheCynicalTeam)
+[![Github Badge](https://img.shields.io/badge/-@TheCynicalTeam-24292e?style=flat-square&logo=Github&logoColor=white&link=https://github.com/TheCynicalTeam)](https://github.com/TheCynicalTeam) 
 
  Check out the [previous word cloud](https://github.com/TheCynicalTeam/TheCynicalTeam/blob/master/previous_clouds/previous_clouds.md#favourite-food-yum-pizza-cookie) to see our community's **Favourite Food? :yum: :pizza: :cookie:**</div>
