@@ -2,7 +2,7 @@ name: GitHub - Waka - Readme
 
 on:
   issues:
-    types: [opened]
+    types: [closed]
   schedule:
     - cron: '*/15 * * * *'
   workflow_dispatch:

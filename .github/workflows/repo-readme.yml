@@ -2,7 +2,7 @@ name: GitHub - Repos - Readme
 
 on:
   issues:
-    types: [opened]
+    types: [closed]
   schedule:
     - cron: '*/15 * * * *'
   workflow_dispatch:
@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: DeKal/github-activity-readme@master
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
