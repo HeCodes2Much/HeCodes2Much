@@ -106,8 +106,6 @@ class ReadmeGenerator
 
       :star2: Don't like the arrangement of the current word cloud? [Regenerate it](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle) :game_die:
 
-      <img src="https://raw.githubusercontent.com/TheCynicalTeam/TheCynicalTeam/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
-
       <div align="center">
 
         ## #{CloudTypes::CLOUDPROMPTS.last}
@@ -125,8 +123,6 @@ class ReadmeGenerator
         markdown.concat("\n\n Check out the [previous word cloud](#{previous_cloud_url}) to see our community's **#{CloudTypes::CLOUDPROMPTS[-2]}**")
 
         markdown.concat("</div>")
-
-        markdown.concat("\n\n ### Need inspiration for your own README? Check out [How to Stand out on GitHub using Profile READMEs](https://medium.com/better-programming/how-to-stand-out-on-github-with-profile-readmes-dfd2102a3490?source=friends_link&sk=61df9c4b63b329ad95528b8d7c00061f)")
 
   end
 
