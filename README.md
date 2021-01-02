@@ -134,14 +134,14 @@ SCSS                     2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/trialuser02/qt6ct/pull/2) in [trialuser02/qt6ct](https://github.com/trialuser02/qt6ct)
-2. 💪 Opened PR [#1](https://github.com/trialuser02/qt6gtk2/pull/1) in [trialuser02/qt6gtk2](https://github.com/trialuser02/qt6gtk2)
-3. 🔥 Pushed to TheCynicalTeam/qt6ct
-4. 🔥 Pushed to TheCynicalTeam/qt6gtk2
-5. 🗣 Commented on [#1](https://github.com/trialuser02/qt6ct/issues/1) in [trialuser02/qt6ct](https://github.com/trialuser02/qt6ct)
-6. 🗣 Commented on [#1](https://github.com/trialuser02/qt6ct/issues/1) in [trialuser02/qt6ct](https://github.com/trialuser02/qt6ct)
-7. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
-8. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
-9. 🔥 Pushed to TheCynicalTeam/DotFiles
+1. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+2. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+3. 🗣 Commented on [#147](https://github.com/FedoraQt/adwaita-qt/issues/147) in [FedoraQt/adwaita-qt](https://github.com/FedoraQt/adwaita-qt)
+4. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+5. ❗️ Opened issue [#524](https://github.com/JessicaLim8/JessicaLim8/issues/524) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+6. 💪 Opened PR [#2](https://github.com/trialuser02/qt6ct/pull/2) in [trialuser02/qt6ct](https://github.com/trialuser02/qt6ct)
+7. 💪 Opened PR [#1](https://github.com/trialuser02/qt6gtk2/pull/1) in [trialuser02/qt6gtk2](https://github.com/trialuser02/qt6gtk2)
+8. 🔥 Pushed to TheCynicalTeam/qt6ct
+9. 🔥 Pushed to TheCynicalTeam/qt6gtk2
 10. 🗣 Commented on [#1](https://github.com/trialuser02/qt6ct/issues/1) in [trialuser02/qt6ct](https://github.com/trialuser02/qt6ct)
 <!--END_SECTION:activity-->
