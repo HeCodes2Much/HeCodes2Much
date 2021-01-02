@@ -12,13 +12,13 @@ class Runner
   PERSONAL_REGEX = /`\w[\w]+`/
   ADDWORD = 'add'
   SHUFFLECLOUD = 'shuffle'
-  USER = 'JessicaLim8'
+  USER = 'TheCynicalTeam'
 
   def initialize(
     github_token:,
     issue_number:,
     issue_title:,
-    repository: "JessicaLim8/JessicaLim8",
+    repository: "TheCynicalTeam/TheCynicalTeam",
     user:,
     development: false
   )

@@ -5,7 +5,7 @@ class ReadmeGenerator
   ADDWORD = 'add'
   SHUFFLECLOUD = 'shuffle'
   INITIAL_COUNT = 3
-  USER = "JessicaLim8"
+  USER = "TheCynicalTeam"
 
   def initialize(octokit:)
     @octokit = octokit

@@ -52,7 +52,7 @@ class CloudScrollGenerator
   end
 
   def previous_cloud_url
-    "https://github.com/JessicaLim8/JessicaLim8/blob/master/previous_clouds/#{CloudTypes::CLOUDLABELS[-2]}_cloud#{CloudTypes::CLOUDLABELS.size - 1}.png"
+    "https://github.com/TheCynicalTeam/TheCynicalTeam/blob/master/previous_clouds/#{CloudTypes::CLOUDLABELS[-2]}_cloud#{CloudTypes::CLOUDLABELS.size - 1}.png"
   end
 
   attr_reader :octokit
