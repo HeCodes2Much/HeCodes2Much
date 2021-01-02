@@ -1,6 +1,8 @@
 name: GitHub - Waka - Readme
 
 on:
+  issues:
+    types: [closed]
   schedule:
     - cron: '*/15 * * * *'
   workflow_dispatch:
