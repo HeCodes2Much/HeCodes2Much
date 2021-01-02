@@ -129,10 +129,10 @@ SCSS                     2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
     
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/qt-logout
-2. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-3. 🗣 Commented on [#249](https://github.com/wakatime/wakatime/issues/249) in [wakatime/wakatime](https://github.com/wakatime/wakatime)
-4. 🔥 Pushed to TheCynicalTeam/DotFiles
+1. 🔥 Pushed to TheCynicalTeam/multimonitorlock-gui
+2. 🔥 Pushed to TheCynicalTeam/qt-logout
+3. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+4. 🗣 Commented on [#249](https://github.com/wakatime/wakatime/issues/249) in [wakatime/wakatime](https://github.com/wakatime/wakatime)
 5. 🔥 Pushed to TheCynicalTeam/DotFiles
 6. 🔥 Pushed to TheCynicalTeam/DotFiles
 7. 🔥 Pushed to TheCynicalTeam/DotFiles
