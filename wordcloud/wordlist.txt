@@ -4,3 +4,4 @@ Arch Linux
 insert-word
 Github
 Youtube
+i3wm
