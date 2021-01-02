@@ -37,7 +37,7 @@ class CloudScrollGenerator
     HTML
 
     current_contributors.each do |username, count|
-      markdown.concat("[![Github Badge](https://img.shields.io/badge/-@#{format_username(username)}-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/#{username})](https://github.com/#{username}) ")
+      markdown.concat("[![Github Badge](https://img.shields.io/badge/-@#{format_username(username)}-24292e?style=flat-square&logo=Github&logoColor=white&link=https://github.com/#{username})](https://github.com/#{username}) ")
     end
 
     markdown.concat("<br/> <br/>  Completed #{DateTime.now.strftime('%B %-d %Y')}")

@@ -112,16 +112,16 @@ class ReadmeGenerator
 
         <img src="#{WORD_CLOUD_URL}" alt="WordCloud" width="100%">
 
-        ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-#{current_words_added}-informational?labelColor=7D898B)
-        ![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-#{current_contributors.size}-blueviolet?labelColor=7D898B)
+        ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-#{current_words_added}-informational?style=flat-square&labelColor=7D898B)
+        ![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-#{current_contributors.size}-blueviolet?style=flat-square&labelColor=7D898B)
 
 
       HTML
 
-      # TODO: [![Github Badge](https://img.shields.io/badge/-@username-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/username)](https://github.com/username)
+      # TODO: [![Github Badge](https://img.shields.io/badge/-@username-24292e?style=flat-square&logo=Github&logoColor=white&link=https://github.com/username)](https://github.com/username)
 
       current_contributors.each do |username, count|
-        markdown.concat("[![Github Badge](https://img.shields.io/badge/-@#{format_username(username)}-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/#{username})](https://github.com/#{username}) ")
+        markdown.concat("[![Github Badge](https://img.shields.io/badge/-@#{format_username(username)}-24292e?style=flat-square&logo=Github&logoColor=white&link=https://github.com/#{username})](https://github.com/#{username}) ")
       end
 
       markdown.concat("\n\n Check out the [previous word cloud](#{previous_cloud_url}) to see our community's **#{CloudTypes::CLOUDPROMPTS[-2]}**")
