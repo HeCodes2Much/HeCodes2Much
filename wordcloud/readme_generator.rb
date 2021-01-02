@@ -88,6 +88,20 @@ class ReadmeGenerator
 
       ---
 
+        <!--START_SECTION:waka-->
+
+        <!--END_SECTION:waka-->
+
+        ---
+
+        **Recent GitHub Activity :zap:**
+
+        <!--START_SECTION:activity-->
+
+        <!--END_SECTION:activity-->
+
+      ---
+
       A new word cloud will be automatically generated when you [add your own word](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E). The prompt will change frequently, so be sure to come back and check it out :relaxed:
 
       :star2: Don't like the arrangement of the current word cloud? [Regenerate it](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle) :game_die:
@@ -113,25 +127,6 @@ class ReadmeGenerator
         markdown.concat("</div>")
 
         markdown.concat("\n\n ### Need inspiration for your own README? Check out [How to Stand out on GitHub using Profile READMEs](https://medium.com/better-programming/how-to-stand-out-on-github-with-profile-readmes-dfd2102a3490?source=friends_link&sk=61df9c4b63b329ad95528b8d7c00061f)")
-
-      markdown =+
-      <<~HTML
-
-        ---
-
-        <!--START_SECTION:waka-->
-
-        <!--END_SECTION:waka-->
-
-        ---
-
-        **Recent GitHub Activity :zap:**
-
-        <!--START_SECTION:activity-->
-
-        <!--END_SECTION:activity-->
-
-      HTML
 
   end
 
