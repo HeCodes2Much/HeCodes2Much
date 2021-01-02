@@ -29,7 +29,8 @@ class ReadmeGenerator
       end
     end
 
-    markdown = <<~HTML
+    markdown =
+    <<~HTML
       ### Hi there, I'm Wayne - aka [TheCynicalTeam][website] 👋
 
       [![Website](https://img.shields.io/website?label=github.com/TheCynicalTeam/&color=orange&style=flat-square&url=https://github.com/TheCynicalTeam/)][website]
@@ -93,93 +94,42 @@ class ReadmeGenerator
 
       <img src="https://raw.githubusercontent.com/TheCynicalTeam/TheCynicalTeam/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 
-      ---
+      <div align="center">
 
-      <!--START_SECTION:waka-->
-      **I'm a Night 🦉**
+        ## #{CloudTypes::CLOUDPROMPTS.last}
 
-      ```text
-      🌞 Morning    9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.99%
-      🌆 Daytime    53 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.61%
-      🌃 Evening    180 commits    ███████████████░░░░░░░░░░   59.8%
-      🌙 Night      59 commits     █████░░░░░░░░░░░░░░░░░░░░   19.6%
+        <img src="#{WORD_CLOUD_URL}" alt="WordCloud" width="100%">
 
-      ```
-      📅 **I'm Most Productive on Monday**
+        ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-#{current_words_added}-informational?labelColor=7D898B)
+        ![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-#{current_contributors.size}-blueviolet?labelColor=7D898B)
+      HTML
 
-      ```text
-      Monday       76 commits     ██████░░░░░░░░░░░░░░░░░░░   25.25%
-      Tuesday      19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.31%
-      Wednesday    17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.65%
-      Thursday     58 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.27%
-      Friday       52 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.28%
-      Saturday     56 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.6%
-      Sunday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.64%
+        current_contributors.each do |username, count|
+          markdown.concat("[![Github Badge](https://img.shields.io/badge/-@#{format_username(username)}-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/#{username})](https://github.com/#{username}) ")
+        end
 
-      ```
+        markdown.concat("\n\n Check out the [previous word cloud](#{previous_cloud_url}) to see our community's **#{CloudTypes::CLOUDPROMPTS[-2]}**")
 
+        markdown.concat("</div>")
 
-      📊 **This Week I Spent My Time On**
+        markdown.concat("\n\n ### Need inspiration for your own README? Check out [How to Stand out on GitHub using Profile READMEs](https://medium.com/better-programming/how-to-stand-out-on-github-with-profile-readmes-dfd2102a3490?source=friends_link&sk=61df9c4b63b329ad95528b8d7c00061f)")
+      <<~HTML
 
-      ```text
-      ⌚︎ Time Zone: Europe/London
+        ---
 
-      💬 Programming Languages:
-      Other                    20 hrs 1 min        ████████████░░░░░░░░░░░░░   47.56%
-      VimL                     6 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.8%
-      Bash                     5 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.89%
-      Markdown                 3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.36%
-      Python                   1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.47%
+        <!--START_SECTION:waka-->
 
-      🔥 Editors:
-      VS Code                  38 hrs 46 mins      ███████████████████████░░   92.15%
-      Vim                      3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.77%
-      Fish                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+        <!--END_SECTION:waka-->
 
-      🐱‍💻 Projects:
-      DotFiles                 17 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   42.7%
-      instamenu-extra          7 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.9%
-      instaMENU                5 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.57%
-      TheCynicalLiger          2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.24%
-      ArchRepo                 2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.01%
+        ---
 
-      💻 Operating System:
-      Linux                    42 hrs 5 mins       █████████████████████████   100.0%
+        **Recent GitHub Activity :zap:**
 
-      ```
+        <!--START_SECTION:activity-->
 
-      **I Mostly Code in Shell**
+        <!--END_SECTION:activity-->
 
-      ```text
-      Shell                    12 repos            ██████████░░░░░░░░░░░░░░░   40.0%
-      Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0%
-      JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
-      CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-      SCSS                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-
-      ```
-
-      <!--END_SECTION:waka-->
-
-      ---
-
-      **Recent GitHub Activity :zap:**
-
-      <!--START_SECTION:activity-->
-      1. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-      2. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-      3. 🗣 Commented on [#147](https://github.com/FedoraQt/adwaita-qt/issues/147) in [FedoraQt/adwaita-qt](https://github.com/FedoraQt/adwaita-qt)
-      4. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-      5. ❗️ Opened issue [#524](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/524) in [TheCynicalTeam/TheCynicalTeam](https://github.com/TheCynicalTeam/TheCynicalTeam)
-      6. 💪 Opened PR [#2](https://github.com/trialuser02/qt6ct/pull/2) in [trialuser02/qt6ct](https://github.com/trialuser02/qt6ct)
-      7. 💪 Opened PR [#1](https://github.com/trialuser02/qt6gtk2/pull/1) in [trialuser02/qt6gtk2](https://github.com/trialuser02/qt6gtk2)
-      8. 🔥 Pushed to TheCynicalTeam/qt6ct
-      9. 🔥 Pushed to TheCynicalTeam/qt6gtk2
-      10. 🗣 Commented on [#1](https://github.com/trialuser02/qt6ct/issues/1) in [trialuser02/qt6ct](https://github.com/trialuser02/qt6ct)
-      <!--END_SECTION:activity-->
-
-
-    HTML
+      HTML
 
   end
 
