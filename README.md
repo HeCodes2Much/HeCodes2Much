@@ -55,92 +55,28 @@
 
 ---
 
-A new word cloud will be automatically generated when you [add your own word](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E). The prompt will change frequently, so be sure to come back and check it out :relaxed:
+A new word cloud will be automatically generated when you [add your own word](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E). The prompt will change frequently, so be sure to come back and check it out 😌
 
-:star2: Don't like the arrangement of the current word cloud? [Regenerate it](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle) :game_die:
+🌟 Don't like the arrangement of the current word cloud? [Regenerate it](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle) 🎲
 
 
-**Favourite Github Repo? :lock: :cop: :blue_heart:**
+**Favourite Github Repo? 🔒 👮 💙**
 
 <img src="https://raw.githubusercontent.com/TheCynicalTeam/TheCynicalTeam/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 
-![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-15-informational?style=flat-square)
+![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-16-informational?style=flat-square)
 ![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-1-blueviolet?style=flat-square)
 
 
 [![Github Badge](https://img.shields.io/badge/-@TheCynicalTeam-24292e?style=flat-square&logo=Github&logoColor=white&link=https://github.com/TheCynicalTeam)](https://github.com/TheCynicalTeam) 
 
- Check out the [previous word cloud](https://github.com/TheCynicalTeam/TheCynicalTeam/blob/master/previous_clouds/previous_clouds.md#favourite-food-yum-pizza-cookie) to see our community's **Favourite Food? :yum: :pizza: :cookie:**
+ Check out the [previous word cloud](https://github.com/TheCynicalTeam/TheCynicalTeam/blob/master/previous_clouds/previous_clouds.md#favourite-food-😋-🍕-🍪) to see our community's **Favourite Food? 😋 🍕 🍪**
 
   ---
 
   <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning    21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
-🌆 Daytime    87 commits     ███████░░░░░░░░░░░░░░░░░░   28.9% 
-🌃 Evening    134 commits    ███████████░░░░░░░░░░░░░░   44.52% 
-🌙 Night      59 commits     █████░░░░░░░░░░░░░░░░░░░░   19.6%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       76 commits     ██████░░░░░░░░░░░░░░░░░░░   25.25% 
-Tuesday      19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.31% 
-Wednesday    17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.65% 
-Thursday     15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.98% 
-Friday       52 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-Saturday     86 commits     ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Sunday       36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.96%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-Other                    21 hrs 24 mins      ██████████░░░░░░░░░░░░░░░   43.49% 
-Bash                     6 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.13% 
-VimL                     6 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
-Markdown                 3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.78% 
-Python                   2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.22%
-
-🔥 Editors: 
-VS Code                  45 hrs 23 mins      ███████████████████████░░   92.2% 
-Vim                      3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.73% 
-Fish                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
-
-🐱‍💻 Projects: 
-DotFiles                 19 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   38.86% 
-instamenu-extra          7 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.3% 
-instaMENU                5 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.75% 
-ArchRepo                 3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.29% 
-TheCynicalTeam           3 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.18%
-
-💻 Operating System: 
-Linux                    49 hrs 13 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Shell** 
-
-```text
-Shell                    11 repos            █████████░░░░░░░░░░░░░░░░   36.67% 
-Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-SCSS                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-
-```
-
-
-
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
   ---
 
