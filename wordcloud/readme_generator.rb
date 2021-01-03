@@ -115,23 +115,21 @@ class ReadmeGenerator
       markdown.concat("</div>")
 
       markdown.concat("
-      <<~HTML
-        ---
+      ---
 
-        <!--START_SECTION:waka-->
+      <!--START_SECTION:waka-->
 
-        <!--END_SECTION:waka-->
+      <!--END_SECTION:waka-->
 
-        ---
+      ---
 
-        **Recent GitHub Activity :zap:**
+      **Recent GitHub Activity :zap:**
 
-        <!--START_SECTION:activity-->
+      <!--START_SECTION:activity-->
 
-        <!--END_SECTION:activity-->
+      <!--END_SECTION:activity-->
 
-        ---
-      HTML")
+      ---")
   end
 
   private
