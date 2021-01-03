@@ -147,14 +147,14 @@ SCSS                     2 repos             █░░░░░░░░░░�
   **Recent GitHub Activity :zap:**
 
   <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
+1. 🔥 Pushed to TheCynicalTeam/DotFiles
 2. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
 3. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
-4. 🔥 Pushed to TheCynicalTeam/instamenu
-5. 🔥 Pushed to TheCynicalTeam/instamenu-extra
-6. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-7. ❗️ Closed issue [#32](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/32) in [TheCynicalTeam/TheCynicalTeam](https://github.com/TheCynicalTeam/TheCynicalTeam)
-8. ❗️ Opened issue [#32](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/32) in [TheCynicalTeam/TheCynicalTeam](https://github.com/TheCynicalTeam/TheCynicalTeam)
-9. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+4. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
+5. 🔥 Pushed to TheCynicalTeam/instamenu
+6. 🔥 Pushed to TheCynicalTeam/instamenu-extra
+7. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+8. ❗️ Closed issue [#32](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/32) in [TheCynicalTeam/TheCynicalTeam](https://github.com/TheCynicalTeam/TheCynicalTeam)
+9. ❗️ Opened issue [#32](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/32) in [TheCynicalTeam/TheCynicalTeam](https://github.com/TheCynicalTeam/TheCynicalTeam)
 10. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
 <!--END_SECTION:activity-->
