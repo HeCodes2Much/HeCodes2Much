@@ -88,9 +88,9 @@ class ReadmeGenerator
 
       ---
 
-      A new word cloud will be automatically generated when you [add your own word](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E). The prompt will change frequently, so be sure to come back and check it out :relaxed:
+      A new word cloud will be automatically generated when you [add your own word](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E). The prompt will change frequently, so be sure to come back and check it out 😌
 
-      :star2: Don't like the arrangement of the current word cloud? [Regenerate it](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle) :game_die:
+      🌟 Don't like the arrangement of the current word cloud? [Regenerate it](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle) 🎲
 
 
       **#{CloudTypes::CLOUDPROMPTS.last}**
