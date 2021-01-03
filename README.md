@@ -72,7 +72,8 @@ A new word cloud will be automatically generated when you [add your own word](ht
 [![Github Badge](https://img.shields.io/badge/-@TheCynicalTeam-24292e?style=flat-square&logo=Github&logoColor=white&link=https://github.com/TheCynicalTeam)](https://github.com/TheCynicalTeam) 
 
  Check out the [previous word cloud](https://github.com/TheCynicalTeam/TheCynicalTeam/blob/master/previous_clouds/previous_clouds.md#favourite-food-yum-pizza-cookie) to see our community's **Favourite Food? :yum: :pizza: :cookie:**</div>
-  ---
+ 
+---
 
   <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -136,18 +137,17 @@ JavaScript               3 repos             ██░░░░░░░░░�
 CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
 SCSS                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
-```
-
+``
 
 
 <!--END_SECTION:waka-->
 
-  ---
+---
 
-  **Recent GitHub Activity :zap:**
+**Recent GitHub Activity :zap:**
 
-  <!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
 
-  <!--END_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-  ---
+---
