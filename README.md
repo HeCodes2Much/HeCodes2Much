@@ -147,14 +147,14 @@ SCSS                     2 repos             █░░░░░░░░░░�
   **Recent GitHub Activity :zap:**
 
   <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/DotFiles
+1. 🔥 Pushed to TheCynicalTeam/instamenu-extra
 2. 🔥 Pushed to TheCynicalTeam/DotFiles
-3. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
-4. 🔥 Pushed to TheCynicalTeam/DotFiles
+3. 🔥 Pushed to TheCynicalTeam/DotFiles
+4. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
 5. 🔥 Pushed to TheCynicalTeam/DotFiles
-6. 🔥 Pushed to TheCynicalTeam/instamenu-extra
-7. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
-8. 🔥 Pushed to TheCynicalTeam/DotFiles
+6. 🔥 Pushed to TheCynicalTeam/DotFiles
+7. 🔥 Pushed to TheCynicalTeam/instamenu-extra
+8. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
 9. 🔥 Pushed to TheCynicalTeam/DotFiles
-10. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+10. 🔥 Pushed to TheCynicalTeam/DotFiles
 <!--END_SECTION:activity-->
