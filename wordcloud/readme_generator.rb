@@ -31,8 +31,6 @@ class ReadmeGenerator
 
     markdown =
     <<~HTML
-    HTML
-    markdown.concat("
       ### Hi there, I'm Wayne - aka [TheCynicalTeam][website] 👋
 
       [![Website](https://img.shields.io/website?label=github.com/TheCynicalTeam/&color=orange&style=flat-square&url=https://github.com/TheCynicalTeam/)][website]
@@ -101,6 +99,7 @@ class ReadmeGenerator
 
       ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-#{current_words_added}-informational?style=flat-square)
       ![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-#{current_contributors.size}-blueviolet?style=flat-square)
+
 
       HTML
 
