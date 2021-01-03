@@ -148,13 +148,13 @@ SCSS                     2 repos             █░░░░░░░░░░�
 
   <!--START_SECTION:activity-->
 1. 🔥 Pushed to TheCynicalTeam/DotFiles
-2. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-3. 🔥 Pushed to TheCynicalTeam/DotFiles
+2. 🔥 Pushed to TheCynicalTeam/DotFiles
+3. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
 4. 🔥 Pushed to TheCynicalTeam/DotFiles
-5. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
+5. 🔥 Pushed to TheCynicalTeam/DotFiles
 6. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
 7. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
-8. 🔥 Pushed to TheCynicalTeam/instamenu
-9. 🔥 Pushed to TheCynicalTeam/instamenu-extra
-10. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+8. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
+9. 🔥 Pushed to TheCynicalTeam/instamenu
+10. 🔥 Pushed to TheCynicalTeam/instamenu-extra
 <!--END_SECTION:activity-->
