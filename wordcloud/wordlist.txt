@@ -3,3 +3,4 @@ InstaMENU
 i3WM
 qt6gtk2
 qt6ct
+multimonitorlock

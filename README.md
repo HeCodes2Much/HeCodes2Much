@@ -65,89 +65,25 @@ A new word cloud will be automatically generated when you [add your own word](ht
 
   <img src="https://raw.githubusercontent.com/TheCynicalTeam/TheCynicalTeam/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 
-  ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-12-informational?style=flat-square)
+  ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-13-informational?style=flat-square)
   ![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-1-blueviolet?style=flat-square)
 
 
 [![Github Badge](https://img.shields.io/badge/-@TheCynicalTeam-24292e?style=flat-square&logo=Github&logoColor=white&link=https://github.com/TheCynicalTeam)](https://github.com/TheCynicalTeam) 
 
  Check out the [previous word cloud](https://github.com/TheCynicalTeam/TheCynicalTeam/blob/master/previous_clouds/previous_clouds.md#favourite-food-yum-pizza-cookie) to see our community's **Favourite Food? :yum: :pizza: :cookie:**</div>
-      ---
+  ---
 
-      <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+  <!--START_SECTION:waka-->
 
-```text
-🌞 Morning    12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.99% 
-🌆 Daytime    84 commits     ███████░░░░░░░░░░░░░░░░░░   27.91% 
-🌃 Evening    146 commits    ████████████░░░░░░░░░░░░░   48.5% 
-🌙 Night      59 commits     █████░░░░░░░░░░░░░░░░░░░░   19.6%
+  <!--END_SECTION:waka-->
 
-```
-📅 **I'm Most Productive on Saturday** 
+  ---
 
-```text
-Monday       76 commits     ██████░░░░░░░░░░░░░░░░░░░   25.25% 
-Tuesday      19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.31% 
-Wednesday    17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.65% 
-Thursday     24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.97% 
-Friday       52 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-Saturday     87 commits     ███████░░░░░░░░░░░░░░░░░░   28.9% 
-Sunday       26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
+  **Recent GitHub Activity :zap:**
 
-```
+  <!--START_SECTION:activity-->
 
+  <!--END_SECTION:activity-->
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-Other                    21 hrs 24 mins      ██████████░░░░░░░░░░░░░░░   43.49% 
-Bash                     6 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.13% 
-VimL                     6 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
-Markdown                 3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.78% 
-Python                   2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.22%
-
-🔥 Editors: 
-VS Code                  45 hrs 23 mins      ███████████████████████░░   92.2% 
-Vim                      3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.73% 
-Fish                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
-
-🐱‍💻 Projects: 
-DotFiles                 19 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   38.86% 
-instamenu-extra          7 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.3% 
-instaMENU                5 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.75% 
-ArchRepo                 3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.29% 
-TheCynicalTeam           3 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.18%
-
-💻 Operating System: 
-Linux                    49 hrs 13 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Shell** 
-
-```text
-Shell                    11 repos            █████████░░░░░░░░░░░░░░░░   36.67% 
-Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-SCSS                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-
-```
-
-
-
-<!--END_SECTION:waka-->
-
-      ---
-
-      **Recent GitHub Activity :zap:**
-
-      <!--START_SECTION:activity-->
-
-      <!--END_SECTION:activity-->
-
-      ---
+  ---
