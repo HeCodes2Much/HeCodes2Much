@@ -88,20 +88,6 @@ class ReadmeGenerator
 
       ---
 
-        <!--START_SECTION:waka-->
-
-        <!--END_SECTION:waka-->
-
-        ---
-
-        **Recent GitHub Activity :zap:**
-
-        <!--START_SECTION:activity-->
-
-        <!--END_SECTION:activity-->
-
-      ---
-
       A new word cloud will be automatically generated when you [add your own word](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E). The prompt will change frequently, so be sure to come back and check it out :relaxed:
 
       :star2: Don't like the arrangement of the current word cloud? [Regenerate it](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle) :game_die:
@@ -127,6 +113,23 @@ class ReadmeGenerator
       markdown.concat("\n\n Check out the [previous word cloud](#{previous_cloud_url}) to see our community's **#{CloudTypes::CLOUDPROMPTS[-2]}**")
 
       markdown.concat("</div>")
+
+      markdown.concat("
+        ---
+
+        <!--START_SECTION:waka-->
+
+        <!--END_SECTION:waka-->
+
+        ---
+
+        **Recent GitHub Activity :zap:**
+
+        <!--START_SECTION:activity-->
+
+        <!--END_SECTION:activity-->
+
+        ---")
   end
 
   private
