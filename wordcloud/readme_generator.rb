@@ -92,14 +92,13 @@ class ReadmeGenerator
 
       :star2: Don't like the arrangement of the current word cloud? [Regenerate it](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle) :game_die:
 
-      <div align="center">
 
-        ## #{CloudTypes::CLOUDPROMPTS.last}
+      ## #{CloudTypes::CLOUDPROMPTS.last}
 
-        <img src="#{WORD_CLOUD_URL}" alt="WordCloud" width="100%">
+      <img src="#{WORD_CLOUD_URL}" alt="WordCloud" width="100%">
 
-        ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-#{current_words_added}-informational?style=flat-square)
-        ![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-#{current_contributors.size}-blueviolet?style=flat-square)
+      ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-#{current_words_added}-informational?style=flat-square)
+      ![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-#{current_contributors.size}-blueviolet?style=flat-square)
 
 
       HTML
@@ -111,8 +110,6 @@ class ReadmeGenerator
       end
 
       markdown.concat("\n\n Check out the [previous word cloud](#{previous_cloud_url}) to see our community's **#{CloudTypes::CLOUDPROMPTS[-2]}**")
-
-      markdown.concat("</div>")
 
       markdown.concat("
 
