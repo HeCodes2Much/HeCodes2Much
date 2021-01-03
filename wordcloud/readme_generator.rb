@@ -115,6 +115,7 @@ class ReadmeGenerator
       markdown.concat("</div>")
 
       markdown.concat("
+
   ---
 
   <!--START_SECTION:waka-->
