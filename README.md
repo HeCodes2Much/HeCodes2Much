@@ -128,18 +128,17 @@ SCSS                     2 repos             █░░░░░░░░░░�
   **Recent GitHub Activity :zap:**
 
   <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-2. ❗️ Opened issue [#1](https://github.com/ShimmerGlass/bar3x/issues/1) in [ShimmerGlass/bar3x](https://github.com/ShimmerGlass/bar3x)
-3. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-4. 🔥 Pushed to TheCynicalTeam/DotFiles
-5. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+1. 🔥 Pushed to TheCynicalTeam/DotFiles
+2. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+3. ❗️ Opened issue [#1](https://github.com/ShimmerGlass/bar3x/issues/1) in [ShimmerGlass/bar3x](https://github.com/ShimmerGlass/bar3x)
+4. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+5. 🔥 Pushed to TheCynicalTeam/DotFiles
 6. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-7. ❗️ Closed issue [#23](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/23) in [TheCynicalTeam/TheCynicalTeam](https://github.com/TheCynicalTeam/TheCynicalTeam)
-8. ❗️ Opened issue [#23](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/23) in [TheCynicalTeam/TheCynicalTeam](https://github.com/TheCynicalTeam/TheCynicalTeam)
-9. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+7. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+8. ❗️ Closed issue [#23](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/23) in [TheCynicalTeam/TheCynicalTeam](https://github.com/TheCynicalTeam/TheCynicalTeam)
+9. ❗️ Opened issue [#23](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/23) in [TheCynicalTeam/TheCynicalTeam](https://github.com/TheCynicalTeam/TheCynicalTeam)
 10. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
 <!--END_SECTION:activity-->
-A new word cloud will be automatically generated when you [add your own word](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E). The prompt will change frequently, so be sure to come back and check it out :relaxed:
 
 :star2: Don't like the arrangement of the current word cloud? [Regenerate it](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle) :game_die:
 
