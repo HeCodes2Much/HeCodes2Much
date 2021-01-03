@@ -128,18 +128,17 @@ SCSS                     2 repos             █░░░░░░░░░░�
   **Recent GitHub Activity :zap:**
 
   <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/DotFiles
-2. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-3. ❗️ Opened issue [#1](https://github.com/ShimmerGlass/bar3x/issues/1) in [ShimmerGlass/bar3x](https://github.com/ShimmerGlass/bar3x)
+1. 🗣 Commented on [#2](https://github.com/ShimmerGlass/bar3x/issues/2) in [ShimmerGlass/bar3x](https://github.com/ShimmerGlass/bar3x)
+2. ❗️ Opened issue [#2](https://github.com/ShimmerGlass/bar3x/issues/2) in [ShimmerGlass/bar3x](https://github.com/ShimmerGlass/bar3x)
+3. 🔥 Pushed to TheCynicalTeam/DotFiles
 4. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-5. 🔥 Pushed to TheCynicalTeam/DotFiles
+5. ❗️ Opened issue [#1](https://github.com/ShimmerGlass/bar3x/issues/1) in [ShimmerGlass/bar3x](https://github.com/ShimmerGlass/bar3x)
 6. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-7. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-8. ❗️ Closed issue [#23](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/23) in [TheCynicalTeam/TheCynicalTeam](https://github.com/TheCynicalTeam/TheCynicalTeam)
-9. ❗️ Opened issue [#23](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/23) in [TheCynicalTeam/TheCynicalTeam](https://github.com/TheCynicalTeam/TheCynicalTeam)
-10. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+7. 🔥 Pushed to TheCynicalTeam/DotFiles
+8. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+9. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+10. ❗️ Closed issue [#23](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/23) in [TheCynicalTeam/TheCynicalTeam](https://github.com/TheCynicalTeam/TheCynicalTeam)
 <!--END_SECTION:activity-->
-
 :star2: Don't like the arrangement of the current word cloud? [Regenerate it](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle) :game_die:
 
 <div align="center">
