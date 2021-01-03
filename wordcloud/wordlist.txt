@@ -1,3 +1,4 @@
 TheCynicalTeam
 InstaMENU
 i3WM
+qt6gtk2

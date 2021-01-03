@@ -65,13 +65,14 @@ A new word cloud will be automatically generated when you [add your own word](ht
 
   <img src="https://raw.githubusercontent.com/TheCynicalTeam/TheCynicalTeam/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 
-  ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-10-informational?style=flat-square)
+  ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-11-informational?style=flat-square)
   ![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-1-blueviolet?style=flat-square)
 
 
 [![Github Badge](https://img.shields.io/badge/-@TheCynicalTeam-24292e?style=flat-square&logo=Github&logoColor=white&link=https://github.com/TheCynicalTeam)](https://github.com/TheCynicalTeam) 
 
  Check out the [previous word cloud](https://github.com/TheCynicalTeam/TheCynicalTeam/blob/master/previous_clouds/previous_clouds.md#favourite-food-yum-pizza-cookie) to see our community's **Favourite Food? :yum: :pizza: :cookie:**</div>
+      <<~HTML
         ---
 
         <!--START_SECTION:waka-->
@@ -87,3 +88,4 @@ A new word cloud will be automatically generated when you [add your own word](ht
         <!--END_SECTION:activity-->
 
         ---
+      HTML
