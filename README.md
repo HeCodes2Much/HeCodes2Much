@@ -49,7 +49,7 @@
 
 ---
 
-**GitHub Stats :zap:**
+**GitHub Stats ⚡**
 
 ![Chart not found](https://github-readme-stats.vercel.app/api?username=TheCynicalTeam&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=TheCynicalTeam%27s+GitHub+Stats)
 
@@ -59,21 +59,20 @@ A new word cloud will be automatically generated when you [add your own word](ht
 
 :star2: Don't like the arrangement of the current word cloud? [Regenerate it](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle) :game_die:
 
-  ## Favourite Github Repo? :lock: :cop: :blue_heart:
+**Favourite Github Repo? :lock: :cop: :blue_heart:**
 
-  <img src="https://raw.githubusercontent.com/TheCynicalTeam/TheCynicalTeam/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
+<img src="https://raw.githubusercontent.com/TheCynicalTeam/TheCynicalTeam/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 
-  ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-14-informational?style=flat-square)
-  ![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-1-blueviolet?style=flat-square)
-
+![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-14-informational?style=flat-square)
+![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-1-blueviolet?style=flat-square)
 
 [![Github Badge](https://img.shields.io/badge/-@TheCynicalTeam-24292e?style=flat-square&logo=Github&logoColor=white&link=https://github.com/TheCynicalTeam)](https://github.com/TheCynicalTeam) 
 
- Check out the [previous word cloud](https://github.com/TheCynicalTeam/TheCynicalTeam/blob/master/previous_clouds/previous_clouds.md#favourite-food-yum-pizza-cookie) to see our community's **Favourite Food? :yum: :pizza: :cookie:**
+Check out the [previous word cloud](https://github.com/TheCynicalTeam/TheCynicalTeam/blob/master/previous_clouds/previous_clouds.md#favourite-food-yum-pizza-cookie) to see our community's **Favourite Food? :yum: :pizza: :cookie:**
 
-  ---
+---
 
-  <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
 ```text
