@@ -5,3 +5,4 @@ qt6gtk2
 qt6ct
 multimonitorlock
 i3-cheat
+GitLabs
