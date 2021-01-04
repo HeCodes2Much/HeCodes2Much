@@ -147,14 +147,14 @@ SCSS                     2 repos             █░░░░░░░░░░�
   **Recent GitHub Activity :zap:**
 
   <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-2. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
-3. 🗣 Commented on [#1](https://github.com/trialuser02/qt6ct/issues/1) in [trialuser02/qt6ct](https://github.com/trialuser02/qt6ct)
-4. 🔥 Pushed to TheCynicalTeam/DotFiles
-5. 🔥 Pushed to TheCynicalTeam/instamenu
-6. 🔥 Pushed to TheCynicalTeam/instamenu-extra
-7. 🔥 Pushed to TheCynicalTeam/instamenu
-8. 🔥 Pushed to TheCynicalTeam/DotFiles
-9. 🔥 Pushed to TheCynicalTeam/DotFiles
-10. 🔥 Pushed to TheCynicalTeam/DotFiles
+1. 🔥 Pushed to TheCynicalTeam/DotFiles
+2. ❗️ Closed issue [#179](https://github.com/Xuyuanp/nerdtree-git-plugin/issues/179) in [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin)
+3. 🗣 Commented on [#179](https://github.com/Xuyuanp/nerdtree-git-plugin/issues/179) in [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin)
+4. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+5. 🔥 Pushed to TheCynicalTeam/cynicalteam_repo
+6. 🗣 Commented on [#1](https://github.com/trialuser02/qt6ct/issues/1) in [trialuser02/qt6ct](https://github.com/trialuser02/qt6ct)
+7. 🔥 Pushed to TheCynicalTeam/DotFiles
+8. 🔥 Pushed to TheCynicalTeam/instamenu
+9. 🔥 Pushed to TheCynicalTeam/instamenu-extra
+10. 🔥 Pushed to TheCynicalTeam/instamenu
 <!--END_SECTION:activity-->
