@@ -147,14 +147,14 @@ SCSS                     2 repos             █░░░░░░░░░░�
   **Recent GitHub Activity :zap:**
 
   <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-2. 🔥 Pushed to TheCynicalTeam/DotFiles
+1. 🔥 Pushed to TheCynicalTeam/DotFiles
+2. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
 3. 🔥 Pushed to TheCynicalTeam/DotFiles
 4. 🔥 Pushed to TheCynicalTeam/DotFiles
 5. 🔥 Pushed to TheCynicalTeam/DotFiles
 6. 🔥 Pushed to TheCynicalTeam/DotFiles
 7. 🔥 Pushed to TheCynicalTeam/DotFiles
-8. ❗️ Closed issue [#179](https://github.com/Xuyuanp/nerdtree-git-plugin/issues/179) in [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin)
-9. 🗣 Commented on [#179](https://github.com/Xuyuanp/nerdtree-git-plugin/issues/179) in [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin)
-10. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+8. 🔥 Pushed to TheCynicalTeam/DotFiles
+9. ❗️ Closed issue [#179](https://github.com/Xuyuanp/nerdtree-git-plugin/issues/179) in [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin)
+10. 🗣 Commented on [#179](https://github.com/Xuyuanp/nerdtree-git-plugin/issues/179) in [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin)
 <!--END_SECTION:activity-->
