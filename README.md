@@ -148,13 +148,13 @@ SCSS                     2 repos             █░░░░░░░░░░�
 
   <!--START_SECTION:activity-->
 1. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-2. 🔥 Pushed to TheCynicalTeam/DotFiles
-3. 🔥 Pushed to TheCynicalTeam/DotFiles
-4. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-5. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-6. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-7. ❗️ Closed issue [#33](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/33) in [TheCynicalTeam/TheCynicalTeam](https://github.com/TheCynicalTeam/TheCynicalTeam)
-8. ❗️ Opened issue [#33](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/33) in [TheCynicalTeam/TheCynicalTeam](https://github.com/TheCynicalTeam/TheCynicalTeam)
-9. 🔥 Pushed to TheCynicalTeam/DotFiles
-10. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+2. 🔥 Pushed to TheCynicalTeam/i3_keybinds
+3. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+4. 🔥 Pushed to TheCynicalTeam/DotFiles
+5. 🔥 Pushed to TheCynicalTeam/DotFiles
+6. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+7. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+8. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+9. ❗️ Closed issue [#33](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/33) in [TheCynicalTeam/TheCynicalTeam](https://github.com/TheCynicalTeam/TheCynicalTeam)
+10. ❗️ Opened issue [#33](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/33) in [TheCynicalTeam/TheCynicalTeam](https://github.com/TheCynicalTeam/TheCynicalTeam)
 <!--END_SECTION:activity-->
