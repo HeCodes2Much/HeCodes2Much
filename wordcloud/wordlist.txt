@@ -7,3 +7,4 @@ multimonitorlock
 i3-cheat
 GitLabs
 i3-maim
+Working Hard

@@ -60,101 +60,30 @@ A new word cloud will be automatically generated when you [add your own word](ht
 🌟 Don't like the arrangement of the current word cloud? [Regenerate it](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle) 🎲
 
 
-**Favourite Github Repo? 🔒 👮 💙**
+**What are you looking forward to in 2021? 🎉 😎 🎊**
 
 <img src="https://raw.githubusercontent.com/TheCynicalTeam/TheCynicalTeam/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 
-![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-16-informational?style=flat-square)
+![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-4-informational?style=flat-square)
 ![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-1-blueviolet?style=flat-square)
 
 
 [![Github Badge](https://img.shields.io/badge/-@TheCynicalTeam-24292e?style=flat-square&logo=Github&logoColor=white&link=https://github.com/TheCynicalTeam)](https://github.com/TheCynicalTeam) 
 
- Check out the [previous word cloud](https://github.com/TheCynicalTeam/TheCynicalTeam/blob/master/previous_clouds/previous_clouds.md#favourite-food-😋-🍕-🍪) to see our community's **Favourite Food? 😋 🍕 🍪**
+ Check out the [previous word cloud](https://github.com/TheCynicalTeam/TheCynicalTeam/blob/master/previous_clouds/previous_clouds.md#favourite-github-repo-🔒-👮-💙) to see our community's **Favourite Github Repo? 🔒 👮 💙**
 
   ---
 
   <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning    21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
-🌆 Daytime    88 commits     ███████░░░░░░░░░░░░░░░░░░   29.24% 
-🌃 Evening    133 commits    ███████████░░░░░░░░░░░░░░   44.19% 
-🌙 Night      59 commits     █████░░░░░░░░░░░░░░░░░░░░   19.6%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       76 commits     ██████░░░░░░░░░░░░░░░░░░░   25.25% 
-Tuesday      19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.31% 
-Wednesday    17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.65% 
-Thursday     15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.98% 
-Friday       52 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-Saturday     86 commits     ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Sunday       36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.96%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-Other                    15 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   34.92% 
-VimL                     8 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.98% 
-Bash                     6 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.95% 
-Markdown                 2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.34% 
-Ruby                     2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.16%
-
-🔥 Editors: 
-VS Code                  34 hrs 7 mins       ███████████████████░░░░░░   79.11% 
-Vim                      8 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.8% 
-Fish                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
-
-🐱‍💻 Projects: 
-DotFiles                 19 hrs 23 mins      ███████████░░░░░░░░░░░░░░   44.95% 
-instamenu-extra          5 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
-TheCynicalTeam           3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.2% 
-Unknown Project          3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.7% 
-ArchRepo                 2 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.7%
-
-💻 Operating System: 
-Linux                    43 hrs 8 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Shell** 
-
-```text
-Shell                    10 repos            ████████░░░░░░░░░░░░░░░░░   33.33% 
-Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-SCSS                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-
-```
-
-
-
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
   ---
 
   **Recent GitHub Activity :zap:**
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/34) in [TheCynicalTeam/TheCynicalTeam](https://github.com/TheCynicalTeam/TheCynicalTeam)
-2. ❗️ Closed issue [#34](https://github.com/TheCynicalTeam/TheCynicalTeam/issues/34) in [TheCynicalTeam/TheCynicalTeam](https://github.com/TheCynicalTeam/TheCynicalTeam)
-3. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-4. ❗️ Opened issue [#533](https://github.com/JessicaLim8/JessicaLim8/issues/533) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-5. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-6. 🔥 Pushed to TheCynicalTeam/i3_keybinds
-7. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-8. 🔥 Pushed to TheCynicalTeam/DotFiles
-9. 🔥 Pushed to TheCynicalTeam/DotFiles
-10. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-<!--END_SECTION:activity-->
+
+  <!--END_SECTION:activity-->
+
+  ---
