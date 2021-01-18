@@ -1,82 +1,140 @@
-### Hi there, I'm Jesse - aka [TheCynicalLiger][website] 👋
+### Hi there, I'm Wayne - aka [TheCynicalTeam][website] 👋
 
-[![Website](https://img.shields.io/website?label=TheCynicalLiger.com&style=for-the-badge&url=https%3A%2F%2FTheCynicalLiger.com)](https://TheCynicalLiger.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/TheCynicalLiger?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTheCynicalLiger&screen_name=TheCynicalLiger)
+[![Website](https://img.shields.io/website?label=github.com/TheCynicalTeam/&color=orange&style=flat-square&url=https://github.com/TheCynicalTeam/)][website]
+[![Twitter Follow](https://img.shields.io/twitter/follow/TheCynicalTeam?color=orange&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTheCynicalTeam&screen_name=TheCynicalTeam)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+### I'm a Boyfriend, Developer, and Teacher!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love nespresso coffee
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-TheCynicalLiger.vercel.app/api/spotify-playing" alt="TheCynicalLiger Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
+---
 ### Connect with me:
 
-[<img align="left" alt="TheCynicalLiger.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="TheCynicalLiger | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="TheCynicalLiger | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="TheCynicalLiger | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="TheCynicalLiger | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="TheCynicalTeam | GitHub" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="TheCynicalTeam | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="TheCynicalTeam | Twitch" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][Twitch]
+[<img align="left" alt="TheCynicalTeam | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
-<br />
-<br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/TheCynicalLiger)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://TheCynicalLiger.com)
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="TheCynicalLiger's GitHub Stats" src="https://github-readme-stats.TheCynicalLiger.vercel.app/api?username=TheCynicalLiger&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://TheCynicalLiger.com
-[course]: http://vsCodeHero.com
+[website]: https://github.com/TheCynicalTeam/
 [twitter]: https://twitter.com/TheCynicalLiger
 [twitch]: https://twitch.tv/TheCynicalLiger
 [instagram]: https://instagram.com/TheCynicalLiger
+
+<br />
+<br />
+<br />
+
+---
+### Languages and Tools:
+
+<img align="left" alt="Emacs" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" />
+<img align="left" alt="Fish" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fish/fish.png" />
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
+<br />
+
+---
+
+**GitHub Stats ⚡**
+
+![Chart not found](https://github-readme-stats.vercel.app/api?username=TheCynicalTeam&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=TheCynicalTeam%27s+GitHub+Stats)
+
+
+---
+
+**WakaTime Stats ⚡**
+
+<!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.94% 
+🌆 Daytime    52 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% 
+🌃 Evening    84 commits     ██████████░░░░░░░░░░░░░░░   41.38% 
+🌙 Night      59 commits     ███████░░░░░░░░░░░░░░░░░░   29.06%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.27% 
+Tuesday      18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.87% 
+Wednesday    14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+Thursday     15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
+Friday       50 commits     ██████░░░░░░░░░░░░░░░░░░░   24.63% 
+Saturday     55 commits     ██████░░░░░░░░░░░░░░░░░░░   27.09% 
+Sunday       20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.85%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+Other                    6 hrs 32 mins       ██████████████████░░░░░░░   72.35% 
+Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.88% 
+HTML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.19% 
+Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.32% 
+Ruby                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17%
+
+🔥 Editors: 
+Emacs                    9 hrs 2 mins        █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+DotFiles                 5 hrs 2 mins        ██████████████░░░░░░░░░░░   55.66% 
+Unknown Project          48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.98% 
+instamenu-extra          45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.47% 
+instaMENU                38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.03% 
+picker                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.96%
+
+💻 Operating System: 
+Linux                    9 hrs 2 mins        █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in Shell** 
+
+```text
+Shell                    11 repos            █████████░░░░░░░░░░░░░░░░   39.29% 
+Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
+SCSS                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
+
+
+
+<!--END_SECTION:waka-->
+
+---
+
+**Recent GitHub Activity :zap:**
+
+<!--START_SECTION:activity-->
+1. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+2. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+3. 🔥 Pushed to TheCynicalTeam/.homepage
+4. 🔥 Pushed to TheCynicalTeam/.homepage
+5. 🔥 Pushed to TheCynicalTeam/.homepage
+6. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+7. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+8. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+9. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+10. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+<!--END_SECTION:activity-->
