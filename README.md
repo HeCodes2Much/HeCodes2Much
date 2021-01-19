@@ -127,14 +127,14 @@ SCSS                     2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-2. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-3. 🔥 Pushed to TheCynicalTeam/bfetch
-4. 🔥 Pushed to TheCynicalTeam/DotFiles
+1. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+2. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+3. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+4. 🔥 Pushed to TheCynicalTeam/bfetch
 5. 🔥 Pushed to TheCynicalTeam/DotFiles
-6. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-7. 🔥 Pushed to TheCynicalTeam/bfetch
-8. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-9. 🔥 Pushed to TheCynicalTeam/pyfetch
+6. 🔥 Pushed to TheCynicalTeam/DotFiles
+7. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+8. 🔥 Pushed to TheCynicalTeam/bfetch
+9. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
 10. 🔥 Pushed to TheCynicalTeam/pyfetch
 <!--END_SECTION:activity-->
