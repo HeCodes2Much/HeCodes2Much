@@ -127,9 +127,9 @@ SCSS                     2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-2. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-3. 🔥 Pushed to TheCynicalTeam/picker
+1. 🔥 Pushed to TheCynicalTeam/picker
+2. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+3. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
 4. 🔥 Pushed to TheCynicalTeam/picker
 5. 🔥 Pushed to TheCynicalTeam/picker
 6. 🔥 Pushed to TheCynicalTeam/picker
