@@ -128,13 +128,13 @@ SCSS                     2 repos             █░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-2. 🔥 Pushed to TheCynicalTeam/picker
-3. 🔥 Pushed to TheCynicalTeam/picker
-4. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-5. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+2. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+3. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+4. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+5. 🔥 Pushed to TheCynicalTeam/picker
 6. 🔥 Pushed to TheCynicalTeam/picker
-7. 🔥 Pushed to TheCynicalTeam/picker
-8. 🔥 Pushed to TheCynicalTeam/picker
+7. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+8. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
 9. 🔥 Pushed to TheCynicalTeam/picker
 10. 🔥 Pushed to TheCynicalTeam/picker
 <!--END_SECTION:activity-->
