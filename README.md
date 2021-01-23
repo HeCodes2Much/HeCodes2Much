@@ -13,7 +13,7 @@
 ---
 ### Connect with me:
 
-[<img align="left" alt="TheCynicalTeam | GitHub" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="TheCynicalTeam | GitHub" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]
 [<img align="left" alt="TheCynicalTeam | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 [website]: https://github.com/TheCynicalTeam/
