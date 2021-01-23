@@ -127,13 +127,13 @@ SCSS                     2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-2. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-3. ❗️ Opened issue [#34](https://github.com/ericm/yup/issues/34) in [ericm/yup](https://github.com/ericm/yup)
-4. 🔥 Pushed to TheCynicalTeam/bfetch
-5. 🔥 Pushed to TheCynicalTeam/bfetch
-6. 🔥 Pushed to TheCynicalTeam/bfetch
-7. 🔥 Pushed to TheCynicalTeam/bfetch
+1. 🔥 Pushed to TheCynicalTeam/DotFiles
+2. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+3. 🔥 Pushed to TheCynicalTeam/DotFiles
+4. 🔥 Pushed to TheCynicalTeam/DotFiles
+5. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+6. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+7. ❗️ Opened issue [#34](https://github.com/ericm/yup/issues/34) in [ericm/yup](https://github.com/ericm/yup)
 8. 🔥 Pushed to TheCynicalTeam/bfetch
 9. 🔥 Pushed to TheCynicalTeam/bfetch
 10. 🔥 Pushed to TheCynicalTeam/bfetch
