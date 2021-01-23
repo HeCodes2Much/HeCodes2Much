@@ -128,8 +128,8 @@ SCSS                     2 repos             █░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-2. ❗️ Opened issue [#34](https://github.com/ericm/yup/issues/34) in [ericm/yup](https://github.com/ericm/yup)
-3. 🔥 Pushed to TheCynicalTeam/bfetch
+2. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+3. ❗️ Opened issue [#34](https://github.com/ericm/yup/issues/34) in [ericm/yup](https://github.com/ericm/yup)
 4. 🔥 Pushed to TheCynicalTeam/bfetch
 5. 🔥 Pushed to TheCynicalTeam/bfetch
 6. 🔥 Pushed to TheCynicalTeam/bfetch
