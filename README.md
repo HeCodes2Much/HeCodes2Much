@@ -130,9 +130,9 @@ SCSS                     2 repos             █░░░░░░░░░░�
 3. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
 4. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
 5. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-6. 🔥 Pushed to TheCynicalTeam/DotFiles
-7. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-8. 🔥 Pushed to TheCynicalTeam/DotFiles
+6. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+7. 🔥 Pushed to TheCynicalTeam/DotFiles
+8. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
 9. 🔥 Pushed to TheCynicalTeam/DotFiles
-10. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+10. 🔥 Pushed to TheCynicalTeam/DotFiles
 <!--END_SECTION:activity-->
