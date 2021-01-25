@@ -125,11 +125,11 @@ SCSS                     2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-2. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-3. 🔥 Pushed to TheCynicalTeam/bfetch
-4. ❗️ Opened issue [#1655](https://github.com/JonathanGin52/JonathanGin52/issues/1655) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-5. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+1. 🔥 Pushed to TheCynicalTeam/bfetch
+2. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+3. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+4. 🔥 Pushed to TheCynicalTeam/bfetch
+5. ❗️ Opened issue [#1655](https://github.com/JonathanGin52/JonathanGin52/issues/1655) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
 6. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
 7. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
 8. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
