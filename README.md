@@ -129,10 +129,10 @@ HTML                     1 repo              ░░░░░░░░░░░�
 2. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
 3. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
 4. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-5. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+5. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
 6. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
 7. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-8. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-9. 🔥 Pushed to TheCynicalTeam/DotFiles
+8. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+9. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
 10. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
 <!--END_SECTION:activity-->
