@@ -126,13 +126,13 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-2. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-3. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-4. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-5. 🔥 Pushed to TheCynicalTeam/DotFiles
-6. 🔥 Pushed to TheCynicalTeam/DotFiles
-7. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-8. 🔥 Pushed to TheCynicalTeam/wmappearance
-9. 🔥 Pushed to TheCynicalTeam/DotFiles
+2. 🔥 Pushed to TheCynicalTeam/papirus-folders
+3. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+4. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+5. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+6. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+7. 🔥 Pushed to TheCynicalTeam/DotFiles
+8. 🔥 Pushed to TheCynicalTeam/DotFiles
+9. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
 10. 🔥 Pushed to TheCynicalTeam/wmappearance
 <!--END_SECTION:activity-->
