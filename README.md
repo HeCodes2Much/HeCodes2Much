@@ -125,14 +125,14 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-2. 🔥 Pushed to TheCynicalTeam/Dracula-GTK
+1. 🔥 Pushed to TheCynicalTeam/DotFiles
+2. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
 3. 🔥 Pushed to TheCynicalTeam/Dracula-GTK
-4. ❗️ Closed issue [#1](https://github.com/TheCynicalTeam/Dracula-GTK/issues/1) in [TheCynicalTeam/Dracula-GTK](https://github.com/TheCynicalTeam/Dracula-GTK)
-5. ❗️ Opened issue [#1](https://github.com/TheCynicalTeam/Dracula-GTK/issues/1) in [TheCynicalTeam/Dracula-GTK](https://github.com/TheCynicalTeam/Dracula-GTK)
-6. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-7. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+4. 🔥 Pushed to TheCynicalTeam/Dracula-GTK
+5. ❗️ Closed issue [#1](https://github.com/TheCynicalTeam/Dracula-GTK/issues/1) in [TheCynicalTeam/Dracula-GTK](https://github.com/TheCynicalTeam/Dracula-GTK)
+6. ❗️ Opened issue [#1](https://github.com/TheCynicalTeam/Dracula-GTK/issues/1) in [TheCynicalTeam/Dracula-GTK](https://github.com/TheCynicalTeam/Dracula-GTK)
+7. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
 8. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
 9. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-10. 🔥 Pushed to TheCynicalTeam/papirus-folders
+10. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
 <!--END_SECTION:activity-->
