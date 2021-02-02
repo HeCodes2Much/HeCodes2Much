@@ -125,14 +125,14 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+1. 🔥 Pushed to TheCynicalTeam/demo
 2. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
 3. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-4. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-5. 🔥 Pushed to TheCynicalTeam/DotFiles
-6. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-7. 🔥 Pushed to TheCynicalTeam/Dracula-GTK
+4. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+5. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+6. 🔥 Pushed to TheCynicalTeam/DotFiles
+7. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
 8. 🔥 Pushed to TheCynicalTeam/Dracula-GTK
-9. ❗️ Closed issue [#1](https://github.com/TheCynicalTeam/Dracula-GTK/issues/1) in [TheCynicalTeam/Dracula-GTK](https://github.com/TheCynicalTeam/Dracula-GTK)
-10. ❗️ Opened issue [#1](https://github.com/TheCynicalTeam/Dracula-GTK/issues/1) in [TheCynicalTeam/Dracula-GTK](https://github.com/TheCynicalTeam/Dracula-GTK)
+9. 🔥 Pushed to TheCynicalTeam/Dracula-GTK
+10. ❗️ Closed issue [#1](https://github.com/TheCynicalTeam/Dracula-GTK/issues/1) in [TheCynicalTeam/Dracula-GTK](https://github.com/TheCynicalTeam/Dracula-GTK)
 <!--END_SECTION:activity-->
