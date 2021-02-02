@@ -126,13 +126,13 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-2. 🔥 Pushed to TheCynicalTeam/test
-3. 🔥 Pushed to TheCynicalTeam/demo
-4. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+2. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+3. 🔥 Pushed to TheCynicalTeam/test
+4. 🔥 Pushed to TheCynicalTeam/demo
 5. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
 6. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-7. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-8. 🔥 Pushed to TheCynicalTeam/DotFiles
-9. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-10. 🔥 Pushed to TheCynicalTeam/Dracula-GTK
+7. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+8. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+9. 🔥 Pushed to TheCynicalTeam/DotFiles
+10. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
 <!--END_SECTION:activity-->
