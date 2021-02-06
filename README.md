@@ -125,14 +125,14 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/picker
-2. 🗣 Commented on [#56](https://github.com/Duncaen/OpenDoas/issues/56) in [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas)
-3. ❗️ Closed issue [#56](https://github.com/Duncaen/OpenDoas/issues/56) in [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas)
-4. 🗣 Commented on [#56](https://github.com/Duncaen/OpenDoas/issues/56) in [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas)
+1. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+2. 🔥 Pushed to TheCynicalTeam/picker
+3. 🗣 Commented on [#56](https://github.com/Duncaen/OpenDoas/issues/56) in [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas)
+4. ❗️ Closed issue [#56](https://github.com/Duncaen/OpenDoas/issues/56) in [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas)
 5. 🗣 Commented on [#56](https://github.com/Duncaen/OpenDoas/issues/56) in [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas)
 6. 🗣 Commented on [#56](https://github.com/Duncaen/OpenDoas/issues/56) in [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas)
-7. ❗️ Opened issue [#56](https://github.com/Duncaen/OpenDoas/issues/56) in [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas)
-8. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+7. 🗣 Commented on [#56](https://github.com/Duncaen/OpenDoas/issues/56) in [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas)
+8. ❗️ Opened issue [#56](https://github.com/Duncaen/OpenDoas/issues/56) in [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas)
 9. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-10. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+10. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
 <!--END_SECTION:activity-->
