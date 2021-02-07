@@ -125,14 +125,14 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-2. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-3. 🔥 Pushed to TheCynicalTeam/picker
-4. 🗣 Commented on [#56](https://github.com/Duncaen/OpenDoas/issues/56) in [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas)
-5. ❗️ Closed issue [#56](https://github.com/Duncaen/OpenDoas/issues/56) in [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas)
-6. 🗣 Commented on [#56](https://github.com/Duncaen/OpenDoas/issues/56) in [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas)
-7. 🗣 Commented on [#56](https://github.com/Duncaen/OpenDoas/issues/56) in [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas)
-8. 🗣 Commented on [#56](https://github.com/Duncaen/OpenDoas/issues/56) in [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas)
-9. ❗️ Opened issue [#56](https://github.com/Duncaen/OpenDoas/issues/56) in [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas)
-10. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+1. 🔥 Pushed to TheCynicalTeam/instamenu
+2. 🎉 Merged PR [#1](https://github.com/TheCynicalTeam/instamenu/pull/1) in [TheCynicalTeam/instamenu](https://github.com/TheCynicalTeam/instamenu)
+3. 💪 Opened PR [#1](https://github.com/TheCynicalTeam/instamenu/pull/1) in [TheCynicalTeam/instamenu](https://github.com/TheCynicalTeam/instamenu)
+4. 🔥 Pushed to TheCynicalTeam/instamenu
+5. 🔥 Pushed to TheCynicalTeam/instamenu
+6. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+7. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+8. 🔥 Pushed to TheCynicalTeam/picker
+9. 🗣 Commented on [#56](https://github.com/Duncaen/OpenDoas/issues/56) in [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas)
+10. ❗️ Closed issue [#56](https://github.com/Duncaen/OpenDoas/issues/56) in [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas)
 <!--END_SECTION:activity-->
