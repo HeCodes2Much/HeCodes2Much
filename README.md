@@ -126,13 +126,13 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-2. 🔥 Pushed to TheCynicalTeam/DotFiles
-3. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-4. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-5. 🔥 Pushed to TheCynicalTeam/instamenu
+2. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+3. 🔥 Pushed to TheCynicalTeam/DotFiles
+4. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+5. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
 6. 🔥 Pushed to TheCynicalTeam/instamenu
-7. 🎉 Merged PR [#1](https://github.com/TheCynicalTeam/instamenu/pull/1) in [TheCynicalTeam/instamenu](https://github.com/TheCynicalTeam/instamenu)
-8. 💪 Opened PR [#1](https://github.com/TheCynicalTeam/instamenu/pull/1) in [TheCynicalTeam/instamenu](https://github.com/TheCynicalTeam/instamenu)
-9. 🔥 Pushed to TheCynicalTeam/instamenu
+7. 🔥 Pushed to TheCynicalTeam/instamenu
+8. 🎉 Merged PR [#1](https://github.com/TheCynicalTeam/instamenu/pull/1) in [TheCynicalTeam/instamenu](https://github.com/TheCynicalTeam/instamenu)
+9. 💪 Opened PR [#1](https://github.com/TheCynicalTeam/instamenu/pull/1) in [TheCynicalTeam/instamenu](https://github.com/TheCynicalTeam/instamenu)
 10. 🔥 Pushed to TheCynicalTeam/instamenu
 <!--END_SECTION:activity-->
