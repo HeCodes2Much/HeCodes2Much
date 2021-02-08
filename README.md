@@ -134,5 +134,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 7. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
 8. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
 9. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-10. 🔥 Pushed to TheCynicalTeam/DotFiles
+10. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
 <!--END_SECTION:activity-->
