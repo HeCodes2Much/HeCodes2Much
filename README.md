@@ -125,14 +125,14 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-2. 🔥 Pushed to TheCynicalTeam/instamenu
+1. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+2. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
 3. 🔥 Pushed to TheCynicalTeam/instamenu
-4. 🎉 Merged PR [#1](https://github.com/TheCynicalTeam/instamenu/pull/1) in [TheCynicalTeam/instamenu](https://github.com/TheCynicalTeam/instamenu)
-5. 💪 Opened PR [#1](https://github.com/TheCynicalTeam/instamenu/pull/1) in [TheCynicalTeam/instamenu](https://github.com/TheCynicalTeam/instamenu)
-6. 🔥 Pushed to TheCynicalTeam/instamenu
+4. 🔥 Pushed to TheCynicalTeam/instamenu
+5. 🎉 Merged PR [#1](https://github.com/TheCynicalTeam/instamenu/pull/1) in [TheCynicalTeam/instamenu](https://github.com/TheCynicalTeam/instamenu)
+6. 💪 Opened PR [#1](https://github.com/TheCynicalTeam/instamenu/pull/1) in [TheCynicalTeam/instamenu](https://github.com/TheCynicalTeam/instamenu)
 7. 🔥 Pushed to TheCynicalTeam/instamenu
-8. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+8. 🔥 Pushed to TheCynicalTeam/instamenu
 9. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-10. 🔥 Pushed to TheCynicalTeam/picker
+10. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
 <!--END_SECTION:activity-->
