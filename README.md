@@ -127,12 +127,12 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
 2. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
 4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-6. 🔥 Pushed to The-Repo-Club/wm-cheat
-7. 🔥 Pushed to The-Repo-Club/siji
-8. 🔥 Pushed to The-Repo-Club/my-rest-api
-9. 🔥 Pushed to The-Repo-Club/qt-logout
-10. 🔥 Pushed to The-Repo-Club/picker
+6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+7. 🔥 Pushed to The-Repo-Club/wm-cheat
+8. 🔥 Pushed to The-Repo-Club/siji
+9. 🔥 Pushed to The-Repo-Club/my-rest-api
+10. 🔥 Pushed to The-Repo-Club/qt-logout
 <!--END_SECTION:activity-->
