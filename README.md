@@ -125,14 +125,14 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/DotFiles
-2. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-3. 🔥 Pushed to TheCynicalTeam/DotFiles
-4. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-5. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-6. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-7. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-8. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-9. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+1. 🔥 Pushed to The-Repo-Club/DotFiles
+2. 🔥 Pushed to The-Repo-Club/charmap
+3. 🔥 Pushed to The-Repo-Club/instamenu
+4. 🔥 Pushed to The-Repo-Club/wm-cheat
+5. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+6. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+7. 🔥 Pushed to TheCynicalTeam/DotFiles
+8. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+9. 🔥 Pushed to TheCynicalTeam/DotFiles
 10. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
 <!--END_SECTION:activity-->
