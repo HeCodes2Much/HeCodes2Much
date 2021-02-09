@@ -125,14 +125,14 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/DotFiles
-2. 🔥 Pushed to The-Repo-Club/charmap
-3. 🔥 Pushed to The-Repo-Club/instamenu
-4. 🔥 Pushed to The-Repo-Club/wm-cheat
-5. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-6. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-7. 🔥 Pushed to TheCynicalTeam/DotFiles
-8. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-9. 🔥 Pushed to TheCynicalTeam/DotFiles
-10. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+2. 🔥 Pushed to The-Repo-Club/wm-cheat
+3. 🔥 Pushed to The-Repo-Club/siji
+4. 🔥 Pushed to The-Repo-Club/my-rest-api
+5. 🔥 Pushed to The-Repo-Club/qt-logout
+6. 🔥 Pushed to The-Repo-Club/picker
+7. 🔥 Pushed to The-Repo-Club/pyfetch
+8. 🔥 Pushed to The-Repo-Club/multimonitorlock-gui
+9. 🔥 Pushed to The-Repo-Club/multimonitorlock
+10. 🔥 Pushed to The-Repo-Club/instamenu-extra
 <!--END_SECTION:activity-->
