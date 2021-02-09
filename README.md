@@ -126,17 +126,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/DotFiles
-<<<<<<< HEAD
-2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-3. 🔥 Pushed to The-Repo-Club/DotFiles
-4. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-5. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-6. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-7. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-8. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-9. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-10. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-=======
 2. 🔥 Pushed to The-Repo-Club/charmap
 3. 🔥 Pushed to The-Repo-Club/instamenu
 4. 🔥 Pushed to The-Repo-Club/wm-cheat
@@ -146,5 +135,4 @@ HTML                     1 repo              ░░░░░░░░░░░�
 8. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
 9. 🔥 Pushed to TheCynicalTeam/DotFiles
 10. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
->>>>>>> c424f3ef59f6dd8511889baa66f81e348adda95d
 <!--END_SECTION:activity-->
