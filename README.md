@@ -108,9 +108,9 @@ Linux                    11 hrs 25 mins      ███████████�
 **I Mostly Code in Shell** 
 
 ```text
-Shell                    12 repos            █████████░░░░░░░░░░░░░░░░   38.71% 
+Shell                    11 repos            ████████░░░░░░░░░░░░░░░░░   35.48% 
 Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.35% 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
 CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
 HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
 
@@ -126,6 +126,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/DotFiles
+<<<<<<< HEAD
 2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 3. 🔥 Pushed to The-Repo-Club/DotFiles
 4. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
@@ -135,4 +136,15 @@ HTML                     1 repo              ░░░░░░░░░░░�
 8. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
 9. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
 10. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+=======
+2. 🔥 Pushed to The-Repo-Club/charmap
+3. 🔥 Pushed to The-Repo-Club/instamenu
+4. 🔥 Pushed to The-Repo-Club/wm-cheat
+5. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+6. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+7. 🔥 Pushed to TheCynicalTeam/DotFiles
+8. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+9. 🔥 Pushed to TheCynicalTeam/DotFiles
+10. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+>>>>>>> c424f3ef59f6dd8511889baa66f81e348adda95d
 <!--END_SECTION:activity-->
