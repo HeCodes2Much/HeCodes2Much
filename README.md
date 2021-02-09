@@ -125,9 +125,9 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-2. 🔥 Pushed to TheCynicalTeam/DotFiles
-3. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+1. 🔥 Pushed to TheCynicalTeam/DotFiles
+2. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
+3. 🔥 Pushed to TheCynicalTeam/DotFiles
 4. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
 5. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
 6. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
