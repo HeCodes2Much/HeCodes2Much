@@ -1,7 +1,7 @@
 ### Hi there, I'm Wayne - aka [The-Repo-Club][website] 👋
 
 [![Website](https://img.shields.io/website?label=github.com/The-Repo-Club/&color=orange&style=flat-square&url=https://github.com/The-Repo-Club/)][website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/The-Repo-Club?color=orange&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FThe-Repo-Club&screen_name=The-Repo-Club)
+[![Telegram](https://img.shields.io/badge/Chat%20on-Telegram-orange.svg?color=orange&logo=telegram&style=flat-square)][telegram]
 
 ### I'm a Boyfriend, Developer, and Teacher!!
 
