@@ -1,7 +1,7 @@
-### Hi there, I'm Wayne - aka [TheCynicalTeam][website] 👋
+### Hi there, I'm Wayne - aka [The-Repo-Club][website] 👋
 
-[![Website](https://img.shields.io/website?label=github.com/TheCynicalTeam/&color=orange&style=flat-square&url=https://github.com/TheCynicalTeam/)][website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/TheCynicalTeam?color=orange&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTheCynicalTeam&screen_name=TheCynicalTeam)
+[![Website](https://img.shields.io/website?label=github.com/The-Repo-Club/&color=orange&style=flat-square&url=https://github.com/The-Repo-Club/)][website]
+[![Twitter Follow](https://img.shields.io/twitter/follow/The-Repo-Club?color=orange&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FThe-Repo-Club&screen_name=The-Repo-Club)
 
 ### I'm a Boyfriend, Developer, and Teacher!!
 
@@ -13,11 +13,11 @@
 ---
 ### Connect with me:
 
-[<img align="left" alt="TheCynicalTeam | GitHub" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]
-[<img align="left" alt="TheCynicalTeam | Gmail" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" alt="TheCynicalTeam | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="The-Repo-Club | GitHub" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]
+[<img align="left" alt="The-Repo-Club | Gmail" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="The-Repo-Club | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
-[website]: https://github.com/TheCynicalTeam/
+[website]: https://github.com/The-Repo-Club/
 [email]: mailto:wayne6324@gmail.com
 [telegram]: https://t.me/TheRepoClub
 
@@ -47,7 +47,7 @@
 
 **GitHub Stats ⚡**
 
-![Chart not found](https://github-readme-stats.vercel.app/api?username=TheCynicalTeam&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=TheCynicalTeam%27s+GitHub+Stats)
+![Chart not found](https://github-readme-stats.vercel.app/api?username=The-Repo-Club&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=The-Repo-Club%27s+GitHub+Stats)
 
 
 ---
@@ -125,14 +125,14 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to TheCynicalTeam/DotFiles
-2. 🔥 Pushed to TheCynicalTeam/TheCynicalTeam
-3. 🔥 Pushed to TheCynicalTeam/DotFiles
-4. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-5. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-6. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-7. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-8. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-9. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
-10. 🔥 Pushed to TheCynicalTeam/Arch.TheRepo.Club
+1. 🔥 Pushed to The-Repo-Club/DotFiles
+2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. 🔥 Pushed to The-Repo-Club/DotFiles
+4. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+5. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+6. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+7. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+8. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+9. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+10. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
 <!--END_SECTION:activity-->
