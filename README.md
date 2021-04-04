@@ -124,14 +124,14 @@ C++                      1 repo              █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/DotFiles
+1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 2. 🔥 Pushed to The-Repo-Club/DotFiles
-3. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-5. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-6. 🔥 Pushed to The-Repo-Club/instamenu
-7. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+3. 🔥 Pushed to The-Repo-Club/DotFiles
+4. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+6. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+7. 🔥 Pushed to The-Repo-Club/instamenu
 8. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-9. 🔥 Pushed to The-Repo-Club/instamenu-extra
-10. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+9. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+10. 🔥 Pushed to The-Repo-Club/instamenu-extra
 <!--END_SECTION:activity-->
