@@ -126,13 +126,13 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-2. 🔥 Pushed to The-Repo-Club/instamenu-schemas
-3. 🔥 Pushed to The-Repo-Club/instamenu-extra
-4. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-5. 🔥 Pushed to The-Repo-Club/instamenu
-6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-7. 🔥 Pushed to The-Repo-Club/instamenu-extra
-8. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-9. 🔥 Pushed to The-Repo-Club/DotFiles
-10. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+2. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+3. 🔥 Pushed to The-Repo-Club/instamenu-schemas
+4. 🔥 Pushed to The-Repo-Club/instamenu-extra
+5. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+6. 🔥 Pushed to The-Repo-Club/instamenu
+7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+8. 🔥 Pushed to The-Repo-Club/instamenu-extra
+9. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+10. 🔥 Pushed to The-Repo-Club/DotFiles
 <!--END_SECTION:activity-->
