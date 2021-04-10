@@ -125,14 +125,14 @@ C++                      2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/instawm
-2. 🔥 Pushed to The-Repo-Club/instawm
+1. 🔥 Pushed to The-Repo-Club/instamenu-schemas
+2. 🔥 Pushed to The-Repo-Club/instamenu-extra
 3. 🔥 Pushed to The-Repo-Club/instawm
 4. 🔥 Pushed to The-Repo-Club/instawm
 5. 🔥 Pushed to The-Repo-Club/instawm
-6. 🎉 Merged PR [#2](https://github.com/The-Repo-Club/instawm/pull/2) in [The-Repo-Club/instawm](https://github.com/The-Repo-Club/instawm)
+6. 🔥 Pushed to The-Repo-Club/instawm
 7. 🔥 Pushed to The-Repo-Club/instawm
-8. 🎉 Merged PR [#1](https://github.com/The-Repo-Club/instawm/pull/1) in [The-Repo-Club/instawm](https://github.com/The-Repo-Club/instawm)
-9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-10. ❌ Closed PR [#6](https://github.com/BrandenB/PhantomBot/pull/6) in [BrandenB/PhantomBot](https://github.com/BrandenB/PhantomBot)
+8. 🎉 Merged PR [#2](https://github.com/The-Repo-Club/instawm/pull/2) in [The-Repo-Club/instawm](https://github.com/The-Repo-Club/instawm)
+9. 🔥 Pushed to The-Repo-Club/instawm
+10. 🎉 Merged PR [#1](https://github.com/The-Repo-Club/instawm/pull/1) in [The-Repo-Club/instawm](https://github.com/The-Repo-Club/instawm)
 <!--END_SECTION:activity-->
