@@ -126,13 +126,13 @@ C++                      2 repos             █░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/instawm-schemas
-2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-3. 🔥 Pushed to The-Repo-Club/instawm-schemas
+2. 🔥 Pushed to The-Repo-Club/instawm-schemas
+3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 4. 🔥 Pushed to The-Repo-Club/instawm-schemas
 5. 🔥 Pushed to The-Repo-Club/instawm-schemas
 6. 🔥 Pushed to The-Repo-Club/instawm-schemas
-7. 🔥 Pushed to The-Repo-Club/instamenu-schemas
+7. 🔥 Pushed to The-Repo-Club/instawm-schemas
 8. 🔥 Pushed to The-Repo-Club/instamenu-schemas
-9. 🔥 Pushed to The-Repo-Club/instamenu-extra
-10. 🔥 Pushed to The-Repo-Club/instawm
+9. 🔥 Pushed to The-Repo-Club/instamenu-schemas
+10. 🔥 Pushed to The-Repo-Club/instamenu-extra
 <!--END_SECTION:activity-->
