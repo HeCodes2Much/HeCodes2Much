@@ -125,8 +125,8 @@ C++                      2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/instawm
-2. 🔥 Pushed to The-Repo-Club/instawm
+1. 🔥 Pushed to The-Repo-Club/DotFiles
+2. 🔥 Pushed to The-Repo-Club/qt-logout
 3. 🔥 Pushed to The-Repo-Club/instawm
 4. 🔥 Pushed to The-Repo-Club/instawm
 5. 🔥 Pushed to The-Repo-Club/instawm
