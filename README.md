@@ -133,6 +133,6 @@ C++                      2 repos             █░░░░░░░░░░�
 6. 🔥 Pushed to The-Repo-Club/instawm
 7. 🔥 Pushed to The-Repo-Club/instawm
 8. 🔥 Pushed to The-Repo-Club/instawm
-9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+9. 🔥 Pushed to The-Repo-Club/instawm
 10. 🔥 Pushed to The-Repo-Club/instawm
 <!--END_SECTION:activity-->
