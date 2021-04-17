@@ -126,14 +126,14 @@ C++                      2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+1. 🔥 Pushed to The-Repo-Club/instamenu
 2. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
 3. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
 4. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
 5. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
 6. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-7. 🔥 Pushed to The-Repo-Club/instawm-schemas
+7. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
 8. 🔥 Pushed to The-Repo-Club/instawm-schemas
-9. 🔥 Pushed to The-Repo-Club/instamenu-schemas
+9. 🔥 Pushed to The-Repo-Club/instawm-schemas
 10. 🔥 Pushed to The-Repo-Club/instamenu-schemas
 <!--END_SECTION:activity-->
