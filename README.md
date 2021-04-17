@@ -131,9 +131,9 @@ C++                      2 repos             █░░░░░░░░░░�
 3. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
 4. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
 5. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-6. 🔥 Pushed to The-Repo-Club/instawm-schemas
+6. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
 7. 🔥 Pushed to The-Repo-Club/instawm-schemas
-8. 🔥 Pushed to The-Repo-Club/instamenu-schemas
+8. 🔥 Pushed to The-Repo-Club/instawm-schemas
 9. 🔥 Pushed to The-Repo-Club/instamenu-schemas
 10. 🔥 Pushed to The-Repo-Club/instamenu-schemas
 <!--END_SECTION:activity-->
