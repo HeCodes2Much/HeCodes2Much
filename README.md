@@ -120,14 +120,14 @@ C++                      2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/instawm
-2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+2. 🔥 Pushed to The-Repo-Club/instawm
 3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-5. 🔥 Pushed to The-Repo-Club/multimonitorlock
-6. 🎉 Merged PR [#2](https://github.com/The-Repo-Club/multimonitorlock/pull/2) in [The-Repo-Club/multimonitorlock](https://github.com/The-Repo-Club/multimonitorlock)
-7. ❗️ Closed issue [#1](https://github.com/The-Repo-Club/multimonitorlock/issues/1) in [The-Repo-Club/multimonitorlock](https://github.com/The-Repo-Club/multimonitorlock)
-8. 🔥 Pushed to The-Repo-Club/instawm
+5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+6. 🔥 Pushed to The-Repo-Club/multimonitorlock
+7. 🎉 Merged PR [#2](https://github.com/The-Repo-Club/multimonitorlock/pull/2) in [The-Repo-Club/multimonitorlock](https://github.com/The-Repo-Club/multimonitorlock)
+8. ❗️ Closed issue [#1](https://github.com/The-Repo-Club/multimonitorlock/issues/1) in [The-Repo-Club/multimonitorlock](https://github.com/The-Repo-Club/multimonitorlock)
 9. 🔥 Pushed to The-Repo-Club/instawm
 10. 🔥 Pushed to The-Repo-Club/instawm
 <!--END_SECTION:activity-->
