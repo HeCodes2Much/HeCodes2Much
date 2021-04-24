@@ -120,14 +120,14 @@ C++                      2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/DotFiles
-2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-3. 🔥 Pushed to The-Repo-Club/instawm
+1. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+2. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+3. 🔥 Pushed to The-Repo-Club/DotFiles
 4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. 🔥 Pushed to The-Repo-Club/instawm
 6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-7. 🔥 Pushed to The-Repo-Club/multimonitorlock
-8. 🎉 Merged PR [#2](https://github.com/The-Repo-Club/multimonitorlock/pull/2) in [The-Repo-Club/multimonitorlock](https://github.com/The-Repo-Club/multimonitorlock)
-9. ❗️ Closed issue [#1](https://github.com/The-Repo-Club/multimonitorlock/issues/1) in [The-Repo-Club/multimonitorlock](https://github.com/The-Repo-Club/multimonitorlock)
-10. 🔥 Pushed to The-Repo-Club/instawm
+7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+9. 🔥 Pushed to The-Repo-Club/multimonitorlock
+10. 🎉 Merged PR [#2](https://github.com/The-Repo-Club/multimonitorlock/pull/2) in [The-Repo-Club/multimonitorlock](https://github.com/The-Repo-Club/multimonitorlock)
 <!--END_SECTION:activity-->
