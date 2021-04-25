@@ -125,13 +125,13 @@ C++                      2 repos             █░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/it
-2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-3. 🔥 Pushed to The-Repo-Club/instawm
-4. 🔥 Pushed to The-Repo-Club/wmappearance
-5. 🔥 Pushed to The-Repo-Club/DotFiles
-6. 🔥 Pushed to The-Repo-Club/instawm
-7. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-9. 🔥 Pushed to The-Repo-Club/DotFiles
-10. 🔥 Pushed to The-Repo-Club/instawm
+2. 🔥 Pushed to The-Repo-Club/it
+3. 🔥 Pushed to The-Repo-Club/it
+4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. 🔥 Pushed to The-Repo-Club/instawm
+6. 🔥 Pushed to The-Repo-Club/wmappearance
+7. 🔥 Pushed to The-Repo-Club/DotFiles
+8. 🔥 Pushed to The-Repo-Club/instawm
+9. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
