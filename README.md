@@ -129,10 +129,10 @@ C++                      2 repos             █░░░░░░░░░░�
 2. 🔥 Pushed to The-Repo-Club/distro-grub-themes
 3. 🔥 Pushed to The-Repo-Club/distro-grub-themes
 4. 🔥 Pushed to The-Repo-Club/distro-grub-themes
-5. 🔥 Pushed to The-Repo-Club/DotFiles
+5. 🔥 Pushed to The-Repo-Club/distro-grub-themes
 6. 🔥 Pushed to The-Repo-Club/DotFiles
-7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+7. 🔥 Pushed to The-Repo-Club/DotFiles
 8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-10. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
