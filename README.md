@@ -125,14 +125,14 @@ C++                      2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/instawm
-2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-3. 🔥 Pushed to The-Repo-Club/distro-grub-themes
+1. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+2. 🔥 Pushed to The-Repo-Club/instawm
+3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 4. 🔥 Pushed to The-Repo-Club/distro-grub-themes
 5. 🔥 Pushed to The-Repo-Club/distro-grub-themes
 6. 🔥 Pushed to The-Repo-Club/distro-grub-themes
 7. 🔥 Pushed to The-Repo-Club/distro-grub-themes
-8. 🔥 Pushed to The-Repo-Club/DotFiles
+8. 🔥 Pushed to The-Repo-Club/distro-grub-themes
 9. 🔥 Pushed to The-Repo-Club/DotFiles
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+10. 🔥 Pushed to The-Repo-Club/DotFiles
 <!--END_SECTION:activity-->
