@@ -125,14 +125,14 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-2. 🔥 Pushed to The-Repo-Club/instamenu-extra
-3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-4. 🔥 Pushed to The-Repo-Club/instawm
-5. 💪 Opened PR [#18](https://github.com/dracula/wallpaper/pull/18) in [dracula/wallpaper](https://github.com/dracula/wallpaper)
-6. 💪 Opened PR [#1](https://github.com/The-Repo-Club/wallpaper/pull/1) in [The-Repo-Club/wallpaper](https://github.com/The-Repo-Club/wallpaper)
-7. 🔥 Pushed to The-Repo-Club/wallpaper
-8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-9. 🔥 Pushed to The-Repo-Club/instawm
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+1. 🔥 Pushed to The-Repo-Club/instawm
+2. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+3. 🔥 Pushed to The-Repo-Club/instamenu-extra
+4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. 🔥 Pushed to The-Repo-Club/instawm
+6. 💪 Opened PR [#18](https://github.com/dracula/wallpaper/pull/18) in [dracula/wallpaper](https://github.com/dracula/wallpaper)
+7. 💪 Opened PR [#1](https://github.com/The-Repo-Club/wallpaper/pull/1) in [The-Repo-Club/wallpaper](https://github.com/The-Repo-Club/wallpaper)
+8. 🔥 Pushed to The-Repo-Club/wallpaper
+9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+10. 🔥 Pushed to The-Repo-Club/instawm
 <!--END_SECTION:activity-->
