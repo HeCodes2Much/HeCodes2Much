@@ -125,14 +125,14 @@ CSS                      2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/EndeavourOS-Community-Editions/Community-wallpapers/pull/1) in [EndeavourOS-Community-Editions/Community-wallpapers](https://github.com/EndeavourOS-Community-Editions/Community-wallpapers)
-2. 🔥 Pushed to The-Repo-Club/Community-wallpapers
-3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+2. 💪 Opened PR [#1](https://github.com/EndeavourOS-Community-Editions/Community-wallpapers/pull/1) in [EndeavourOS-Community-Editions/Community-wallpapers](https://github.com/EndeavourOS-Community-Editions/Community-wallpapers)
+3. 🔥 Pushed to The-Repo-Club/Community-wallpapers
 4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-5. 🔥 Pushed to The-Repo-Club/DotFiles
-6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-7. 🔥 Pushed to The-Repo-Club/Dracula
+5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+6. 🔥 Pushed to The-Repo-Club/DotFiles
+7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 8. 🔥 Pushed to The-Repo-Club/Dracula
-9. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+9. 🔥 Pushed to The-Repo-Club/Dracula
+10. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
 <!--END_SECTION:activity-->
