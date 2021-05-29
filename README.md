@@ -126,13 +126,13 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-4. 🔥 Pushed to The-Repo-Club/instawm
-5. 🗣 Commented on [#16562](https://github.com/vector-im/element-web/issues/16562) in [vector-im/element-web](https://github.com/vector-im/element-web)
-6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-7. 🔥 Pushed to The-Repo-Club/DotFiles
-8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. 🔥 Pushed to The-Repo-Club/instawm
+6. 🗣 Commented on [#16562](https://github.com/vector-im/element-web/issues/16562) in [vector-im/element-web](https://github.com/vector-im/element-web)
+7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+8. 🔥 Pushed to The-Repo-Club/DotFiles
 9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-10. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
