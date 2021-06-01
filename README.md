@@ -128,11 +128,11 @@ CSS                      2 repos             █░░░░░░░░░░�
 1. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
 2. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
 3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-4. 🔥 Pushed to The-Repo-Club/qt-logout
-5. 🔥 Pushed to The-Repo-Club/multimonitorlock
-6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+4. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+5. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+6. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+7. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
 8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-9. 🔥 Pushed to The-Repo-Club/Its-HandMade-UK
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+9. 🔥 Pushed to The-Repo-Club/qt-logout
+10. 🔥 Pushed to The-Repo-Club/multimonitorlock
 <!--END_SECTION:activity-->
