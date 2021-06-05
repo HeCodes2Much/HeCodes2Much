@@ -126,13 +126,13 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🔥 Pushed to The-Repo-Club/pass
+2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 3. 🔥 Pushed to The-Repo-Club/pass
-4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-5. 🔥 Pushed to The-Repo-Club/instawm-schemas
+4. 🔥 Pushed to The-Repo-Club/pass
+5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 6. 🔥 Pushed to The-Repo-Club/instawm-schemas
-7. 🔥 Pushed to The-Repo-Club/pass
+7. 🔥 Pushed to The-Repo-Club/instawm-schemas
 8. 🔥 Pushed to The-Repo-Club/pass
-9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-10. 🔥 Pushed to The-Repo-Club/pass
+9. 🔥 Pushed to The-Repo-Club/pass
+10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
