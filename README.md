@@ -126,7 +126,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🔥 Pushed to The-Repo-Club/instamenu
+2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 3. 🔥 Pushed to The-Repo-Club/instamenu
 4. 🔥 Pushed to The-Repo-Club/instamenu
 5. 🔥 Pushed to The-Repo-Club/instamenu
