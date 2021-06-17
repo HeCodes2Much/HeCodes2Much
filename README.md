@@ -122,10 +122,10 @@ CSS                      2 repos             █░░░░░░░░░░�
 2. 🔥 Pushed to The-Repo-Club/xsserve
 3. 🔥 Pushed to The-Repo-Club/xsserve
 4. 🔥 Pushed to The-Repo-Club/xsserve
-5. 💪 Opened PR [#7](https://github.com/thatsn0tmysite/xsserve/pull/7) in [thatsn0tmysite/xsserve](https://github.com/thatsn0tmysite/xsserve)
+5. 🔥 Pushed to The-Repo-Club/xsserve
 6. 🔥 Pushed to The-Repo-Club/xsserve
-7. 🔥 Pushed to The-Repo-Club/xsserve
+7. 💪 Opened PR [#7](https://github.com/thatsn0tmysite/xsserve/pull/7) in [thatsn0tmysite/xsserve](https://github.com/thatsn0tmysite/xsserve)
 8. 🔥 Pushed to The-Repo-Club/xsserve
 9. 🔥 Pushed to The-Repo-Club/xsserve
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+10. 🔥 Pushed to The-Repo-Club/xsserve
 <!--END_SECTION:activity-->
