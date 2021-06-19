@@ -126,14 +126,14 @@ CSS                      2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+1. 🔥 Pushed to The-Repo-Club/xsserve
 2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-4. 💪 Opened PR [#8](https://github.com/thatsn0tmysite/xsserve/pull/8) in [thatsn0tmysite/xsserve](https://github.com/thatsn0tmysite/xsserve)
-5. 🔥 Pushed to The-Repo-Club/xsserve
-6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. 💪 Opened PR [#8](https://github.com/thatsn0tmysite/xsserve/pull/8) in [thatsn0tmysite/xsserve](https://github.com/thatsn0tmysite/xsserve)
+6. 🔥 Pushed to The-Repo-Club/xsserve
 7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-8. 🔥 Pushed to The-Repo-Club/my-rest-api
+8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 9. 🔥 Pushed to The-Repo-Club/my-rest-api
-10. 🎉 Merged PR [#5](https://github.com/The-Repo-Club/my-rest-api/pull/5) in [The-Repo-Club/my-rest-api](https://github.com/The-Repo-Club/my-rest-api)
+10. 🔥 Pushed to The-Repo-Club/my-rest-api
 <!--END_SECTION:activity-->
