@@ -126,14 +126,14 @@ CSS                      2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/thatsn0tmysite/xsserve/pull/12) in [thatsn0tmysite/xsserve](https://github.com/thatsn0tmysite/xsserve)
+1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 2. 🔥 Pushed to The-Repo-Club/xsserve
-3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-4. ❌ Closed PR [#11](https://github.com/thatsn0tmysite/xsserve/pull/11) in [thatsn0tmysite/xsserve](https://github.com/thatsn0tmysite/xsserve)
-5. 🔥 Pushed to The-Repo-Club/DotFiles
-6. 🔥 Pushed to The-Repo-Club/DotFiles
-7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. 💪 Opened PR [#12](https://github.com/thatsn0tmysite/xsserve/pull/12) in [thatsn0tmysite/xsserve](https://github.com/thatsn0tmysite/xsserve)
+4. 🔥 Pushed to The-Repo-Club/xsserve
+5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+6. ❌ Closed PR [#11](https://github.com/thatsn0tmysite/xsserve/pull/11) in [thatsn0tmysite/xsserve](https://github.com/thatsn0tmysite/xsserve)
+7. 🔥 Pushed to The-Repo-Club/DotFiles
 8. 🔥 Pushed to The-Repo-Club/DotFiles
 9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+10. 🔥 Pushed to The-Repo-Club/DotFiles
 <!--END_SECTION:activity-->
