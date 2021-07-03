@@ -128,12 +128,12 @@ CSS                      2 repos             █░░░░░░░░░░�
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. 🔥 Pushed to The-Repo-Club/bfetch
 4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-6. 🔥 Pushed to The-Repo-Club/xsserve
-7. 💪 Opened PR [#12](https://github.com/thatsn0tmysite/xsserve/pull/12) in [thatsn0tmysite/xsserve](https://github.com/thatsn0tmysite/xsserve)
-8. 🔥 Pushed to The-Repo-Club/xsserve
-9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-10. ❌ Closed PR [#11](https://github.com/thatsn0tmysite/xsserve/pull/11) in [thatsn0tmysite/xsserve](https://github.com/thatsn0tmysite/xsserve)
+6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+9. 🔥 Pushed to The-Repo-Club/xsserve
+10. 💪 Opened PR [#12](https://github.com/thatsn0tmysite/xsserve/pull/12) in [thatsn0tmysite/xsserve](https://github.com/thatsn0tmysite/xsserve)
 <!--END_SECTION:activity-->
