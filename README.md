@@ -126,13 +126,13 @@ CSS                      2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to AudioCity-Studio/AudioCity
-2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-3. 🔥 Pushed to AuidoCity/AudioCity
+1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+2. 🔥 Pushed to AudioCity-Studio/AudioCity
+3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 4. 🔥 Pushed to AuidoCity/AudioCity
 5. 🔥 Pushed to AuidoCity/AudioCity
-6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-7. 🔥 Pushed to AuidoCity/AudioCity
+6. 🔥 Pushed to AuidoCity/AudioCity
+7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 8. 🔥 Pushed to AuidoCity/AudioCity
 9. 🔥 Pushed to AuidoCity/AudioCity
 10. 🔥 Pushed to AuidoCity/AudioCity
