@@ -127,13 +127,13 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to AudioCity-Studio/AudioCity
-2. 🔥 Pushed to AudioCity-Studio/AudioCity
+2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 3. 🔥 Pushed to AudioCity-Studio/AudioCity
 4. 🔥 Pushed to AudioCity-Studio/AudioCity
-5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. 🔥 Pushed to AudioCity-Studio/AudioCity
 6. 🔥 Pushed to AudioCity-Studio/AudioCity
 7. 🔥 Pushed to AudioCity-Studio/AudioCity
-8. 🔥 Pushed to AudioCity-Studio/AudioCity
-9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+9. 🔥 Pushed to AudioCity-Studio/AudioCity
+10. 🔥 Pushed to AudioCity-Studio/AudioCity
 <!--END_SECTION:activity-->
