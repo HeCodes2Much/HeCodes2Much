@@ -126,14 +126,14 @@ CSS                      2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/DotFiles
-2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-3. 🔥 Pushed to The-Repo-Club/xsserve
-4. 🔥 Pushed to The-Repo-Club/wm-maim
-5. 🔥 Pushed to The-Repo-Club/wm-cheat
-6. 🔥 Pushed to The-Repo-Club/wallpapers
-7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-8. 🔥 Pushed to The-Repo-Club/siji
-9. 🔥 Pushed to The-Repo-Club/sddm-endeavour
-10. 🔥 Pushed to The-Repo-Club/recycle-cli
+1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+2. 🔥 Pushed to The-Repo-Club/DotFiles
+3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+4. 🔥 Pushed to The-Repo-Club/xsserve
+5. 🔥 Pushed to The-Repo-Club/wm-maim
+6. 🔥 Pushed to The-Repo-Club/wm-cheat
+7. 🔥 Pushed to The-Repo-Club/wallpapers
+8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+9. 🔥 Pushed to The-Repo-Club/siji
+10. 🔥 Pushed to The-Repo-Club/sddm-endeavour
 <!--END_SECTION:activity-->
