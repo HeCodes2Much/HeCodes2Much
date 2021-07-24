@@ -128,12 +128,12 @@ CSS                      2 repos             █░░░░░░░░░░�
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-3. 🔥 Pushed to ArchAUR/auracle
-4. 🔥 Pushed to ArchAUR/PKGBUILD
-5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+4. 🔥 Pushed to ArchAUR/auracle
+5. 🔥 Pushed to ArchAUR/PKGBUILD
 6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-8. 🔥 Pushed to ArchAUR/PKGBUILD
+8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 9. 🔥 Pushed to ArchAUR/PKGBUILD
-10. 🔥 Pushed to ArchAUR/auracle
+10. 🔥 Pushed to ArchAUR/PKGBUILD
 <!--END_SECTION:activity-->
