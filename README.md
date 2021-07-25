@@ -127,13 +127,13 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🔥 Pushed to ArchAUR/sddm-endeavour
-3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-4. 🔥 Pushed to ArchAUR/polkit-dumb-agent
+2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. 🔥 Pushed to ArchAUR/sddm-endeavour
+4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 5. 🔥 Pushed to ArchAUR/polkit-dumb-agent
-6. 🔥 Pushed to ArchAUR/instawm-schemas
-7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-8. 🔥 Pushed to ArchAUR/instawm-schemas
-9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-10. 🔥 Pushed to ArchAUR/instawm
+6. 🔥 Pushed to ArchAUR/polkit-dumb-agent
+7. 🔥 Pushed to ArchAUR/instawm-schemas
+8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+9. 🔥 Pushed to ArchAUR/instawm-schemas
+10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
