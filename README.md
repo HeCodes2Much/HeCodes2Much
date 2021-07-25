@@ -126,14 +126,14 @@ CSS                      2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🔥 Pushed to ArchAUR/instaaur
-3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-4. 🔥 Pushed to The-Repo-Club/instaaur
+1. 🔥 Pushed to ArchAUR/instawm
+2. 🔥 Pushed to ArchAUR/instamenu-schemas
+3. 🔥 Pushed to ArchAUR/instamenu-extra
+4. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
 5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-6. 🔥 Pushed to ArchAUR/anymeal
+6. 🔥 Pushed to ArchAUR/instaaur
 7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+8. 🔥 Pushed to The-Repo-Club/instaaur
 9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-10. 🔥 Pushed to ArchAUR/wallpapers
+10. 🔥 Pushed to ArchAUR/anymeal
 <!--END_SECTION:activity-->
