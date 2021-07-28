@@ -132,8 +132,8 @@ CSS                      2 repos             █░░░░░░░░░░�
 4. 🔥 Pushed to The-Repo-Club/PKGBUILD
 5. 🔥 Pushed to The-Repo-Club/PKGBUILD
 6. 🔥 Pushed to The-Repo-Club/PKGBUILD
-7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-8. 🔥 Pushed to The-Repo-Club/instaaur
-9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+7. 🔥 Pushed to The-Repo-Club/PKGBUILD
+8. 🔥 Pushed to The-Repo-Club/PKGBUILD
+9. 🔥 Pushed to The-Repo-Club/PKGBUILD
+10. 🔥 Pushed to The-Repo-Club/PKGBUILD
 <!--END_SECTION:activity-->
