@@ -127,13 +127,13 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🔥 Pushed to The-Repo-Club/PKGBUILD
+2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 3. 🔥 Pushed to The-Repo-Club/PKGBUILD
 4. 🔥 Pushed to The-Repo-Club/PKGBUILD
 5. 🔥 Pushed to The-Repo-Club/PKGBUILD
 6. 🔥 Pushed to The-Repo-Club/PKGBUILD
 7. 🔥 Pushed to The-Repo-Club/PKGBUILD
-8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+8. 🔥 Pushed to The-Repo-Club/PKGBUILD
 9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
