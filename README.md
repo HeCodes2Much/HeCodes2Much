@@ -126,14 +126,14 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/instawm
-2. 🔥 Pushed to The-Repo-Club/instamenu-extra
+1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+2. 🔥 Pushed to The-Repo-Club/instawm
 3. 🔥 Pushed to The-Repo-Club/instamenu-extra
-4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-5. 🔥 Pushed to The-Repo-Club/instamenu-extra
+4. 🔥 Pushed to The-Repo-Club/instamenu-extra
+5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 6. 🔥 Pushed to The-Repo-Club/instamenu-extra
 7. 🔥 Pushed to The-Repo-Club/instamenu-extra
-8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-9. 🔥 Pushed to The-Repo-Club/instaaur
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+8. 🔥 Pushed to The-Repo-Club/instamenu-extra
+9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+10. 🔥 Pushed to The-Repo-Club/instaaur
 <!--END_SECTION:activity-->
