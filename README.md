@@ -126,14 +126,14 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/DotFiles
-2. 🔥 Pushed to The-Repo-Club/DotFiles
-3. 🔥 Pushed to The-Repo-Club/DotFiles
-4. 🔥 Pushed to The-Repo-Club/PKGBUILD
-5. 💪 Opened PR [#108](https://github.com/endeavouros-team/PKGBUILDS/pull/108) in [endeavouros-team/PKGBUILDS](https://github.com/endeavouros-team/PKGBUILDS)
-6. 🔥 Pushed to The-Repo-Club/PKGBUILDS
-7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-8. 🔥 Pushed to The-Repo-Club/mirror.endeavouros
-9. 🔥 Pushed to The-Repo-Club/mirror.endeavouros
-10. 🔥 Pushed to The-Repo-Club/mirror.endeavouros
+1. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+2. 🔥 Pushed to ArchAUR/qt-logout
+3. 🔥 Pushed to The-Repo-Club/qt-logout
+4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. 🔥 Pushed to The-Repo-Club/DotFiles
+6. 🔥 Pushed to The-Repo-Club/DotFiles
+7. 🔥 Pushed to The-Repo-Club/DotFiles
+8. 🔥 Pushed to The-Repo-Club/PKGBUILD
+9. 💪 Opened PR [#108](https://github.com/endeavouros-team/PKGBUILDS/pull/108) in [endeavouros-team/PKGBUILDS](https://github.com/endeavouros-team/PKGBUILDS)
+10. 🔥 Pushed to The-Repo-Club/PKGBUILDS
 <!--END_SECTION:activity-->
