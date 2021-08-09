@@ -132,8 +132,8 @@ HTML                     1 repo              ░░░░░░░░░░░�
 4. 🔥 Pushed to The-Repo-Club/mirror.endeavouros
 5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 6. 🔥 Pushed to The-Repo-Club/mirror.endeavouros
-7. 🔥 Pushed to The-Repo-Club/mirror.endeavouros
+7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 8. 🔥 Pushed to The-Repo-Club/mirror.endeavouros
-9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+9. 🔥 Pushed to The-Repo-Club/mirror.endeavouros
 10. 🔥 Pushed to The-Repo-Club/mirror.endeavouros
 <!--END_SECTION:activity-->
