@@ -126,14 +126,14 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+1. ❌ Closed PR [#108](https://github.com/endeavouros-team/PKGBUILDS/pull/108) in [endeavouros-team/PKGBUILDS](https://github.com/endeavouros-team/PKGBUILDS)
 2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-5. 🔥 Pushed to The-Repo-Club/mirror.endeavouros
+5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 6. 🔥 Pushed to The-Repo-Club/mirror.endeavouros
-7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-8. 🔥 Pushed to The-Repo-Club/mirror.endeavouros
-9. 🗣 Commented on [#108](https://github.com/endeavouros-team/PKGBUILDS/issues/108) in [endeavouros-team/PKGBUILDS](https://github.com/endeavouros-team/PKGBUILDS)
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+7. 🔥 Pushed to The-Repo-Club/mirror.endeavouros
+8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+9. 🔥 Pushed to The-Repo-Club/mirror.endeavouros
+10. 🗣 Commented on [#108](https://github.com/endeavouros-team/PKGBUILDS/issues/108) in [endeavouros-team/PKGBUILDS](https://github.com/endeavouros-team/PKGBUILDS)
 <!--END_SECTION:activity-->
