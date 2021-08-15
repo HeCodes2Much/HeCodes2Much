@@ -126,14 +126,14 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-3. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-4. 🔥 Pushed to ArchAUR/qt-logout
-5. 🔥 Pushed to ArchAUR/multimonitorlock-gui
-6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-7. 🔥 Pushed to The-Repo-Club/qt-logout
-8. 🔥 Pushed to The-Repo-Club/multimonitorlock-gui
-9. 🔥 Pushed to The-Repo-Club/mirror.endeavouros
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+2. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+4. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+5. 🔥 Pushed to ArchAUR/qt-logout
+6. 🔥 Pushed to ArchAUR/multimonitorlock-gui
+7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+8. 🔥 Pushed to The-Repo-Club/qt-logout
+9. 🔥 Pushed to The-Repo-Club/multimonitorlock-gui
+10. 🔥 Pushed to The-Repo-Club/mirror.endeavouros
 <!--END_SECTION:activity-->
