@@ -127,14 +127,14 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/pacaur
-2. 🔥 Pushed to The-Repo-Club/pacaur
+1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+2. 🔥 Pushed to ArchAUR/pacaur
 3. 🔥 Pushed to The-Repo-Club/pacaur
 4. 🔥 Pushed to The-Repo-Club/pacaur
-5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. 🔥 Pushed to The-Repo-Club/pacaur
 6. 🔥 Pushed to The-Repo-Club/pacaur
-7. 🔥 Pushed to The-Repo-Club/pacaur
+7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 8. 🔥 Pushed to The-Repo-Club/pacaur
-9. 🔥 Pushed to The-Repo-Club/DotFiles
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+9. 🔥 Pushed to The-Repo-Club/pacaur
+10. 🔥 Pushed to The-Repo-Club/pacaur
 <!--END_SECTION:activity-->
