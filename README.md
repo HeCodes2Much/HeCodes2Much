@@ -128,13 +128,13 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🔥 Pushed to ArchAUR/pacaur
+2. 🔥 Pushed to The-Repo-Club/pacaur
 3. 🔥 Pushed to The-Repo-Club/pacaur
-4. 🔥 Pushed to The-Repo-Club/pacaur
-5. 🔥 Pushed to The-Repo-Club/pacaur
+4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. 🔥 Pushed to ArchAUR/pacaur
 6. 🔥 Pushed to The-Repo-Club/pacaur
-7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+7. 🔥 Pushed to The-Repo-Club/pacaur
 8. 🔥 Pushed to The-Repo-Club/pacaur
 9. 🔥 Pushed to The-Repo-Club/pacaur
-10. 🔥 Pushed to The-Repo-Club/pacaur
+10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
