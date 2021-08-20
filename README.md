@@ -127,14 +127,14 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+1. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
 2. 🔥 Pushed to ArchAUR/multimonitorlock-gui
 3. 🔥 Pushed to The-Repo-Club/multimonitorlock-gui
 4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-5. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-6. 🔥 Pushed to ArchAUR/multimonitorlock
+5. 🔥 Pushed to The-Repo-Club/multimonitorlock-gui
+6. 🔥 Pushed to The-Repo-Club/multimonitorlock-gui
 7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-8. 🔥 Pushed to The-Repo-Club/multimonitorlock
-9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-10. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+8. 🔥 Pushed to ArchAUR/multimonitorlock-gui
+9. 🔥 Pushed to The-Repo-Club/multimonitorlock-gui
+10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
