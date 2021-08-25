@@ -127,14 +127,14 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🔥 Pushed to The-Repo-Club/pass
-3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+1. 🔥 Pushed to The-Repo-Club/wallpapers
+2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. 🔥 Pushed to The-Repo-Club/pass
 4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-5. 🔥 Pushed to ArchAUR/dracula-themes
-6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+6. 🔥 Pushed to ArchAUR/dracula-themes
 7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-8. 🔥 Pushed to ArchAUR/dracula-gtk-theme
-9. 🔥 Pushed to ArchAUR/dracula-qt5-theme
-10. 🔥 Pushed to The-Repo-Club/Dracula
+8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+9. 🔥 Pushed to ArchAUR/dracula-gtk-theme
+10. 🔥 Pushed to ArchAUR/dracula-qt5-theme
 <!--END_SECTION:activity-->
