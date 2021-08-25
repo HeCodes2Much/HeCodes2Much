@@ -128,13 +128,13 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🔥 Pushed to ArchAUR/dracula-gtk-theme
-3. 🔥 Pushed to ArchAUR/dracula-qt5-theme
-4. 🔥 Pushed to The-Repo-Club/Dracula
-5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-6. 🔥 Pushed to The-Repo-Club/Dracula
-7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-8. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-9. 🔥 Pushed to ArchAUR/repomenu
-10. 🔥 Pushed to The-Repo-Club/repomenu
+2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. 🔥 Pushed to ArchAUR/dracula-gtk-theme
+4. 🔥 Pushed to ArchAUR/dracula-qt5-theme
+5. 🔥 Pushed to The-Repo-Club/Dracula
+6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+7. 🔥 Pushed to The-Repo-Club/Dracula
+8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+9. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+10. 🔥 Pushed to ArchAUR/repomenu
 <!--END_SECTION:activity-->
