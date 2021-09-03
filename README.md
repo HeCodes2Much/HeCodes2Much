@@ -84,16 +84,18 @@ Sunday       217 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     4 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      4 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+themix-gui-git           4 mins              ███████████████████████░░   94.04% 
+themix-export-spotify-git0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.96% 
+themix-icons-archdroid-gi0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 mins              █████████████████████████   100.0%
 
 ```
 
