@@ -123,14 +123,14 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🗣 Commented on [#33](https://github.com/themix-project/oomox/issues/33) in [themix-project/oomox](https://github.com/themix-project/oomox)
-3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-4. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-6. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+1. 🗣 Commented on [#397](https://github.com/themix-project/oomox/issues/397) in [themix-project/oomox](https://github.com/themix-project/oomox)
+2. 🗣 Commented on [#397](https://github.com/themix-project/oomox/issues/397) in [themix-project/oomox](https://github.com/themix-project/oomox)
+3. ❗️ Opened issue [#397](https://github.com/themix-project/oomox/issues/397) in [themix-project/oomox](https://github.com/themix-project/oomox)
+4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. 🗣 Commented on [#33](https://github.com/themix-project/oomox/issues/33) in [themix-project/oomox](https://github.com/themix-project/oomox)
+6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+7. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
 8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-9. 🔥 Pushed to The-Repo-Club/DotFiles
+9. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
 10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
