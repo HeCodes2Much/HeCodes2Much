@@ -126,11 +126,11 @@ HTML                     1 repo              ░░░░░░░░░░░�
 1. 🗣 Commented on [#397](https://github.com/themix-project/oomox/issues/397) in [themix-project/oomox](https://github.com/themix-project/oomox)
 2. 🗣 Commented on [#397](https://github.com/themix-project/oomox/issues/397) in [themix-project/oomox](https://github.com/themix-project/oomox)
 3. 🗣 Commented on [#397](https://github.com/themix-project/oomox/issues/397) in [themix-project/oomox](https://github.com/themix-project/oomox)
-4. ❗️ Opened issue [#397](https://github.com/themix-project/oomox/issues/397) in [themix-project/oomox](https://github.com/themix-project/oomox)
-5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-6. 🗣 Commented on [#33](https://github.com/themix-project/oomox/issues/33) in [themix-project/oomox](https://github.com/themix-project/oomox)
-7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-8. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-10. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+4. 🗣 Commented on [#397](https://github.com/themix-project/oomox/issues/397) in [themix-project/oomox](https://github.com/themix-project/oomox)
+5. 🗣 Commented on [#397](https://github.com/themix-project/oomox/issues/397) in [themix-project/oomox](https://github.com/themix-project/oomox)
+6. 🗣 Commented on [#397](https://github.com/themix-project/oomox/issues/397) in [themix-project/oomox](https://github.com/themix-project/oomox)
+7. ❗️ Opened issue [#397](https://github.com/themix-project/oomox/issues/397) in [themix-project/oomox](https://github.com/themix-project/oomox)
+8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+9. 🗣 Commented on [#33](https://github.com/themix-project/oomox/issues/33) in [themix-project/oomox](https://github.com/themix-project/oomox)
+10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
