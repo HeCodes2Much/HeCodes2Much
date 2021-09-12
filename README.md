@@ -123,13 +123,13 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/repowm
-2. 🔥 Pushed to The-Repo-Club/repowm
-3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. 🔥 Pushed to The-Repo-Club/repowm
+4. 🔥 Pushed to The-Repo-Club/repowm
 5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-6. 🔥 Pushed to The-Repo-Club/oomox
-7. 🗣 Commented on [#397](https://github.com/themix-project/oomox/issues/397) in [themix-project/oomox](https://github.com/themix-project/oomox)
-8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-9. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-10. 🗣 Commented on [#10](https://github.com/terminalforlife/Extra/issues/10) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
+6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+8. 🔥 Pushed to The-Repo-Club/oomox
+9. 🗣 Commented on [#397](https://github.com/themix-project/oomox/issues/397) in [themix-project/oomox](https://github.com/themix-project/oomox)
+10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
