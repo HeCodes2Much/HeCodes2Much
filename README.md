@@ -123,13 +123,13 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10](https://github.com/terminalforlife/Extra/issues/10) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
-2. 🗣 Commented on [#398](https://github.com/themix-project/oomox/issues/398) in [themix-project/oomox](https://github.com/themix-project/oomox)
-3. 🗣 Commented on [#11](https://github.com/terminalforlife/Extra/issues/11) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
-4. ❗️ Closed issue [#398](https://github.com/themix-project/oomox/issues/398) in [themix-project/oomox](https://github.com/themix-project/oomox)
-5. ❗️ Opened issue [#398](https://github.com/themix-project/oomox/issues/398) in [themix-project/oomox](https://github.com/themix-project/oomox)
-6. 🗣 Commented on [#10](https://github.com/terminalforlife/Extra/issues/10) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
-7. 🗣 Commented on [#397](https://github.com/themix-project/oomox/issues/397) in [themix-project/oomox](https://github.com/themix-project/oomox)
-8. 🗣 Commented on [#10](https://github.com/terminalforlife/Extra/issues/10) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
-9. 🗣 Commented on [#2](https://github.com/tmccombs/i3-cheat/issues/2) in [tmccombs/i3-cheat](https://github.com/tmccombs/i3-cheat)
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+2. 🗣 Commented on [#10](https://github.com/terminalforlife/Extra/issues/10) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
+3. 🗣 Commented on [#398](https://github.com/themix-project/oomox/issues/398) in [themix-project/oomox](https://github.com/themix-project/oomox)
+4. 🗣 Commented on [#11](https://github.com/terminalforlife/Extra/issues/11) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
+5. ❗️ Closed issue [#398](https://github.com/themix-project/oomox/issues/398) in [themix-project/oomox](https://github.com/themix-project/oomox)
+6. ❗️ Opened issue [#398](https://github.com/themix-project/oomox/issues/398) in [themix-project/oomox](https://github.com/themix-project/oomox)
+7. 🗣 Commented on [#10](https://github.com/terminalforlife/Extra/issues/10) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
+8. 🗣 Commented on [#397](https://github.com/themix-project/oomox/issues/397) in [themix-project/oomox](https://github.com/themix-project/oomox)
+9. 🗣 Commented on [#10](https://github.com/terminalforlife/Extra/issues/10) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
+10. 🗣 Commented on [#2](https://github.com/tmccombs/i3-cheat/issues/2) in [tmccombs/i3-cheat](https://github.com/tmccombs/i3-cheat)
 <!--END_SECTION:activity-->
