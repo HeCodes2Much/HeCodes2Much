@@ -122,14 +122,14 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/tmccombs/i3-cheat/issues/2) in [tmccombs/i3-cheat](https://github.com/tmccombs/i3-cheat)
-2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-3. 🔥 Pushed to The-Repo-Club/DotFiles
-4. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-5. ❗️ Opened issue [#11](https://github.com/terminalforlife/Extra/issues/11) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
-6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-7. 🗣 Commented on [#10](https://github.com/terminalforlife/Extra/issues/10) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
-8. 🔥 Pushed to The-Repo-Club/repowm
-9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-10. 🔥 Pushed to The-Repo-Club/repowm
+1. 🗣 Commented on [#10](https://github.com/terminalforlife/Extra/issues/10) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
+2. 🗣 Commented on [#398](https://github.com/themix-project/oomox/issues/398) in [themix-project/oomox](https://github.com/themix-project/oomox)
+3. 🗣 Commented on [#11](https://github.com/terminalforlife/Extra/issues/11) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
+4. ❗️ Closed issue [#398](https://github.com/themix-project/oomox/issues/398) in [themix-project/oomox](https://github.com/themix-project/oomox)
+5. ❗️ Opened issue [#398](https://github.com/themix-project/oomox/issues/398) in [themix-project/oomox](https://github.com/themix-project/oomox)
+6. 🗣 Commented on [#10](https://github.com/terminalforlife/Extra/issues/10) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
+7. 🗣 Commented on [#397](https://github.com/themix-project/oomox/issues/397) in [themix-project/oomox](https://github.com/themix-project/oomox)
+8. 🗣 Commented on [#10](https://github.com/terminalforlife/Extra/issues/10) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
+9. 🗣 Commented on [#2](https://github.com/tmccombs/i3-cheat/issues/2) in [tmccombs/i3-cheat](https://github.com/tmccombs/i3-cheat)
+10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
