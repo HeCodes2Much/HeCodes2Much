@@ -123,13 +123,13 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-3. 🗣 Commented on [#10](https://github.com/terminalforlife/Extra/issues/10) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
-4. 🗣 Commented on [#10](https://github.com/terminalforlife/Extra/issues/10) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
+2. 🔥 Pushed to The-Repo-Club/DotFiles
+3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 5. 🗣 Commented on [#10](https://github.com/terminalforlife/Extra/issues/10) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
 6. 🗣 Commented on [#10](https://github.com/terminalforlife/Extra/issues/10) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
 7. 🗣 Commented on [#10](https://github.com/terminalforlife/Extra/issues/10) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
 8. 🗣 Commented on [#10](https://github.com/terminalforlife/Extra/issues/10) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
-9. 🗣 Commented on [#398](https://github.com/themix-project/oomox/issues/398) in [themix-project/oomox](https://github.com/themix-project/oomox)
-10. 🗣 Commented on [#11](https://github.com/terminalforlife/Extra/issues/11) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
+9. 🗣 Commented on [#10](https://github.com/terminalforlife/Extra/issues/10) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
+10. 🗣 Commented on [#10](https://github.com/terminalforlife/Extra/issues/10) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
 <!--END_SECTION:activity-->
