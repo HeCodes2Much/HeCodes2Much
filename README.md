@@ -122,14 +122,14 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/terminalforlife/Extra/issues/10) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
-2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+1. 🔥 Pushed to The-Repo-Club/repowm
+2. 🗣 Commented on [#10](https://github.com/terminalforlife/Extra/issues/10) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
 3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-4. 🔥 Pushed to The-Repo-Club/repowm
-5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-6. 🔥 Pushed to The-Repo-Club/DotFiles
-7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-8. 🔥 Pushed to The-Repo-Club/DotFiles
-9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. 🔥 Pushed to The-Repo-Club/repowm
+6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+7. 🔥 Pushed to The-Repo-Club/DotFiles
+8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+9. 🔥 Pushed to The-Repo-Club/DotFiles
 10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
