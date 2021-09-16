@@ -123,13 +123,13 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🗣 Commented on [#1](https://github.com/linuxdabbler/personal-dot-files/issues/1) in [linuxdabbler/personal-dot-files](https://github.com/linuxdabbler/personal-dot-files)
-3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-5. 🗣 Commented on [#242](https://github.com/themix-project/oomox/issues/242) in [themix-project/oomox](https://github.com/themix-project/oomox)
+2. 🔥 Pushed to The-Repo-Club/ArchAUR
+3. 🔥 Pushed to The-Repo-Club/repomenu-snapshots
+4. 🔥 Pushed to The-Repo-Club/ArchAUR
+5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 6. 🗣 Commented on [#1](https://github.com/linuxdabbler/personal-dot-files/issues/1) in [linuxdabbler/personal-dot-files](https://github.com/linuxdabbler/personal-dot-files)
-7. 🔥 Pushed to The-Repo-Club/personal-dot-files
-8. 🗣 Commented on [#1](https://github.com/linuxdabbler/personal-dot-files/issues/1) in [linuxdabbler/personal-dot-files](https://github.com/linuxdabbler/personal-dot-files)
-9. 🔥 Pushed to The-Repo-Club/personal-dot-files
+7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+9. 🗣 Commented on [#242](https://github.com/themix-project/oomox/issues/242) in [themix-project/oomox](https://github.com/themix-project/oomox)
 10. 🗣 Commented on [#1](https://github.com/linuxdabbler/personal-dot-files/issues/1) in [linuxdabbler/personal-dot-files](https://github.com/linuxdabbler/personal-dot-files)
 <!--END_SECTION:activity-->
