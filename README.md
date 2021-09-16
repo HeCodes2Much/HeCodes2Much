@@ -122,14 +122,14 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/repomenu-snapshots
-2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-3. 🗣 Commented on [#1](https://github.com/linuxdabbler/personal-dot-files/issues/1) in [linuxdabbler/personal-dot-files](https://github.com/linuxdabbler/personal-dot-files)
-4. 🔥 Pushed to The-Repo-Club/repomenu-snapshots
-5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-6. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-7. 🔥 Pushed to The-Repo-Club/ArchAUR
-8. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-9. 🔥 Pushed to The-Repo-Club/repomenu-snapshots
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+2. 🔥 Pushed to The-Repo-Club/repomenu-snapshots
+3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+4. 🗣 Commented on [#1](https://github.com/linuxdabbler/personal-dot-files/issues/1) in [linuxdabbler/personal-dot-files](https://github.com/linuxdabbler/personal-dot-files)
+5. 🔥 Pushed to The-Repo-Club/repomenu-snapshots
+6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+7. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+8. 🔥 Pushed to The-Repo-Club/ArchAUR
+9. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+10. 🔥 Pushed to The-Repo-Club/repomenu-snapshots
 <!--END_SECTION:activity-->
