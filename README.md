@@ -123,13 +123,13 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🗣 Commented on [#242](https://github.com/themix-project/oomox/issues/242) in [themix-project/oomox](https://github.com/themix-project/oomox)
-3. 🗣 Commented on [#1](https://github.com/linuxdabbler/personal-dot-files/issues/1) in [linuxdabbler/personal-dot-files](https://github.com/linuxdabbler/personal-dot-files)
-4. 🔥 Pushed to The-Repo-Club/personal-dot-files
-5. 🗣 Commented on [#1](https://github.com/linuxdabbler/personal-dot-files/issues/1) in [linuxdabbler/personal-dot-files](https://github.com/linuxdabbler/personal-dot-files)
-6. 🔥 Pushed to The-Repo-Club/personal-dot-files
-7. 🗣 Commented on [#1](https://github.com/linuxdabbler/personal-dot-files/issues/1) in [linuxdabbler/personal-dot-files](https://github.com/linuxdabbler/personal-dot-files)
-8. 💪 Opened PR [#1](https://github.com/linuxdabbler/personal-dot-files/pull/1) in [linuxdabbler/personal-dot-files](https://github.com/linuxdabbler/personal-dot-files)
-9. 🔥 Pushed to The-Repo-Club/personal-dot-files
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. 🗣 Commented on [#242](https://github.com/themix-project/oomox/issues/242) in [themix-project/oomox](https://github.com/themix-project/oomox)
+4. 🗣 Commented on [#1](https://github.com/linuxdabbler/personal-dot-files/issues/1) in [linuxdabbler/personal-dot-files](https://github.com/linuxdabbler/personal-dot-files)
+5. 🔥 Pushed to The-Repo-Club/personal-dot-files
+6. 🗣 Commented on [#1](https://github.com/linuxdabbler/personal-dot-files/issues/1) in [linuxdabbler/personal-dot-files](https://github.com/linuxdabbler/personal-dot-files)
+7. 🔥 Pushed to The-Repo-Club/personal-dot-files
+8. 🗣 Commented on [#1](https://github.com/linuxdabbler/personal-dot-files/issues/1) in [linuxdabbler/personal-dot-files](https://github.com/linuxdabbler/personal-dot-files)
+9. 💪 Opened PR [#1](https://github.com/linuxdabbler/personal-dot-files/pull/1) in [linuxdabbler/personal-dot-files](https://github.com/linuxdabbler/personal-dot-files)
+10. 🔥 Pushed to The-Repo-Club/personal-dot-files
 <!--END_SECTION:activity-->
