@@ -121,13 +121,13 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🔥 Pushed to The-Repo-Club/oomox-templates
-3. 🔥 Pushed to The-Repo-Club/oomox-1
-4. 🗣 Commented on [#397](https://github.com/themix-project/oomox/issues/397) in [themix-project/oomox](https://github.com/themix-project/oomox)
-5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-6. 🔥 Pushed to The-Repo-Club/DotFiles
-7. 🔥 Pushed to The-Repo-Club/oomox-1
-8. 💪 Opened PR [#402](https://github.com/themix-project/oomox/pull/402) in [themix-project/oomox](https://github.com/themix-project/oomox)
-9. 🔥 Pushed to The-Repo-Club/oomox-1
-10. 💪 Opened PR [#600](https://github.com/nana-4/materia-theme/pull/600) in [nana-4/materia-theme](https://github.com/nana-4/materia-theme)
+2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. 🔥 Pushed to The-Repo-Club/oomox-templates
+4. 🔥 Pushed to The-Repo-Club/oomox-1
+5. 🗣 Commented on [#397](https://github.com/themix-project/oomox/issues/397) in [themix-project/oomox](https://github.com/themix-project/oomox)
+6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+7. 🔥 Pushed to The-Repo-Club/DotFiles
+8. 🔥 Pushed to The-Repo-Club/oomox-1
+9. 💪 Opened PR [#402](https://github.com/themix-project/oomox/pull/402) in [themix-project/oomox](https://github.com/themix-project/oomox)
+10. 🔥 Pushed to The-Repo-Club/oomox-1
 <!--END_SECTION:activity-->
