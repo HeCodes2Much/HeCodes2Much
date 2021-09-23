@@ -118,14 +118,14 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/DotFiles
-2. 🔥 Pushed to The-Repo-Club/oomox-1
-3. 💪 Opened PR [#402](https://github.com/themix-project/oomox/pull/402) in [themix-project/oomox](https://github.com/themix-project/oomox)
-4. 🔥 Pushed to The-Repo-Club/oomox-1
-5. 💪 Opened PR [#600](https://github.com/nana-4/materia-theme/pull/600) in [nana-4/materia-theme](https://github.com/nana-4/materia-theme)
-6. 🔥 Pushed to The-Repo-Club/materia-theme
+1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+2. 🔥 Pushed to The-Repo-Club/DotFiles
+3. 🔥 Pushed to The-Repo-Club/oomox-1
+4. 💪 Opened PR [#402](https://github.com/themix-project/oomox/pull/402) in [themix-project/oomox](https://github.com/themix-project/oomox)
+5. 🔥 Pushed to The-Repo-Club/oomox-1
+6. 💪 Opened PR [#600](https://github.com/nana-4/materia-theme/pull/600) in [nana-4/materia-theme](https://github.com/nana-4/materia-theme)
 7. 🔥 Pushed to The-Repo-Club/materia-theme
-8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-9. 🗣 Commented on [#594](https://github.com/nana-4/materia-theme/issues/594) in [nana-4/materia-theme](https://github.com/nana-4/materia-theme)
-10. 🔥 Pushed to The-Repo-Club/ArchAUR
+8. 🔥 Pushed to The-Repo-Club/materia-theme
+9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+10. 🗣 Commented on [#594](https://github.com/nana-4/materia-theme/issues/594) in [nana-4/materia-theme](https://github.com/nana-4/materia-theme)
 <!--END_SECTION:activity-->
