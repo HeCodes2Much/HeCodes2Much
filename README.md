@@ -120,14 +120,14 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🔥 Pushed to The-Repo-Club/repomenu-extra
-3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+1. 🔥 Pushed to The-Repo-Club/DotFiles
+2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. 🔥 Pushed to The-Repo-Club/repomenu-extra
 4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-6. 🔥 Pushed to The-Repo-Club/oomox-templates
-7. 🔥 Pushed to The-Repo-Club/oomox-1
-8. 🗣 Commented on [#397](https://github.com/themix-project/oomox/issues/397) in [themix-project/oomox](https://github.com/themix-project/oomox)
-9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-10. 🔥 Pushed to The-Repo-Club/DotFiles
+6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+7. 🔥 Pushed to The-Repo-Club/oomox-templates
+8. 🔥 Pushed to The-Repo-Club/oomox-1
+9. 🗣 Commented on [#397](https://github.com/themix-project/oomox/issues/397) in [themix-project/oomox](https://github.com/themix-project/oomox)
+10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
