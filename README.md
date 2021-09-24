@@ -120,14 +120,14 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+1. 🔥 Pushed to The-Repo-Club/repomenu-extra
 2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-4. 🔥 Pushed to The-Repo-Club/oomox-templates
-5. 🔥 Pushed to The-Repo-Club/oomox-1
-6. 🗣 Commented on [#397](https://github.com/themix-project/oomox/issues/397) in [themix-project/oomox](https://github.com/themix-project/oomox)
-7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-8. 🔥 Pushed to The-Repo-Club/DotFiles
-9. 🔥 Pushed to The-Repo-Club/oomox-1
-10. 💪 Opened PR [#402](https://github.com/themix-project/oomox/pull/402) in [themix-project/oomox](https://github.com/themix-project/oomox)
+4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. 🔥 Pushed to The-Repo-Club/oomox-templates
+6. 🔥 Pushed to The-Repo-Club/oomox-1
+7. 🗣 Commented on [#397](https://github.com/themix-project/oomox/issues/397) in [themix-project/oomox](https://github.com/themix-project/oomox)
+8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+9. 🔥 Pushed to The-Repo-Club/DotFiles
+10. 🔥 Pushed to The-Repo-Club/oomox-1
 <!--END_SECTION:activity-->
