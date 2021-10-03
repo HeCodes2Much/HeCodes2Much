@@ -127,6 +127,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-9. ❌ Closed PR [#402](https://github.com/themix-project/oomox/pull/402) in [themix-project/oomox](https://github.com/themix-project/oomox)
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+10. ❌ Closed PR [#402](https://github.com/themix-project/oomox/pull/402) in [themix-project/oomox](https://github.com/themix-project/oomox)
 <!--END_SECTION:activity-->
