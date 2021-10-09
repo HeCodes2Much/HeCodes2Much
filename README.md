@@ -120,14 +120,14 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+1. 🔥 Pushed to The-Repo-Club/DotFiles
 2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-4. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-6. 🔥 Pushed to The-Repo-Club/oomox
-7. 🗣 Commented on [#147](https://github.com/FedoraQt/adwaita-qt/issues/147) in [FedoraQt/adwaita-qt](https://github.com/FedoraQt/adwaita-qt)
-8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+7. 🔥 Pushed to The-Repo-Club/oomox
+8. 🗣 Commented on [#147](https://github.com/FedoraQt/adwaita-qt/issues/147) in [FedoraQt/adwaita-qt](https://github.com/FedoraQt/adwaita-qt)
 9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
