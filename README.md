@@ -124,10 +124,10 @@ Java                     1 repo              ░░░░░░░░░░░�
 2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-5. 🔥 Pushed to The-Repo-Club/ArchAUR
-6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+6. 🔥 Pushed to The-Repo-Club/ArchAUR
 7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-8. 🔥 Pushed to BullShark/JRobo
+8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 9. 🔥 Pushed to BullShark/JRobo
 10. 🔥 Pushed to BullShark/JRobo
 <!--END_SECTION:activity-->
