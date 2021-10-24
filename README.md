@@ -123,9 +123,9 @@ Java                     1 repo              ░░░░░░░░░░░�
 3. 🔥 Pushed to Kitty-Linux/kitty-calamares-config
 4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 5. 🔥 Pushed to Kitty-Linux/kitty_iso_repo
-6. 🔥 Pushed to Kitty-Linux/kitty_iso_repo
+6. 🔥 Pushed to Kitty-Linux/kitty-calamares-config
 7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-8. 🔥 Pushed to Kitty-Linux/kitty-linux-iso
-9. 🔥 Pushed to The-Repo-Club/DotFiles
-10. 🔥 Pushed to The-Repo-Club/DotFiles
+8. 🔥 Pushed to Kitty-Linux/kitty_iso_repo
+9. 🔥 Pushed to Kitty-Linux/kitty_iso_repo
+10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
