@@ -118,14 +118,14 @@ Java                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/ArchAUR
+1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 2. 🔥 Pushed to The-Repo-Club/ArchAUR
-3. 🔥 Pushed to Kitty-Linux/kitty_iso_repo
-4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-5. 🔥 Pushed to Kitty-Linux/kitty-linux-iso
-6. 🔥 Pushed to Kitty-Linux/kitty_iso_repo
+3. 🔥 Pushed to The-Repo-Club/ArchAUR
+4. 🔥 Pushed to Kitty-Linux/kitty_iso_repo
+5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+6. 🔥 Pushed to Kitty-Linux/kitty-linux-iso
 7. 🔥 Pushed to Kitty-Linux/kitty_iso_repo
-8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-9. 🔥 Pushed to Kitty-Linux/kitty_iso_repo
+8. 🔥 Pushed to Kitty-Linux/kitty_iso_repo
+9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 10. 🔥 Pushed to Kitty-Linux/kitty_iso_repo
 <!--END_SECTION:activity-->
