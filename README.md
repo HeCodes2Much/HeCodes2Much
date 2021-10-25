@@ -120,12 +120,12 @@ Java                     1 repo              ░░░░░░░░░░░�
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-3. 🔥 Pushed to The-Repo-Club/ArchAUR
+3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 4. 🔥 Pushed to The-Repo-Club/ArchAUR
-5. 🔥 Pushed to Kitty-Linux/kitty_iso_repo
-6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-7. 🔥 Pushed to Kitty-Linux/kitty-linux-iso
-8. 🔥 Pushed to Kitty-Linux/kitty_iso_repo
+5. 🔥 Pushed to The-Repo-Club/ArchAUR
+6. 🔥 Pushed to Kitty-Linux/kitty_iso_repo
+7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+8. 🔥 Pushed to Kitty-Linux/kitty-linux-iso
 9. 🔥 Pushed to Kitty-Linux/kitty_iso_repo
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+10. 🔥 Pushed to Kitty-Linux/kitty_iso_repo
 <!--END_SECTION:activity-->
