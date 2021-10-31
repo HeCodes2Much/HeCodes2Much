@@ -13,9 +13,9 @@
 ---
 ### Connect with me:
 
-[<img align="left" alt="The-Repo-Club | GitHub" width="50px" src="https://img.icons8.com/wired/64/ffffff/github.png" />][website]
-[<img align="left" alt="The-Repo-Club | Gmail" width="50px" src="https://img.icons8.com/wired/64/ffffff/gmail.png" />][email]
-[<img align="left" alt="The-Repo-Club | Twitter" width="50px" src="https://img.icons8.com/wired/64/ffffff/telegram-app.png" />][telegram]
+[<img align="left" alt="The-Repo-Club | GitHub" width="50px" src="https://img.icons8.com/nolan/64/github.png" />][website]
+[<img align="left" alt="The-Repo-Club | Gmail" width="50px" src="https://img.icons8.com/nolan/64/gmail.png" />][email]
+[<img align="left" alt="The-Repo-Club | Twitter" width="50px" src="https://img.icons8.com/nolan/64/telegram-app.png" />][telegram]
 
 [website]: https://github.com/The-Repo-Club/
 [email]: mailto:wayne6324@gmail.com
@@ -55,55 +55,55 @@
 **WakaTime Stats ⚡**
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.06% 
-🌆 Daytime    541 commits    █████████████░░░░░░░░░░░░   54.54% 
-🌃 Evening    367 commits    █████████░░░░░░░░░░░░░░░░   37.0% 
+🌞 Morning    80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.06%
+🌆 Daytime    541 commits    █████████████░░░░░░░░░░░░   54.54%
+🌃 Evening    367 commits    █████████░░░░░░░░░░░░░░░░   37.0%
 🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday       151 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.22% 
-Tuesday      144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.52% 
-Wednesday    85 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.57% 
-Thursday     72 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.26% 
-Friday       186 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-Saturday     102 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.28% 
+Monday       151 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.22%
+Tuesday      144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.52%
+Wednesday    85 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.57%
+Thursday     72 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.26%
+Friday       186 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.75%
+Saturday     102 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.28%
 Sunday       252 commits    ██████░░░░░░░░░░░░░░░░░░░   25.4%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Europe/London
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Shell** 
+**I Mostly Code in Shell**
 
 ```text
-Shell                    18 repos            ███████████░░░░░░░░░░░░░░   47.37% 
-Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.42% 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
+Shell                    18 repos            ███████████░░░░░░░░░░░░░░   47.37%
+Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.42%
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53%
+C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89%
 Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63%
 
 ```
