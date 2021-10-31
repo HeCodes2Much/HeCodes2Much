@@ -13,9 +13,9 @@
 ---
 ### Connect with me:
 
-[<img align="left" alt="The-Repo-Club | GitHub" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]
-[<img align="left" alt="The-Repo-Club | Gmail" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" alt="The-Repo-Club | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="The-Repo-Club | GitHub" width="50px" src="https://img.icons8.com/wired/64/ffffff/github.png" />][website]
+[<img align="left" alt="The-Repo-Club | Gmail" width="50px" src="https://img.icons8.com/wired/64/ffffff/gmail.png" />][email]
+[<img align="left" alt="The-Repo-Club | Twitter" width="50px" src="https://img.icons8.com/wired/64/ffffff/telegram-app.png" />][telegram]
 
 [website]: https://github.com/The-Repo-Club/
 [email]: mailto:wayne6324@gmail.com
