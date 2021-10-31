@@ -117,14 +117,14 @@ Java                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/DotFiles
-2. ❗️ Closed issue [#7](https://github.com/terminalforlife/PerlProjects/issues/7) in [terminalforlife/PerlProjects](https://github.com/terminalforlife/PerlProjects)
-3. 🗣 Commented on [#7](https://github.com/terminalforlife/PerlProjects/issues/7) in [terminalforlife/PerlProjects](https://github.com/terminalforlife/PerlProjects)
+1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+2. 🔥 Pushed to The-Repo-Club/DotFiles
+3. ❗️ Closed issue [#7](https://github.com/terminalforlife/PerlProjects/issues/7) in [terminalforlife/PerlProjects](https://github.com/terminalforlife/PerlProjects)
 4. 🗣 Commented on [#7](https://github.com/terminalforlife/PerlProjects/issues/7) in [terminalforlife/PerlProjects](https://github.com/terminalforlife/PerlProjects)
-5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. 🗣 Commented on [#7](https://github.com/terminalforlife/PerlProjects/issues/7) in [terminalforlife/PerlProjects](https://github.com/terminalforlife/PerlProjects)
 6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-10. ❗️ Opened issue [#7](https://github.com/terminalforlife/PerlProjects/issues/7) in [terminalforlife/PerlProjects](https://github.com/terminalforlife/PerlProjects)
+10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
