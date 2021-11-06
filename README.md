@@ -117,14 +117,14 @@ Java                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🔥 Pushed to The-Repo-Club/pacman-repo
+1. 🔥 Pushed to The-Repo-Club/build-packages
+2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 3. 🔥 Pushed to The-Repo-Club/pacman-repo
 4. 🔥 Pushed to The-Repo-Club/pacman-repo
-5. 🔥 Pushed to The-Repo-Club/pacman-repo
-6. 🔥 Pushed to The-Repo-Club/build-packages
+5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+6. 🔥 Pushed to The-Repo-Club/pacman-repo
 7. 🔥 Pushed to The-Repo-Club/pacman-repo
-8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+8. 🔥 Pushed to The-Repo-Club/pacman-repo
 9. 🔥 Pushed to The-Repo-Club/pacman-repo
 10. 🔥 Pushed to The-Repo-Club/build-packages
 <!--END_SECTION:activity-->
