@@ -118,13 +118,13 @@ Java                     2 repos             █░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🔥 Pushed to linknsync/Plugin
+2. 🔥 Pushed to Minecraft-Club/RightClickRepair
 3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-4. 🔥 Pushed to Minecraft-Club/RightClickRepair
-5. 🔥 Pushed to Minecraft-Club/RightClickRepair
-6. 🔥 Pushed to Minecraft-Club/AdminTools
-7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+4. 🔥 Pushed to linknsync/Plugin
+5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+6. 🔥 Pushed to Minecraft-Club/RightClickRepair
+7. 🔥 Pushed to Minecraft-Club/RightClickRepair
 8. 🔥 Pushed to Minecraft-Club/AdminTools
-9. 🔥 Pushed to Minecraft-Club/AdminTools
+9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 10. 🔥 Pushed to Minecraft-Club/AdminTools
 <!--END_SECTION:activity-->
