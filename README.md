@@ -121,10 +121,10 @@ Java                     2 repos             █░░░░░░░░░░�
 2. 🔥 Pushed to Minecraft-Club/MavenRepo
 3. 🔥 Pushed to Minecraft-Club/MavenRepo
 4. 🔥 Pushed to Minecraft-Club/MavenRepo
-5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-6. 🔥 Pushed to Minecraft-Club/MavenRepo
-7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. 🔥 Pushed to Minecraft-Club/MavenRepo
+6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+7. 🔥 Pushed to Minecraft-Club/MavenRepo
 8. 🔥 Pushed to Minecraft-Club/MavenRepo
-9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-10. 🔥 Pushed to Minecraft-Club/BetterEconomy
+9. 🔥 Pushed to Minecraft-Club/MavenRepo
+10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
