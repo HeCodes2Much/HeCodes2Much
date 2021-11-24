@@ -117,14 +117,14 @@ Java                     2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+1. 🔥 Pushed to Minecraft-Club/BetterEconomy
+2. 🎉 Merged PR [#2](https://github.com/Minecraft-Club/BetterEconomy/pull/2) in [Minecraft-Club/BetterEconomy](https://github.com/Minecraft-Club/BetterEconomy)
+3. 🔥 Pushed to Minecraft-Club/RightClickRepair
+4. 🔥 Pushed to Minecraft-Club/ChatFormatter
+5. 🔥 Pushed to Minecraft-Club/ApproveRules
 6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-10. 🔥 Pushed to The-Repo-Club/DotFiles
+7. 🔥 Pushed to Minecraft-Club/AdminTools
+8. 🔥 Pushed to Minecraft-Club/AdminTools
+9. 🎉 Merged PR [#1](https://github.com/Minecraft-Club/AdminTools/pull/1) in [Minecraft-Club/AdminTools](https://github.com/Minecraft-Club/AdminTools)
+10. 🔥 Pushed to Minecraft-Club/BetterEconomy
 <!--END_SECTION:activity-->
