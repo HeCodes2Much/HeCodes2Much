@@ -118,13 +118,13 @@ Java                     2 repos             █░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🔥 Pushed to Minecraft-Club/MavenRepo
-3. 🔥 Pushed to Minecraft-Club/MavenRepo
-4. 🔥 Pushed to Minecraft-Club/MavenRepo
-5. 🔥 Pushed to Minecraft-Club/MavenRepo
-6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-7. 🔥 Pushed to Minecraft-Club/MavenRepo
-8. 🔥 Pushed to Minecraft-Club/MavenRepo
-9. 🔥 Pushed to Minecraft-Club/MavenRepo
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+2. 🔥 Pushed to Minecraft-Club/PrisonPicks
+3. 🎉 Merged PR [#2](https://github.com/Minecraft-Club/PrisonPicks/pull/2) in [Minecraft-Club/PrisonPicks](https://github.com/Minecraft-Club/PrisonPicks)
+4. 💪 Opened PR [#2](https://github.com/Minecraft-Club/PrisonPicks/pull/2) in [Minecraft-Club/PrisonPicks](https://github.com/Minecraft-Club/PrisonPicks)
+5. 🔥 Pushed to Minecraft-Club/PrisonPicks
+6. 🎉 Merged PR [#1](https://github.com/Minecraft-Club/PrisonPicks/pull/1) in [Minecraft-Club/PrisonPicks](https://github.com/Minecraft-Club/PrisonPicks)
+7. 💪 Opened PR [#1](https://github.com/Minecraft-Club/PrisonPicks/pull/1) in [Minecraft-Club/PrisonPicks](https://github.com/Minecraft-Club/PrisonPicks)
+8. 🎉 Merged PR [#4](https://github.com/Minecraft-Club/AutoPickup/pull/4) in [Minecraft-Club/AutoPickup](https://github.com/Minecraft-Club/AutoPickup)
+9. 🔥 Pushed to Minecraft-Club/AutoPickup
+10. 🔥 Pushed to Minecraft-Club/AutoPickup
 <!--END_SECTION:activity-->
