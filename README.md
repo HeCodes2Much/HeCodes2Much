@@ -119,12 +119,12 @@ Java                     2 repos             █░░░░░░░░░░�
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 2. 🔥 Pushed to Minecraft-Club/MavenRepo
-3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. 🔥 Pushed to Minecraft-Club/MavenRepo
 4. 🔥 Pushed to Minecraft-Club/MavenRepo
 5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-6. 🔥 Pushed to Minecraft-Club/BetterEconomy
-7. 🎉 Merged PR [#2](https://github.com/Minecraft-Club/BetterEconomy/pull/2) in [Minecraft-Club/BetterEconomy](https://github.com/Minecraft-Club/BetterEconomy)
-8. 🔥 Pushed to Minecraft-Club/RightClickRepair
-9. 🔥 Pushed to Minecraft-Club/ChatFormatter
-10. 🔥 Pushed to Minecraft-Club/ApproveRules
+6. 🔥 Pushed to Minecraft-Club/MavenRepo
+7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+8. 🔥 Pushed to Minecraft-Club/MavenRepo
+9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+10. 🔥 Pushed to Minecraft-Club/BetterEconomy
 <!--END_SECTION:activity-->
