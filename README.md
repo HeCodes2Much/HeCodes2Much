@@ -118,13 +118,13 @@ Java                     2 repos             █░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. ❗️ Opened issue [#3](https://github.com/Falyrion/AdvancedArmorStands/issues/3) in [Falyrion/AdvancedArmorStands](https://github.com/Falyrion/AdvancedArmorStands)
-3. 🔥 Pushed to Minecraft-Club/LeaderHeads
-4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-5. 🔥 Pushed to Minecraft-Club/PrisonPicks
-6. 🎉 Merged PR [#2](https://github.com/Minecraft-Club/PrisonPicks/pull/2) in [Minecraft-Club/PrisonPicks](https://github.com/Minecraft-Club/PrisonPicks)
-7. 💪 Opened PR [#2](https://github.com/Minecraft-Club/PrisonPicks/pull/2) in [Minecraft-Club/PrisonPicks](https://github.com/Minecraft-Club/PrisonPicks)
-8. 🔥 Pushed to Minecraft-Club/PrisonPicks
-9. 🎉 Merged PR [#1](https://github.com/Minecraft-Club/PrisonPicks/pull/1) in [Minecraft-Club/PrisonPicks](https://github.com/Minecraft-Club/PrisonPicks)
-10. 💪 Opened PR [#1](https://github.com/Minecraft-Club/PrisonPicks/pull/1) in [Minecraft-Club/PrisonPicks](https://github.com/Minecraft-Club/PrisonPicks)
+2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. ❗️ Opened issue [#3](https://github.com/Falyrion/AdvancedArmorStands/issues/3) in [Falyrion/AdvancedArmorStands](https://github.com/Falyrion/AdvancedArmorStands)
+4. 🔥 Pushed to Minecraft-Club/LeaderHeads
+5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+6. 🔥 Pushed to Minecraft-Club/PrisonPicks
+7. 🎉 Merged PR [#2](https://github.com/Minecraft-Club/PrisonPicks/pull/2) in [Minecraft-Club/PrisonPicks](https://github.com/Minecraft-Club/PrisonPicks)
+8. 💪 Opened PR [#2](https://github.com/Minecraft-Club/PrisonPicks/pull/2) in [Minecraft-Club/PrisonPicks](https://github.com/Minecraft-Club/PrisonPicks)
+9. 🔥 Pushed to Minecraft-Club/PrisonPicks
+10. 🎉 Merged PR [#1](https://github.com/Minecraft-Club/PrisonPicks/pull/1) in [Minecraft-Club/PrisonPicks](https://github.com/Minecraft-Club/PrisonPicks)
 <!--END_SECTION:activity-->
