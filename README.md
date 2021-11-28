@@ -43,14 +43,24 @@
 <br />
 
 ---
+### Trophys:
 
+<img align="left" alt="Vim" width="1200px" src="https://github-profile-trophy.vercel.app/?username=The-Repo-Club&theme=dracula&margin-w=8&margin-h=8&column=8" />
+
+---
+
+<br />
+<br />
+<br />
+<br />
+
+---
 **GitHub Stats ⚡**
 
 ![Chart not found](https://github-readme-stats.vercel.app/api?username=The-Repo-Club&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=The-Repo-Club%27s+GitHub+Stats)
 
 
 ---
-
 **WakaTime Stats ⚡**
 
 <!--START_SECTION:waka-->
