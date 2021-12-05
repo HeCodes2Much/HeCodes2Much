@@ -130,13 +130,13 @@ Java                     2 repos             █░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. ❗️ Opened issue [#4547](https://github.com/ImageMagick/ImageMagick/issues/4547) in [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick)
-3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. ❗️ Opened issue [#4547](https://github.com/ImageMagick/ImageMagick/issues/4547) in [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick)
 4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-7. 🔥 Pushed to The-Repo-Club/tbsm
-8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-9. 🔥 Pushed to The-Repo-Club/StartPage
+7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+8. 🔥 Pushed to The-Repo-Club/tbsm
+9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 10. 🔥 Pushed to The-Repo-Club/StartPage
 <!--END_SECTION:activity-->
