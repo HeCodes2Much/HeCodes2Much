@@ -64,7 +64,7 @@
 **WakaTime Stats ⚡**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2057%20mins-blue)
 
 **I'm an Early 🐤** 
 
