@@ -143,9 +143,9 @@ Java                     2 repos             █░░░░░░░░░░�
 3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-6. ❗️ Closed issue [#2084](https://github.com/ultrabug/py3status/issues/2084) in [ultrabug/py3status](https://github.com/ultrabug/py3status)
-7. 🗣 Commented on [#2084](https://github.com/ultrabug/py3status/issues/2084) in [ultrabug/py3status](https://github.com/ultrabug/py3status)
-8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+7. ❗️ Closed issue [#2084](https://github.com/ultrabug/py3status/issues/2084) in [ultrabug/py3status](https://github.com/ultrabug/py3status)
+8. 🗣 Commented on [#2084](https://github.com/ultrabug/py3status/issues/2084) in [ultrabug/py3status](https://github.com/ultrabug/py3status)
 9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
