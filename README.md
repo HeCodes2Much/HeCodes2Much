@@ -142,8 +142,8 @@ Java                     2 repos             █░░░░░░░░░░�
 2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-5. 🔥 Pushed to The-Repo-Club/2022-Bash-Contest
-6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+6. 🔥 Pushed to The-Repo-Club/2022-Bash-Contest
 7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
