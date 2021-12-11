@@ -138,8 +138,8 @@ Java                     2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+1. 💪 Opened PR [#4](https://github.com/EndeavourOS-Community-Editions/Community-wallpapers/pull/4) in [EndeavourOS-Community-Editions/Community-wallpapers](https://github.com/EndeavourOS-Community-Editions/Community-wallpapers)
+2. 🔥 Pushed to Kitty-Linux/Community-wallpapers
 3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
@@ -147,5 +147,5 @@ Java                     2 repos             █░░░░░░░░░░�
 7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-10. ❗️ Opened issue [#1](https://github.com/raven2cz/polybar-config/issues/1) in [raven2cz/polybar-config](https://github.com/raven2cz/polybar-config)
+10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
