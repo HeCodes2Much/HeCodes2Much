@@ -141,11 +141,11 @@ Java                     2 repos             █░░░░░░░░░░�
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-4. ❗️ Opened issue [#1](https://github.com/raven2cz/polybar-config/issues/1) in [raven2cz/polybar-config](https://github.com/raven2cz/polybar-config)
-5. ❗️ Opened issue [#153](https://github.com/adi1090x/polybar-themes/issues/153) in [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes)
-6. 🔥 Pushed to The-Repo-Club/DotFiles
+4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. ❗️ Opened issue [#1](https://github.com/raven2cz/polybar-config/issues/1) in [raven2cz/polybar-config](https://github.com/raven2cz/polybar-config)
+6. ❗️ Opened issue [#153](https://github.com/adi1090x/polybar-themes/issues/153) in [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes)
 7. 🔥 Pushed to The-Repo-Club/DotFiles
-8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+8. 🔥 Pushed to The-Repo-Club/DotFiles
 9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
