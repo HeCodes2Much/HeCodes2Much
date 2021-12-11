@@ -139,13 +139,13 @@ Java                     2 repos             █░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🔥 Pushed to The-Repo-Club/2022-Bash-Contest
-3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-4. 🔥 Pushed to Minecraft-Club/BetterEconomy
-5. 🎉 Merged PR [#3](https://github.com/Minecraft-Club/BetterEconomy/pull/3) in [Minecraft-Club/BetterEconomy](https://github.com/Minecraft-Club/BetterEconomy)
-6. 🔥 Pushed to Minecraft-Club/BetterEconomy
-7. 🎉 Merged PR [#4](https://github.com/Minecraft-Club/BetterEconomy/pull/4) in [Minecraft-Club/BetterEconomy](https://github.com/Minecraft-Club/BetterEconomy)
-8. 🔥 Pushed to Minecraft-Club/LuckPermsGUI
-9. 🎉 Merged PR [#1](https://github.com/Minecraft-Club/LuckPermsGUI/pull/1) in [Minecraft-Club/LuckPermsGUI](https://github.com/Minecraft-Club/LuckPermsGUI)
-10. 🔥 Pushed to Minecraft-Club/AutoPickup
+2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. 🔥 Pushed to The-Repo-Club/2022-Bash-Contest
+4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. 🔥 Pushed to Minecraft-Club/BetterEconomy
+6. 🎉 Merged PR [#3](https://github.com/Minecraft-Club/BetterEconomy/pull/3) in [Minecraft-Club/BetterEconomy](https://github.com/Minecraft-Club/BetterEconomy)
+7. 🔥 Pushed to Minecraft-Club/BetterEconomy
+8. 🎉 Merged PR [#4](https://github.com/Minecraft-Club/BetterEconomy/pull/4) in [Minecraft-Club/BetterEconomy](https://github.com/Minecraft-Club/BetterEconomy)
+9. 🔥 Pushed to Minecraft-Club/LuckPermsGUI
+10. 🎉 Merged PR [#1](https://github.com/Minecraft-Club/LuckPermsGUI/pull/1) in [Minecraft-Club/LuckPermsGUI](https://github.com/Minecraft-Club/LuckPermsGUI)
 <!--END_SECTION:activity-->
