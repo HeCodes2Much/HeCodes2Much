@@ -140,12 +140,12 @@ Java                     2 repos             █░░░░░░░░░░�
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-3. 🔥 Pushed to Minecraft-Club/LuckPermsGUI
-4. 🎉 Merged PR [#2](https://github.com/Minecraft-Club/LuckPermsGUI/pull/2) in [Minecraft-Club/LuckPermsGUI](https://github.com/Minecraft-Club/LuckPermsGUI)
-5. 🔥 Pushed to Minecraft-Club/BetterEconomy
-6. 🎉 Merged PR [#5](https://github.com/Minecraft-Club/BetterEconomy/pull/5) in [Minecraft-Club/BetterEconomy](https://github.com/Minecraft-Club/BetterEconomy)
-7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+4. 🔥 Pushed to Minecraft-Club/LuckPermsGUI
+5. 🎉 Merged PR [#2](https://github.com/Minecraft-Club/LuckPermsGUI/pull/2) in [Minecraft-Club/LuckPermsGUI](https://github.com/Minecraft-Club/LuckPermsGUI)
+6. 🔥 Pushed to Minecraft-Club/BetterEconomy
+7. 🎉 Merged PR [#5](https://github.com/Minecraft-Club/BetterEconomy/pull/5) in [Minecraft-Club/BetterEconomy](https://github.com/Minecraft-Club/BetterEconomy)
 8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-10. 🔥 Pushed to The-Repo-Club/2022-Bash-Contest
+10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
