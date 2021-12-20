@@ -143,7 +143,7 @@ Java                     2 repos             █░░░░░░░░░░�
 5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-8. 🔥 Pushed to Minecraft-Club/LuckPermsGUI
-9. 🎉 Merged PR [#3](https://github.com/Minecraft-Club/LuckPermsGUI/pull/3) in [Minecraft-Club/LuckPermsGUI](https://github.com/Minecraft-Club/LuckPermsGUI)
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+9. 🔥 Pushed to Minecraft-Club/LuckPermsGUI
+10. 🎉 Merged PR [#3](https://github.com/Minecraft-Club/LuckPermsGUI/pull/3) in [Minecraft-Club/LuckPermsGUI](https://github.com/Minecraft-Club/LuckPermsGUI)
 <!--END_SECTION:activity-->
