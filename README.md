@@ -139,12 +139,12 @@ Java                     2 repos             █░░░░░░░░░░�
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-3. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-5. 🔥 Pushed to The-Repo-Club/ArchAUR
-6. 🔥 Pushed to The-Repo-Club/repomenu-schemas
-7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+4. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+6. 🔥 Pushed to The-Repo-Club/ArchAUR
+7. 🔥 Pushed to The-Repo-Club/repomenu-schemas
 8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-9. 🗣 Commented on [#157](https://github.com/adi1090x/polybar-themes/issues/157) in [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes)
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+10. 🗣 Commented on [#157](https://github.com/adi1090x/polybar-themes/issues/157) in [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes)
 <!--END_SECTION:activity-->
