@@ -137,13 +137,13 @@ Java                     2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/DotFiles
-2. 🔥 Pushed to The-Repo-Club/repomenu-extra
+1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+2. 🔥 Pushed to The-Repo-Club/DotFiles
 3. 🔥 Pushed to The-Repo-Club/repomenu-extra
-4. 🔥 Pushed to The-Repo-Club/repomenu
-5. 🔥 Pushed to The-Repo-Club/repowm
-6. 🔥 Pushed to The-Repo-Club/repomenu-extra
-7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+4. 🔥 Pushed to The-Repo-Club/repomenu-extra
+5. 🔥 Pushed to The-Repo-Club/repomenu
+6. 🔥 Pushed to The-Repo-Club/repowm
+7. 🔥 Pushed to The-Repo-Club/repomenu-extra
 8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
