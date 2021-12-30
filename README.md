@@ -138,13 +138,13 @@ Java                     2 repos             █░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🗣 Commented on [#16838](https://github.com/neovim/neovim/issues/16838) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 🔥 Pushed to The-Repo-Club/bbsif
+2. 💪 Opened PR [#16839](https://github.com/neovim/neovim/pull/16839) in [neovim/neovim](https://github.com/neovim/neovim)
+3. 🔥 Pushed to The-Repo-Club/neovim
 4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-5. 🔥 Pushed to The-Repo-Club/bbsif
-6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-7. ❗️ Opened issue [#16838](https://github.com/neovim/neovim/issues/16838) in [neovim/neovim](https://github.com/neovim/neovim)
-8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. 🗣 Commented on [#16838](https://github.com/neovim/neovim/issues/16838) in [neovim/neovim](https://github.com/neovim/neovim)
+6. 🔥 Pushed to The-Repo-Club/bbsif
+7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+8. 🔥 Pushed to The-Repo-Club/bbsif
 9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+10. ❗️ Opened issue [#16838](https://github.com/neovim/neovim/issues/16838) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
