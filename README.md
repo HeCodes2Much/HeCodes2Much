@@ -138,12 +138,12 @@ Java                     2 repos             █░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🔥 Pushed to The-Repo-Club/bbsif
-3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-4. ❗️ Opened issue [#16838](https://github.com/neovim/neovim/issues/16838) in [neovim/neovim](https://github.com/neovim/neovim)
-5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+2. 🗣 Commented on [#16838](https://github.com/neovim/neovim/issues/16838) in [neovim/neovim](https://github.com/neovim/neovim)
+3. 🔥 Pushed to The-Repo-Club/bbsif
+4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. 🔥 Pushed to The-Repo-Club/bbsif
 6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+7. ❗️ Opened issue [#16838](https://github.com/neovim/neovim/issues/16838) in [neovim/neovim](https://github.com/neovim/neovim)
 8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
