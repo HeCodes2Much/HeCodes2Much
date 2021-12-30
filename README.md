@@ -139,12 +139,12 @@ Java                     2 repos             █░░░░░░░░░░�
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-3. 🔥 Pushed to The-Repo-Club/bbsif
-4. 🗣 Commented on [#16](https://github.com/terminalforlife/Extra/issues/16) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
-5. 🔥 Pushed to The-Repo-Club/bbsif
-6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-7. 🔥 Pushed to The-Repo-Club/bbsif
+3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+4. 🔥 Pushed to The-Repo-Club/bbsif
+5. 🗣 Commented on [#16](https://github.com/terminalforlife/Extra/issues/16) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
+6. 🔥 Pushed to The-Repo-Club/bbsif
+7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 8. 🔥 Pushed to The-Repo-Club/bbsif
-9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-10. 🔥 Pushed to The-Repo-Club/bbsif
+9. 🔥 Pushed to The-Repo-Club/bbsif
+10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
