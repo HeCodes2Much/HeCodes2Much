@@ -137,9 +137,9 @@ Java                     2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16838](https://github.com/neovim/neovim/issues/16838) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 🔥 Pushed to The-Repo-Club/bbsif
 2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. ❗️ Opened issue [#16838](https://github.com/neovim/neovim/issues/16838) in [neovim/neovim](https://github.com/neovim/neovim)
 4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
