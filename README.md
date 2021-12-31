@@ -137,14 +137,14 @@ Java                     2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+1. 🔥 Pushed to The-Repo-Club/ArchAUR
+2. 🔥 Pushed to The-Repo-Club/ArchAUR
 3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-4. 🗣 Commented on [#16](https://github.com/terminalforlife/Extra/issues/16) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
-5. 🔥 Pushed to The-Repo-Club/ArchAUR
+4. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-7. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-9. 🔥 Pushed to The-Repo-Club/bfetch
-10. 🔥 Pushed to The-Repo-Club/bfetch
+7. 🗣 Commented on [#16](https://github.com/terminalforlife/Extra/issues/16) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
+8. 🔥 Pushed to The-Repo-Club/ArchAUR
+9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+10. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
 <!--END_SECTION:activity-->
