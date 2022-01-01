@@ -145,6 +145,6 @@ Java                     2 repos             █░░░░░░░░░░�
 6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-9. 🗣 Commented on [#16](https://github.com/terminalforlife/Extra/issues/16) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+10. 🗣 Commented on [#16](https://github.com/terminalforlife/Extra/issues/16) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
 <!--END_SECTION:activity-->
