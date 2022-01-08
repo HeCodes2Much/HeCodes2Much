@@ -138,13 +138,13 @@ Java                     2 repos             █░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🗣 Commented on [#17](https://github.com/terminalforlife/Extra/issues/17) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
-3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-4. 🗣 Commented on [#17](https://github.com/terminalforlife/Extra/issues/17) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
-5. ❗️ Opened issue [#17](https://github.com/terminalforlife/Extra/issues/17) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
-6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. 🗣 Commented on [#17](https://github.com/terminalforlife/Extra/issues/17) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
+4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. 🗣 Commented on [#17](https://github.com/terminalforlife/Extra/issues/17) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
+6. ❗️ Opened issue [#17](https://github.com/terminalforlife/Extra/issues/17) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
 7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-10. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
