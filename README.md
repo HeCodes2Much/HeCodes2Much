@@ -139,12 +139,12 @@ Java                     2 repos             █░░░░░░░░░░�
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to linknsync/Plugin
 2. 🔥 Pushed to linknsync/Plugin
-3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. 🔥 Pushed to linknsync/Plugin
 4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-7. 🔥 Pushed to The-Repo-Club/i3_keybinds
-8. 🗣 Commented on [#17](https://github.com/terminalforlife/Extra/issues/17) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
-9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+8. 🔥 Pushed to The-Repo-Club/i3_keybinds
+9. 🗣 Commented on [#17](https://github.com/terminalforlife/Extra/issues/17) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
 10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
