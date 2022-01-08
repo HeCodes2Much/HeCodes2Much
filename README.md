@@ -138,13 +138,13 @@ Java                     2 repos             █░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🔥 Pushed to The-Repo-Club/i3_keybinds
-3. 🗣 Commented on [#17](https://github.com/terminalforlife/Extra/issues/17) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
-4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. 🔥 Pushed to The-Repo-Club/i3_keybinds
+4. 🗣 Commented on [#17](https://github.com/terminalforlife/Extra/issues/17) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
 5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-6. 🗣 Commented on [#17](https://github.com/terminalforlife/Extra/issues/17) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
-7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-8. 🗣 Commented on [#17](https://github.com/terminalforlife/Extra/issues/17) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
-9. ❗️ Opened issue [#17](https://github.com/terminalforlife/Extra/issues/17) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+7. 🗣 Commented on [#17](https://github.com/terminalforlife/Extra/issues/17) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
+8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+9. 🗣 Commented on [#17](https://github.com/terminalforlife/Extra/issues/17) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
+10. ❗️ Opened issue [#17](https://github.com/terminalforlife/Extra/issues/17) in [terminalforlife/Extra](https://github.com/terminalforlife/Extra)
 <!--END_SECTION:activity-->
