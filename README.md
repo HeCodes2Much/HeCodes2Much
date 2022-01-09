@@ -140,11 +140,11 @@ Java                     2 repos             █░░░░░░░░░░�
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-4. 🔥 Pushed to The-Repo-Club/bfetch
-5. ❗️ Opened issue [#1](https://github.com/deepjyoti30/locker/issues/1) in [deepjyoti30/locker](https://github.com/deepjyoti30/locker)
-6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-7. 🔥 Pushed to The-Repo-Club/2022-Bash-Contest
-8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-9. 🔥 Pushed to The-Repo-Club/pass
-10. ❗️ Opened issue [#4](https://github.com/EliverLara/firefox-nordic-theme/issues/4) in [EliverLara/firefox-nordic-theme](https://github.com/EliverLara/firefox-nordic-theme)
+4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. 🔥 Pushed to The-Repo-Club/bfetch
+6. ❗️ Opened issue [#1](https://github.com/deepjyoti30/locker/issues/1) in [deepjyoti30/locker](https://github.com/deepjyoti30/locker)
+7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+8. 🔥 Pushed to The-Repo-Club/2022-Bash-Contest
+9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+10. 🔥 Pushed to The-Repo-Club/pass
 <!--END_SECTION:activity-->
