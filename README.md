@@ -146,5 +146,5 @@ Java                     2 repos             █░░░░░░░░░░�
 7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-10. 🔥 Pushed to linknsync/Plugin
+10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 <!--END_SECTION:activity-->
