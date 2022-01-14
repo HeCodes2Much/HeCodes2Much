@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=github.com/The-Repo-Club/&colorA=44475a&colorB=bd93f9&style=flat-square&url=https://github.com/The-Repo-Club/)][website]
 [![Telegram](https://img.shields.io/badge/Chat%20on-Telegram-orange.svg?colorA=44475a&colorB=bd93f9&logo=telegram&style=flat-square)][telegram]
+[![Matrix](https://img.shields.io/badge/Chat%20on-Matrix-orange.svg?colorA=44475a&colorB=bd93f9&logo=matrix&style=flat-square)][matrix]
 
 ### I'm a Boyfriend, Developer, and Teacher!!
 
