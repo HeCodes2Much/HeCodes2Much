@@ -21,6 +21,7 @@
 [website]: https://github.com/The-Repo-Club/
 [email]: mailto:wayne6324@gmail.com
 [telegram]: https://t.me/TheRepoClub
+[matrix]: https://matrix.to/#/@the-repo-club:kde.org
 
 <br />
 <br />
