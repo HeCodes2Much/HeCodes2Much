@@ -1,6 +1,6 @@
 ### Hi there, I'm Wayne - aka [The-Repo-Club][website] 👋
 
-[![Website](https://img.shields.io/website?label=github.com/The-Repo-Club/&colorA=44475a&colorB=bd93f9&style=flat-square&url=https://github.com/The-Repo-Club/)][website]
+[![Website](https://img.shields.io/badge/Find%20on-Github-orange.svg?colorA=44475a&colorB=bd93f9&logo=github&style=flat-square)][website]
 [![Telegram](https://img.shields.io/badge/Chat%20on-Telegram-orange.svg?colorA=44475a&colorB=bd93f9&logo=telegram&style=flat-square)][telegram]
 [![Matrix](https://img.shields.io/badge/Chat%20on-Matrix-orange.svg?colorA=44475a&colorB=bd93f9&logo=matrix&style=flat-square)][matrix]
 
