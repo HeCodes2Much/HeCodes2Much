@@ -140,13 +140,13 @@ Java                     2 repos             █░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to minimal-mistakes/minimal-mistakes
-2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-3. 🔥 Pushed to The-Repo-Club/The-Repo-Club.github.io
-4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-5. 🔥 Pushed to The-Repo-Club/The-Repo-Club.github.io
-6. 🔥 Pushed to The-Repo-Club/The-Repo-Club.github.io
+2. 🔥 Pushed to minimal-mistakes/minimal-mistakes
+3. 🔥 Pushed to minimal-mistakes/minimal-mistakes
+4. 🔥 Pushed to minimal-mistakes/minimal-mistakes
+5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 7. 🔥 Pushed to The-Repo-Club/The-Repo-Club.github.io
-8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+8. 🔥 Pushed to minimal-mistakes/minimal-mistakes
 9. 🔥 Pushed to The-Repo-Club/The-Repo-Club.github.io
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+10. 🔥 Pushed to minimal-mistakes/minimal-mistakes
 <!--END_SECTION:activity-->
