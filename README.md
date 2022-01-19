@@ -139,14 +139,14 @@ Java                     2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+1. 🔥 Pushed to The-Repo-Club/DotFiles
+2. 🔥 Pushed to The-Repo-Club/DotFiles
 3. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
 4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-7. 🔥 Pushed to minimal-mistakes/minimal-mistakes
-8. 🔥 Pushed to minimal-mistakes/minimal-mistakes
-9. 🔥 Pushed to minimal-mistakes/minimal-mistakes
-10. 🔥 Pushed to minimal-mistakes/minimal-mistakes
+5. 🔥 Pushed to The-Repo-Club/ArchAUR
+6. 🔥 Pushed to The-Repo-Club/Basic-Bot
+7. 🔥 Pushed to The-Repo-Club/The-Repo-Club.github.io
+8. 🔥 Pushed to The-Repo-Club/charmap
+9. 🔥 Pushed to The-Repo-Club/cmusfetcher500
+10. 🔥 Pushed to The-Repo-Club/cutycapt
 <!--END_SECTION:activity-->
