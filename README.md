@@ -140,13 +140,13 @@ Java                     2 repos             █░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🔥 Pushed to The-Repo-Club/DotFiles
+2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 3. 🔥 Pushed to The-Repo-Club/DotFiles
 4. 🔥 Pushed to The-Repo-Club/DotFiles
-5. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
-6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-7. 🔥 Pushed to The-Repo-Club/ArchAUR
-8. 🔥 Pushed to The-Repo-Club/Basic-Bot
-9. 🔥 Pushed to The-Repo-Club/The-Repo-Club.github.io
-10. 🔥 Pushed to The-Repo-Club/charmap
+5. 🔥 Pushed to The-Repo-Club/DotFiles
+6. 🔥 Pushed to The-Repo-Club/Arch.TheRepo.Club
+7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+8. 🔥 Pushed to The-Repo-Club/ArchAUR
+9. 🔥 Pushed to The-Repo-Club/Basic-Bot
+10. 🔥 Pushed to The-Repo-Club/The-Repo-Club.github.io
 <!--END_SECTION:activity-->
