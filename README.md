@@ -139,13 +139,13 @@ Java                     2 repos             █░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+1. 🔥 Pushed to minimal-mistakes/FileHeaderGenerator
 2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 3. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-4. 🗣 Commented on [#9](https://github.com/55f/vscode-file-header/issues/9) in [55f/vscode-file-header](https://github.com/55f/vscode-file-header)
-5. ❗️ Opened issue [#9](https://github.com/55f/vscode-file-header/issues/9) in [55f/vscode-file-header](https://github.com/55f/vscode-file-header)
-6. ❗️ Opened issue [#1776](https://github.com/gitkraken/vscode-gitlens/issues/1776) in [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens)
-7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+5. 🗣 Commented on [#9](https://github.com/55f/vscode-file-header/issues/9) in [55f/vscode-file-header](https://github.com/55f/vscode-file-header)
+6. ❗️ Opened issue [#9](https://github.com/55f/vscode-file-header/issues/9) in [55f/vscode-file-header](https://github.com/55f/vscode-file-header)
+7. ❗️ Opened issue [#1776](https://github.com/gitkraken/vscode-gitlens/issues/1776) in [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens)
 8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
