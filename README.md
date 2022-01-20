@@ -147,7 +147,7 @@ Java                     2 repos             █░░░░░░░░░░�
 5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 6. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-8. 🔥 Pushed to The-Repo-Club/repomenu-extra
-9. 🔥 Pushed to The-Repo-Club/repomenu
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+9. 🔥 Pushed to The-Repo-Club/repomenu-extra
+10. 🔥 Pushed to The-Repo-Club/repomenu
 <!--END_SECTION:activity-->
