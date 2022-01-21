@@ -66,8 +66,6 @@
 **WakaTime Stats ⚡**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2032%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -132,7 +130,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/01/2022 23:49:54 UTC
+ Last Updated on 21/01/2022 00:32:52 UTC
 <!--END_SECTION:waka-->
 
 ---
