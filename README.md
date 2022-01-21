@@ -141,13 +141,13 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-2. 🔥 Pushed to The-Repo-Club/FileHeaderGenerator
-3. 🔥 Pushed to The-Repo-Club/DotFiles
-4. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-5. 🔥 Pushed to The-Repo-Club/repomenu
-6. 🔥 Pushed to The-Repo-Club/repomenu-extra
-7. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-8. 🔥 Pushed to minimal-mistakes/vscode-file-header
+2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. 🔥 Pushed to The-Repo-Club/FileHeaderGenerator
+4. 🔥 Pushed to The-Repo-Club/DotFiles
+5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+6. 🔥 Pushed to The-Repo-Club/repomenu
+7. 🔥 Pushed to The-Repo-Club/repomenu-extra
+8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 9. 🔥 Pushed to minimal-mistakes/vscode-file-header
-10. 🎉 Merged PR [#4](https://github.com/minimal-mistakes/vscode-file-header/pull/4) in [minimal-mistakes/vscode-file-header](https://github.com/minimal-mistakes/vscode-file-header)
+10. 🔥 Pushed to minimal-mistakes/vscode-file-header
 <!--END_SECTION:activity-->
