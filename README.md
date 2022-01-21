@@ -140,14 +140,14 @@ Java                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to minimal-mistakes/vscode-file-header
-2. 🔥 Pushed to minimal-mistakes/vscode-file-header
-3. 🎉 Merged PR [#4](https://github.com/minimal-mistakes/vscode-file-header/pull/4) in [minimal-mistakes/vscode-file-header](https://github.com/minimal-mistakes/vscode-file-header)
-4. 🔥 Pushed to minimal-mistakes/vscode-file-header
-5. 🎉 Merged PR [#3](https://github.com/minimal-mistakes/vscode-file-header/pull/3) in [minimal-mistakes/vscode-file-header](https://github.com/minimal-mistakes/vscode-file-header)
+1. 🔥 Pushed to The-Repo-Club/DotFiles
+2. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+3. 🔥 Pushed to The-Repo-Club/repomenu
+4. 🔥 Pushed to The-Repo-Club/repomenu-extra
+5. 🔥 Pushed to The-Repo-Club/The-Repo-Club
 6. 🔥 Pushed to minimal-mistakes/vscode-file-header
-7. 🎉 Merged PR [#2](https://github.com/minimal-mistakes/vscode-file-header/pull/2) in [minimal-mistakes/vscode-file-header](https://github.com/minimal-mistakes/vscode-file-header)
-8. 🔥 Pushed to minimal-mistakes/vscode-file-header
-9. 🎉 Merged PR [#1](https://github.com/minimal-mistakes/vscode-file-header/pull/1) in [minimal-mistakes/vscode-file-header](https://github.com/minimal-mistakes/vscode-file-header)
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+7. 🔥 Pushed to minimal-mistakes/vscode-file-header
+8. 🎉 Merged PR [#4](https://github.com/minimal-mistakes/vscode-file-header/pull/4) in [minimal-mistakes/vscode-file-header](https://github.com/minimal-mistakes/vscode-file-header)
+9. 🔥 Pushed to minimal-mistakes/vscode-file-header
+10. 🎉 Merged PR [#3](https://github.com/minimal-mistakes/vscode-file-header/pull/3) in [minimal-mistakes/vscode-file-header](https://github.com/minimal-mistakes/vscode-file-header)
 <!--END_SECTION:activity-->
