@@ -66,7 +66,7 @@
 **WakaTime Stats ⚡**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2044%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -132,7 +132,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/01/2022 14:49:38 UTC
+ Last Updated on 22/01/2022 15:10:21 UTC
 <!--END_SECTION:waka-->
 
 ---
