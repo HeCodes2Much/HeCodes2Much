@@ -2,7 +2,7 @@ name: GitHub - Repos - Readme
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: "* */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,5 +16,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
-          COMMIT_MSG: ':zap: Update README with the recent activity'
+          COMMIT_MSG: ":zap: Update README with the recent activity"
           MAX_LINES: 10
