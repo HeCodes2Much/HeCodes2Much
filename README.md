@@ -138,14 +138,14 @@ Java                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to The-Repo-Club/DotFiles
-2. 🔥 Pushed to The-Repo-Club/DotFiles
-3. 🔥 Pushed to The-Repo-Club/StartPage
-4. 🔥 Pushed to The-Repo-Club/StartPage
-5. 🎉 Merged PR [#1](https://github.com/The-Repo-Club/StartPage/pull/1) in [The-Repo-Club/StartPage](https://github.com/The-Repo-Club/StartPage)
-6. 🔥 Pushed to The-Repo-Club/StartPage
-7. 🔥 Pushed to The-Repo-Club/StartPage
-8. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-9. 🔥 Pushed to The-Repo-Club/The-Repo-Club
-10. 🔥 Pushed to The-Repo-Club/The-Repo-Club
+1. 🗣 Commented on [#755](https://github.com/hrsh7th/nvim-cmp/issues/755) in [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
+2. 🗣 Commented on [#755](https://github.com/hrsh7th/nvim-cmp/issues/755) in [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
+3. 🗣 Commented on [#755](https://github.com/hrsh7th/nvim-cmp/issues/755) in [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
+4. 🔥 Pushed to The-Repo-Club/VimPugins
+5. 🔥 Pushed to The-Repo-Club/VimPugins
+6. 🔥 Pushed to The-Repo-Club/VimPugins
+7. 🔥 Pushed to The-Repo-Club/VimPugins
+8. 🔥 Pushed to The-Repo-Club/VimPugins
+9. 🔥 Pushed to The-Repo-Club/VimPugins
+10. 🔥 Pushed to The-Repo-Club/VimPugins
 <!--END_SECTION:activity-->
