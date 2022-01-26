@@ -138,14 +138,14 @@ Java                     1 repo              ░░░░░░░░░░░�
 **Recent GitHub Activity :zap:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#755](https://github.com/hrsh7th/nvim-cmp/issues/755) in [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
-2. 🗣 Commented on [#755](https://github.com/hrsh7th/nvim-cmp/issues/755) in [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
-3. 🗣 Commented on [#755](https://github.com/hrsh7th/nvim-cmp/issues/755) in [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
-4. 🔥 Pushed to The-Repo-Club/VimPugins
-5. 🔥 Pushed to The-Repo-Club/VimPugins
-6. 🔥 Pushed to The-Repo-Club/VimPugins
-7. 🔥 Pushed to The-Repo-Club/VimPugins
-8. 🔥 Pushed to The-Repo-Club/VimPugins
-9. 🔥 Pushed to The-Repo-Club/VimPugins
-10. 🔥 Pushed to The-Repo-Club/VimPugins
+1. 🔥 Pushed to The-Repo-Club/Vim_Headers
+2. 🔥 Pushed to The-Repo-Club/Vim_Headers
+3. 🔥 Pushed to The-Repo-Club/Vim_Headers
+4. 🔥 Pushed to The-Repo-Club/Vim_Headers
+5. 🔥 Pushed to The-Repo-Club/Vim_Headers
+6. 🔥 Pushed to The-Repo-Club/Vim_Headers
+7. 🔥 Pushed to The-Repo-Club/Vim_Headers
+8. 🔥 Pushed to The-Repo-Club/Vim_Headers
+9. 🔥 Pushed to The-Repo-Club/Vim_Headers
+10. 🔥 Pushed to The-Repo-Club/Vim_Headers
 <!--END_SECTION:activity-->
