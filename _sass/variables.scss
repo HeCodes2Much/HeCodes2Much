@@ -1,20 +1,29 @@
-// Variables based on Dracula colorspace
+// Variables based on Minimal-Mistakes colorspace
 
-$background:#282a36;
-$current:   #44475a;
-$selection: #44475a;
-$foreground:#f8f8f2;
-$comment:   #6272a4;
-$faded:     #bcc2cd;
-$cyan:      #8be9fd;
-$green:     #50fa7b;
-$orange:    #ffb86c;
-$pink:      #ff79c6;
-$purple:    #bd93f9;
-$red:       #ff5555;
-$yellow:    #f1fa8c;
+$background: #283036;
+$current: #46545e;
+$selection: #46545e;
+$foreground: #e5e9f0;
+$comment: #81a0c1;
+$faded: #e5e9f0;
+$cyan: #59fff9;
+$green: #59ff59;
+$orange: #ff9c59;
+$pink: #ff59f9;
+$purple: #9059ff;
+$red: #ff5959;
+$yellow: #ffff59;
+
+$bright_cyan: #a6fffc;
+$bright_green: #a6ffa6;
+$bright_orange: #ffc9a6;
+$bright_pink: #ffa6fc;
+$bright_purple: #c5a6ff;
+$bright_red: #ffa6a6;
+$bright_yellow: #ffffa6;
 
 // Font stacks
 $body-fonts: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $heading-fonts: "Noto Serif", "Inconsolata", "Times New Roman", Times, serif;
-$mono-fonts: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, monospace;
+$mono-fonts: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal,
+	monospace;

@@ -1,3 +1,8 @@
+---
+layout: default
+colorspace: orange
+---
+
 ### Hi there, I'm Wayne - aka [The-Repo-Club][website] 👋
 
 [![Website](https://img.shields.io/badge/Find%20on-Github-red.svg?colorA=434c5e&colorB=ff59f9&logo=github&style=flat-square)][website]

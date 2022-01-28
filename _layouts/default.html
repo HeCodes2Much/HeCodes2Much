@@ -1,13 +1,17 @@
 <!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
+<html lang="{{ site.lang | default: " en-US" }}">
+
+<head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>{{ site.title | default: site.github.repository_name }}</title>
 
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/hamburger.js' | relative_url }}"></script>
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -15,50 +19,92 @@
     <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+</head>
 
-  </head>
-  <body class="{{ page.colorspace }}">
-      {% if site.show_header %}
-        <div id="header">
-          <nav>
-            <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
-            {% if site.show_downloads %}
-              <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
-              <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
-              <li class="title">DOWNLOADS</li>
-            {% endif %}
-          </nav>
-        </div><!-- end header -->
-      {% endif %}
+<body class="{{ page.colorspace }}">
+    {% if site.show_header %}
+    <div id="header">
+        <nav>
+            <div class="left">
+                <li class="home">
+                    <a href="/">{{ site.github.owner_name }}</a>
+                </li>
+                {% if site.show_forks %}
+                {% if site.github.repository_url %}
+                <li class="fork">
+                    <a href="{{ site.github.repository_url }}">View On GitHub</a>
+                </li>
+                {% endif %}
+                {% endif %}
+            </div>
+            <div class="right">
+                <li class="toggle">
+                    <a href="javascript:void(0);" class="icon" onclick="toggleMenu()">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </li>
+                <div id="toggleMenu">
+                    {% if site.show_downloads %}
+                    {% if site.github.zip_url %}
+                    <li class="downloads">
+                        <a href="{{ site.github.zip_url }}">ZIP</a>
+                    </li>
+                    {% endif %}
+
+                    {% if site.github.tar_url %}
+                    <li class="downloads">
+                        <a href="{{ site.github.tar_url }}">TAR</a>
+                    </li>
+                    {% endif %}
+
+                    <li class="title">DOWNLOADS</li>
+                    {% endif %}
+                    <li class="blog">
+                        <a href="/blog">Blog</a>
+                    </li>
+                </div>
+            </div>
+        </nav>
+    </div><!-- end header -->
+    {% endif %}
 
     <div class="wrapper">
-      {% if site.show_header %}<section>
-      {% else %}<section class="no-header">{% endif %}
-        <div id="title">
-          {% if page.icon %}
-            <img src="{{ page.icon | relative_url }}" />
-          {% endif %}
-          <h1><a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-          <hr>
-        </div>
+        {% if site.show_header %}<section>
+            {% else %}<section class="no-header">{% endif %}
+                <div id="title">
+                    {% if page.icon %}
+                    <img src="{{ page.icon | relative_url }}" />
+                    {% endif %}
+                    <h1>{{ site.title | default: site.github.repository_name }}</h1>
+                    <p>{{ site.description | default: site.github.project_tagline }}</p>
+                    <hr>
+                </div>
 
-        {{ content }}
+                {{ content }}
 
-        <div id="footer">
-          <hr />
-          <div id="copyright">
-            <span class="credits left">Copyright &copy; April 2020 - <span id="ccdate"></span> <a href='https://github.com/The-Repo-Club' rel='publisher'>The-Repo-Club</a>, Mr Wayne Wesley. All rights reserved worldwide.</span>
-            <span class="credits right">Any trademarks, service marks, product names or named features are used only for reference with permission and assumed to be the property of their respective owners.</span>
-          </div>
-        </div>
-      </section>
-      <script>
-        var d = new Date();
-        var months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-        document.getElementById("ccdate").innerHTML = months[d.getMonth()] + " " + d.getFullYear(); 
-      </script>
+                <div id="footer">
+                    <hr />
+                    <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{
+                            site.github.owner_name }}</a></span>
+                    <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a
+                            href="https://minimal-mistakes.xyz/">Minimal-Mistakes</a></span>
+                </div>
+            </section>
 
     </div>
-  </body>
+
+    {% if site.google_analytics %}
+    <script type="text/javascript">
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+    </script>
+    {% endif %}
+</body>
+
 </html>
