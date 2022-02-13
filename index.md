@@ -78,4 +78,3 @@ colorspace: orange
 
 ![Chart not found](https://github-readme-stats.vercel.app/api/wakatime?username=therepoclub&theme=dracula&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=The-Repo-Club%27s+WakaTime+Stats&layout=compact)
 
----
