@@ -55,7 +55,7 @@ colorspace: orange
 
 ### Trophys:
 
-<img align="left" alt="Vim" width="1200px" src="https://github-profile-trophy.vercel.app/?username=The-Repo-Club&theme=dracula&margin-w=8&margin-h=8&column=8" />
+<img align="left" alt="Vim" width="1200px" src="https://github-profile-trophy.vercel.app/?username=The-Repo-Club&theme=nord&margin-w=8&margin-h=8&column=8" />
 
 ---
 
@@ -68,13 +68,13 @@ colorspace: orange
 
 **GitHub Stats ⚡**
 
-![Chart not found](https://github-readme-stats.vercel.app/api?username=The-Repo-Club&theme=dracula&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=The-Repo-Club%27s+GitHub+Stats&layout=compact)
+![Chart not found](https://github-readme-stats.vercel.app/api?username=The-Repo-Club&theme=nord&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=The-Repo-Club%27s+GitHub+Stats&layout=compact)
 
-![Chart not found](https://github-readme-stats.vercel.app/api/top-langs/?username=the-repo-club&theme=dracula&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=The-Repo-Club%27s+Top+Languages&layout=compact)
+![Chart not found](https://github-readme-stats.vercel.app/api/top-langs/?username=the-repo-club&theme=nord&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=The-Repo-Club%27s+Top+Languages&layout=compact)
 
 ---
 
 **WakaTime Stats ⚡**
 
-![Chart not found](https://github-readme-stats.vercel.app/api/wakatime?username=therepoclub&theme=dracula&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=The-Repo-Club%27s+WakaTime+Stats&layout=compact)
+![Chart not found](https://github-readme-stats.vercel.app/api/wakatime?username=therepoclub&theme=nord&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=The-Repo-Club%27s+WakaTime+Stats&layout=compact)
 
