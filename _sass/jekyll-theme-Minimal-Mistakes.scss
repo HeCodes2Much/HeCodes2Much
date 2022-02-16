@@ -1,6 +1,6 @@
+@import "variables";
 @import "normalize";
 @import "fonts";
-@import "variables";
 @import "mixins";
 @import "rouge-Minimal-Mistakes.scss";
 @import "colorspaces.scss";
@@ -57,6 +57,11 @@ h2 {
 h3 {
 	font-size: 24px;
 	line-height: 28px;
+
+    span {
+        font-size: 16px;
+        color: $foreground;
+    }
 }
 
 h4,
@@ -90,9 +95,13 @@ a {
 	&:hover {
 		color: darken($green, 20%);
 	}
+
+	small {
+		display: inline;
+	}
 }
 
-a small {
+small {
 	font-size: 11px;
 	color: $comment;
 	margin-top: -0.6em;

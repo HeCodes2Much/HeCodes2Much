@@ -63,6 +63,8 @@
 
 **GitHub Stats ⚡**
 
+![Alt](https://repobeats.axiom.co/api/embed/829458f59b8c767822414b08c808ba8621b6bad8.svg "Repobeats analytics image")
+
 ![Chart not found](https://github-readme-stats.vercel.app/api?username=The-Repo-Club&theme=nord&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=The-Repo-Club%27s+GitHub+Stats&layout=compact)
 
 ![Chart not found](https://github-readme-stats.vercel.app/api/top-langs/?username=the-repo-club&theme=nord&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=The-Repo-Club%27s+Top+Languages&layout=compact)

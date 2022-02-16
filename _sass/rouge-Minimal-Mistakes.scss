@@ -2,6 +2,18 @@
    manual created based on the Minimal-Mistakes colours
 */
 
+section {
+	.author {
+		display: inline-block;
+		max-width: 25%;
+	}
+
+    .post {
+		display: inline-block;
+		max-width: 75%;
+	}
+}
+
 .highlight table td {
 	padding: 5px;
 }

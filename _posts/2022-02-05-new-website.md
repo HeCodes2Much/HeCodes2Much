@@ -1,7 +1,16 @@
 ---
-layout: post
-title: New Website
-colorspace: purple
+layout: 'post'
+title: 'New Website'
+date: '2022-02-05'
+colorspace: 'purple'
+category: 'New Website'
+tag:
+- 'new'
+- 'website'
+- 'feb'
+- '2022'
+author: wayne6324@gmail.com
+author_profile: true
 ---
 
 Welcome to our website over the past few weeks we have been hard at work to bring you the best site we could.

@@ -8,7 +8,8 @@
 
     {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/fontawesome.min.css">
+    <script src="https://kit.fontawesome.com/6c1b936dd0.js" crossorigin="anonymous"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/hamburger.js' | relative_url }}"></script>
@@ -30,11 +31,11 @@
                     <a href="/">{{ site.github.owner_name }}</a>
                 </li>
                 {% if site.show_forks %}
-                {% if site.github.repository_url %}
-                <li class="fork">
-                    <a href="{{ site.github.repository_url }}">View On GitHub</a>
-                </li>
-                {% endif %}
+                    {% if site.github.repository_url %}
+                        <li class="fork">
+                            <a href="{{ site.github.repository_url }}">View On GitHub</a>
+                        </li>
+                    {% endif %}
                 {% endif %}
             </div>
             <div class="right">
@@ -45,20 +46,21 @@
                 </li>
                 <div id="toggleMenu">
                     {% if site.show_downloads %}
-                    {% if site.github.zip_url %}
-                    <li class="downloads">
-                        <a href="{{ site.github.zip_url }}">ZIP</a>
-                    </li>
+                        {% if site.github.zip_url %}
+                            <li class="downloads">
+                                <a href="{{ site.github.zip_url }}">ZIP</a>
+                            </li>
+                        {% endif %}
+
+                        {% if site.github.tar_url %}
+                            <li class="downloads">
+                                <a href="{{ site.github.tar_url }}">TAR</a>
+                            </li>
+                        {% endif %}
+
+                        <li class="title">DOWNLOADS</li>
                     {% endif %}
 
-                    {% if site.github.tar_url %}
-                    <li class="downloads">
-                        <a href="{{ site.github.tar_url }}">TAR</a>
-                    </li>
-                    {% endif %}
-
-                    <li class="title">DOWNLOADS</li>
-                    {% endif %}
                     <li class="blog">
                         <a href="/blog">Blog</a>
                     </li>
@@ -69,28 +71,30 @@
     {% endif %}
 
     <div class="wrapper">
-        {% if site.show_header %}<section>
-            {% else %}<section class="no-header">{% endif %}
-                <div id="title">
-                    {% if page.icon %}
-                    <img src="{{ page.icon | relative_url }}" />
-                    {% endif %}
-                    <h1>{{ site.title | default: site.github.repository_name }}</h1>
-                    <p>{{ site.description | default: site.github.project_tagline }}</p>
-                    <hr>
-                </div>
+    {% if site.show_header %}
+        <section>
+    {% else %}
+        <section class="no-header">
+    {% endif %}
+            <div id="title">
+                {% if page.icon %}
+                <img src="{{ page.icon | relative_url }}" />
+                {% endif %}
+                <h1>{{ site.title | default: site.github.repository_name }}</h1>
+                <p>{{ site.description | default: site.github.project_tagline }}</p>
+                <hr>
+            </div>
 
-                {{ content }}
+            {{ content }}
 
-                <div id="footer">
-                    <hr />
-                    <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{
-                            site.github.owner_name }}</a></span>
-                    <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a
-                            href="https://minimal-mistakes.xyz/">Minimal-Mistakes</a></span>
-                </div>
-            </section>
-
+            <div id="footer">
+                <hr />
+                <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{
+                        site.github.owner_name }}</a></span>
+                <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a
+                        href="https://minimalmistakes.org/">MinimalMistakes</a></span>
+            </div>
+        </section>
     </div>
 
     {% if site.google_analytics %}

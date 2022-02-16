@@ -1,7 +1,16 @@
 ---
-layout: post
-title: The Launch of Shellfetch
-colorspace: purple
+layout: 'post'
+title: 'The Launch of Shellfetch'
+date: '2022-02-16'
+colorspace: 'purple'
+category: 'New Program'
+tag:
+- 'new'
+- 'program'
+- 'feb'
+- '2022'
+author: wayne6324@gmail.com
+author_profile: true
 ---
 
 Hello guys and gals, today I have launched my all new and improved fetch tool called [shellfetch](https://github.com/The-Repo-Club/shellfetch)
@@ -19,7 +28,7 @@ Hello guys and gals, today I have launched my all new and improved fetch tool ca
         A modular, hackable, fetch script written in Bash
 
         This program may be freely redistributed
-        under the terms of The GPL-TRC License.
+        under the terms of The MIT License.
 
         The-Repo-Club <wayne6324@gmail.com>
 ```
@@ -79,21 +88,21 @@ get_test() {
 # Man Screenshots
 
 <details>
-    <summary>Click to view!</summary>
+    <summary><span class="right"><i class="fa-solid fa-caret-down"></i></span></summary>
 
-<img src="screenshots/man.png" alt="man" style="max-width: 100%;">
+<img src="https://github.com/The-Repo-Club/shellfetch/raw/main/screenshots/man.png" alt="man" style="max-width: 100%;">
 
 </details>
 
 # Screenshots
 
 <details>
-    <summary>Click to view!</summary>
+    <summary><span class="right"><i class="fa-solid fa-caret-down"></i></span></summary>
 
-<img src="screenshots/1.png" alt="screenshot1" style="max-width: 100%;">
-<img src="screenshots/2.png" alt="screenshot2" style="max-width: 100%;">
-<img src="screenshots/3.png" alt="screenshot3" style="max-width: 100%;">
-<img src="screenshots/4.png" alt="screenshot4" style="max-width: 100%;">
+<img src="https://github.com/The-Repo-Club/shellfetch/raw/main/screenshots/1.png" alt="screenshot1" style="max-width: 100%;">
+<img src="https://github.com/The-Repo-Club/shellfetch/raw/main/screenshots/2.png" alt="screenshot2" style="max-width: 100%;">
+<img src="https://github.com/The-Repo-Club/shellfetch/raw/main/screenshots/3.png" alt="screenshot3" style="max-width: 100%;">
+<img src="https://github.com/The-Repo-Club/shellfetch/raw/main/screenshots/4.png" alt="screenshot4" style="max-width: 100%;">
 
 </details>
 

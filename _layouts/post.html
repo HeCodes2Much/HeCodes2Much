@@ -1,12 +1,11 @@
 ---
 layout: default
 ---
-
 <div class="post">
     <h1 class="post-title">{{ page.title }}</h1>
     <span class="post-date">{{ page.date | date_to_string }}</span>
     {% if page.tags %} {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a>
+    <a href="/{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag"><i class="fas fa-tags" aria-hidden="true"></i> {{ tag }}</a>
     {% endfor %} {% endif %}
     <article>{{ content }}</article>
 </div>
@@ -17,7 +16,7 @@ layout: default
         {% for post in site.related_posts limit:3 %}
         <li>
             <h3>
-                <a href="{{ site.baseurl }}{{ post.url }}">
+                <a href="/{{ post.url }}">
                     {{ post.title }}
                     <small>{{ post.date | date_to_string }}</small>
                 </a>
