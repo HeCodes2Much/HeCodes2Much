@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Website
+title: The Launch of Shellfetch
 colorspace: purple
 ---
 
