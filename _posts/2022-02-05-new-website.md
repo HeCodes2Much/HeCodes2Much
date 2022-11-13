@@ -3,7 +3,8 @@ layout: 'post'
 title: 'New Website'
 date: '2022-02-05'
 colorspace: 'purple'
-category: 'New Website'
+category:
+- 'New Website'
 tag:
 - 'new'
 - 'website'

@@ -3,7 +3,8 @@ layout: 'post'
 title: 'The Launch of Shellfetch'
 date: '2022-02-16'
 colorspace: 'purple'
-category: 'New Program'
+category:
+- 'New Program'
 tag:
 - 'new'
 - 'program'
