@@ -1,6 +1,5 @@
 ---
 layout: default
-colorspace: orange
 ---
 
 ### Hi there, I'm Wayne - aka [The-Repo-Club][website] 👋

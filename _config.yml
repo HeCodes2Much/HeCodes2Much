@@ -50,6 +50,27 @@ paginate: 5
 paginate_path: '/blog/page:num'
 permalink: /:year/:month/:day/:title/
 
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true  # add comments to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "default"
+      show-avatar: true
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      nav-include: true  # include in header nav
+
 # Google Analytics ID
 google_analytics:
 
