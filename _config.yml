@@ -39,9 +39,11 @@ whitelist:
   - jekyll-include-cache
   - jekyll-redirect-from
 
+timezone: Europe/London
 markdown: kramdown
 kramdown:
   input: GFM
+highlighter: rouge
 excerpt_separator: "<!-- more -->"
 sass:
   style: compressed
