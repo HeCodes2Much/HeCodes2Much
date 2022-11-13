@@ -6,6 +6,12 @@ url: https://linuxrepos.org
 read_time: true
 words_per_minute: 200
 
+utterances:
+    repo: The-Repo-Club/The-Repo-Club
+    issueterm: title
+    theme: dark-blue
+    crossorigin: anonymous
+
 # Site configurations
 # Plugins (previously gems:)
 plugins:

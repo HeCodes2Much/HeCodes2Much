@@ -1,0 +1,9 @@
+{%- if page.layout == "post" or post.layout == "post" -%}
+    {%- if post.url -%}
+        {%- assign path = post.path -%}
+    {%- else %}
+        {%- assign path = page.path -%}
+    {%- endif -%}
+
+    <i class="fas fa-edit"></i> <a href="{{ site.github.repo }}/edit/master/{{ path }}">edit</a>
+{%- endif -%}

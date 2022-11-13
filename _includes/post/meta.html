@@ -1,0 +1,9 @@
+<div class="text-muted mb-2">
+    <ul class="list-inline small mb-1">
+        <li class="list-inline-item">{% include post/date.html %}{{ time }}</li>
+        <li class="list-inline-item">{% include post/reading_time.html text=content %}</li>
+        <li class="list-inline-item d-none d-md-inline-block">{% include post/edit.html %}</li>
+    </ul>
+    {% include post/tags.html %}
+    {% include post/sharing.html %}
+</div>

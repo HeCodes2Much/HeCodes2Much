@@ -1,29 +1,32 @@
 ---
 layout: default
 ---
-<div class="post">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <span class="post-date">{{ page.date | date_to_string }}</span> {% include read_time.html %}
-    {% if page.tags %} {% for tag in page.tags %}
-    <a href="/{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag"><i class="fas fa-tags" aria-hidden="true"></i> {{ tag }}</a>
-    {% endfor %} {% endif %}
-    <article>{{ content }}</article>
-</div>
+<article role="main" class="blog-post">
+    <header class="header-section">
+        <div class="intro-header no-img">
+            <h1 class="post-title">{{ page.title }}</h1>
+            {% include post/meta.html %}
+        </div>
+    </header>
+    {{ content }}
+</article>
 
-{% if site.utterances %}
-    <div class="comments">
-        <h2>Comments</h2>
-        <ul class="related-comments">
-        <script src="https://utteranc.es/client.js"
-                repo="The-Repo-Club/The-Repo-Club"
-                issue-term="title"
-                theme="dark-blue"
-                crossorigin="anonymous"
-                async>
-        </script>
-         </ul>
-    </div>
-{% endif %}
+{% include comments.html %}
+
+<nav aria-label="Page navigation">
+    <ul class="pagination justify-content-between mt-3 pt-3 border-top">
+        {% if page.previous.url %}
+        <li class="page-item"><a class="page-link" href="{{ page.previous.url | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}"><i class="fas fa-angle-double-left"></i> Previous post</a></li>
+        {% else %}
+        <li class="page-item disabled"><span class="page-link"><i class="fas fa-angle-double-left"></i> Previous post</span></li>
+        {% endif %}
+        {% if page.next.url %}
+        <li class="page-item"><a class="page-link" href="{{ page.next.url | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}"><i class="fas fa-angle-double-right"></i> Next post</a></li>
+        {% else %}
+        <li class="page-item disabled"><span class="page-link"><i class="fas fa-angle-double-right"></i> Next post</span></li>
+        {% endif %}
+    </ul>
+</nav>
 
 <div class="related">
     <h2>Related Posts</h2>
