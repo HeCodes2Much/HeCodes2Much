@@ -1,8 +1,5 @@
 $(function () {
     $.localScroll({ filter: '.smoothScroll' });
-    $('#goTop').goTop({
-        "src": "fas fa-chevron-up"
-    });
 
     $(window).scroll(function () {
         var collapse = $('#navbarCollapseContent');
