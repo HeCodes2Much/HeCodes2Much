@@ -4,8 +4,6 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{ site.title | default: site.github.repository_name }}</title>
-
     {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/fontawesome.min.css">
@@ -30,13 +28,6 @@
                 <li class="home">
                     <a href="/">{{ site.github.owner_name }}</a>
                 </li>
-                {% if site.show_forks %}
-                    {% if site.github.repository_url %}
-                        <li class="fork">
-                            <a href="{{ site.github.repository_url }}">View On GitHub</a>
-                        </li>
-                    {% endif %}
-                {% endif %}
             </div>
             <div class="right">
                 <li class="toggle">
@@ -45,22 +36,6 @@
                     </a>
                 </li>
                 <div id="toggleMenu">
-                    {% if site.show_downloads %}
-                        {% if site.github.zip_url %}
-                            <li class="downloads">
-                                <a href="{{ site.github.zip_url }}">ZIP</a>
-                            </li>
-                        {% endif %}
-
-                        {% if site.github.tar_url %}
-                            <li class="downloads">
-                                <a href="{{ site.github.tar_url }}">TAR</a>
-                            </li>
-                        {% endif %}
-
-                        <li class="title">DOWNLOADS</li>
-                    {% endif %}
-
                     <li class="blog">
                         <a href="/blog">Blog</a>
                     </li>

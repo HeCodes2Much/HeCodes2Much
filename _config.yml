@@ -39,8 +39,8 @@ permalink: /:year/:month/:day/:title/
 # Google Analytics ID
 google_analytics:
 
-# disqus
-disqus_short_name:
+# utterances
+utterances: true
 
 # GitHub Values
 github:
@@ -48,7 +48,5 @@ github:
   owner_url: https://github.com/The-Repo-Club
   repository_url: https://github.com/The-Repo-Club/The-Repo-Club
 
-show_downloads: false
-show_forks: false
 show_header: true
 remote_theme: "The-Repo-Club/The-Repo-Club"
