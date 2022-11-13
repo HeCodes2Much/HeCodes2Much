@@ -1,0 +1,29 @@
+---
+layout: page
+title: Tags
+---
+
+{%- assign sortedTags = site.tags | sort -%}
+{%- assign untaggedPosts = site.posts | where_exp:"post", "post.tags.size == 0" -%}
+<div class="mb-3" itemscope itemtype="http://schema.org/Blog">
+    {%- for tag in sortedTags -%}
+    <a href="#{{ tag[0] | slugify }}" class="badge badge-light mx-2 smoothScroll">{{ tag[0] }} <small>({{ tag[1] | size }})</small></a>
+    {%- endfor -%}
+    <a href="#untagged" class="badge badge-light mx-2 smoothScroll">untagged <small>({{ untaggedPosts | size }})</small></a>
+
+    <hr />
+
+    {%- for tag in sortedTags -%}
+    {%- assign tagPosts = tag[1] -%}
+    <fieldset id="{{ tag[0] | slugify }}" class="mt-3">
+        <legend class="border-bottom">{{ tag[0] }} <span class="badge badge-light">{{ tagPosts | size }}</span></legend>
+        {% include archive_post.html show_tags=false collection=tagPosts %}
+    </fieldset>
+    {%- endfor -%}
+
+    <fieldset id="untagged" class="mt-3">
+        <legend class="border-bottom">Untagged <span class="badge badge-light">{{ untaggedPosts | size }}</span></legend>
+        {% include archive_post.html show_tags=true collection=untaggedPosts %}
+    </fieldset>
+
+</div>

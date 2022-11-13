@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <article role="main" class="blog-post">
     <header class="header-section">
         <div class="intro-header no-img">
@@ -10,7 +11,6 @@ layout: default
     </header>
     {{ content }}
 </article>
-
 {% include comments.html %}
 
 <nav aria-label="Page navigation">
@@ -27,20 +27,3 @@ layout: default
         {% endif %}
     </ul>
 </nav>
-
-<div class="related">
-    <h2>Related Posts</h2>
-    <ul class="related-posts">
-        {% for post in site.related_posts limit:5 %}
-        <li>
-            <h3>
-                <a href="/{{ post.url }}">
-                    {{ post.title }}
-                    <small>{{ post.date | date_to_string }}</small>
-                </a>
-            </h3>
-        </li>
-        {% endfor %}
-    </ul>
-</div>
-

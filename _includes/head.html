@@ -1,0 +1,35 @@
+﻿{%- if page.title == "Home" -%}
+    {%- capture title -%}{{ site.title }} - {{ site.subtitle }}{%- endcapture -%}
+{%- else- %}
+    {%- capture title -%}{{ page.title }} - {{ site.title }}{%- endcapture -%}
+{%- endif -%}
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="msvalidate.01" content="767B8478A8D8CF83DF28EFE976F167E2" />
+    <title>{{ title }}</title>
+    <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,700' rel='stylesheet' type='text/css'>
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="{{ site.feedburner }}" />
+    <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/favicon.ico">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ site.url }}/css/pygment_highlights.css" />
+    <link rel="stylesheet" href="{{ site.url }}/css/site.css" />
+    {% seo title=false%}
+
+    {%- if site.google_analytics -%}
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ google_analytics }}"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', '{{ google_analytics }}');
+    </script>
+    {%- endif -%}
+</head>

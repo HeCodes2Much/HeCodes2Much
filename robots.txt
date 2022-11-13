@@ -1,0 +1,5 @@
+﻿# Allow access to all crawlers
+User-agent: *
+Allow: /
+
+Sitemap: https://linuxrepos.org/sitemap.xml
