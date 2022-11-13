@@ -9,6 +9,8 @@ tag:
 - 'new'
 - 'look'
 - 'feel'
+- 'nov'
+- '2022'
 author: wayne6324@gmail.com
 author_profile: true
 ---
