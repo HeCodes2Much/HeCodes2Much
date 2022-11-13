@@ -14,7 +14,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed
+  - jekyll-mentions
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -23,7 +25,9 @@ whitelist:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed
+  - jekyll-mentions
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 markdown: kramdown
 kramdown:

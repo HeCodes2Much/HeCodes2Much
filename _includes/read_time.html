@@ -1,11 +1,7 @@
-{% raw %}
-<span class="reading-time" title="Estimated read time">
-  {% assign words = content | number_of_words %}
-  {% if words < 360 %}
-    1 min
-  {% else %}
-    {{ words | divided_by:180 }} mins
-  {% endif %}
-</span>
-
-{% endraw %}
+{%- assign words = {{include.text}} | number_of_words -%}
+{%- if words < 270 -%}
+{%- capture read_time -%}1 minute{%- endcapture -%}
+{%- else -%}
+{%- capture read_time -%}{{ words | divided_by:135 }} minutes{%- endcapture -%}
+{%- endif -%}
+<i class="far fa-clock"></i> {{read_time}} to read
