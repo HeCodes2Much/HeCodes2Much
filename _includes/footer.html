@@ -2,19 +2,6 @@
     {%- if site.footer-links-active -%}
     <ul class="list-inline pt-4 icon-list">
         <li class="list-inline-item">
-            <a href="https://mvp.microsoft.com/en-us/PublicProfile/{{ site.author.mvp }}" title="MVP Profile">
-                <img src="/img/MVP.png">
-            </a>
-        </li>
-        <li class="list-inline-item">
-            <a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">
-                <span class="fa-stack">
-                    <i class="fa fa-square fa-stack-2x"></i>
-                    <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
-                </span>
-            </a>
-        </li>
-        <li class="list-inline-item">
             <a href="https://github.com/{{ site.author.github }}" title="GitHub">
                 <span class="fa-stack">
                     <i class="fa fa-square fa-stack-2x"></i>
@@ -23,26 +10,10 @@
             </a>
         </li>
         <li class="list-inline-item">
-            <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter">
-                <span class="fa-stack">
-                    <i class="fa fa-square fa-stack-2x"></i>
-                    <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-                </span>
-            </a>
-        </li>
-        <li class="list-inline-item">
             <a href="https://linkedin.com/in/{{ site.author.linkedin }}" title="LinkedIn">
                 <span class="fa-stack">
                     <i class="fa fa-square fa-stack-2x"></i>
                     <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
-                </span>
-            </a>
-        </li>
-        <li class="list-inline-item">
-            <a href="https://stackoverflow.com/users/{{ site.author.stackoverflow }}" title="StackOverflow">
-                <span class="fa-stack">
-                    <i class="fa fa-square fa-stack-2x"></i>
-                    <i class="fab fa-stack-overflow fa-stack-1x fa-inverse"></i>
                 </span>
             </a>
         </li>
@@ -65,14 +36,14 @@
     </ul>
     {%- endif -%}
     <p class="text-muted">
-        Copyright 2006 - {{ site.time | date: '%Y' }} - {{ site.author.name }}
+        Copyright 2019 - {{ site.time | date: '%Y' }} - {{ site.author.name }}
     </p>
     <p class="text-muted">
-        Blog content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+        Blog content is licensed under a <a rel="license" href="https://choosealicense.com/licenses/mit/">MIT license</a>.
         Unless otherwise stated or granted, code samples licensed under the <a rel="license" href="https://choosealicense.com/licenses/mit/">MIT license</a>.
     </p>
     <p class="text-muted">
-        <a href="{{ site.url }}/privacy">privacy</a> | <a href="{{ site.url }}/blogtegrity">blogtegrity</a>
+        <a href="{{ site.url }}/privacy">privacy</a>
     </p>
     <p class="small text-muted">
         Site design is based on

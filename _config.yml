@@ -6,6 +6,10 @@ url: https://linuxrepos.org
 read_time: true
 words_per_minute: 200
 
+gravatar:
+   hash: d5671aefc05a07fb90ccb47fbcc46084
+   size: 80
+
 utterances:
     repo: The-Repo-Club/The-Repo-Club
     issueterm: title
@@ -57,6 +61,13 @@ github:
   owner_name: The-Repo-Club
   owner_url: https://github.com/The-Repo-Club
   repository_url: https://github.com/The-Repo-Club/The-Repo-Club
+
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: Wayne Wesley
+  github: The-Repo-Club
+  linkedin: WayneWesley
+  vsmarketplace: TheRepoClub
 
 show_header: true
 remote_theme: "The-Repo-Club/The-Repo-Club"
