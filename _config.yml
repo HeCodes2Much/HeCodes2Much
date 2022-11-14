@@ -84,6 +84,7 @@ github:
   owner_name: The-Repo-Club
   owner_url: https://github.com/The-Repo-Club
   repository_url: https://github.com/The-Repo-Club/The-Repo-Club
+  feedback: https://github.com/The-Repo-Club/Feedback
 
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
