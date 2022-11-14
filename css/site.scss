@@ -12,6 +12,11 @@ body {
     color: $text-color;
     position: relative;
     background: $white;
+
+    .dark {
+        color: $text-color;
+        background: $dark;
+    }
 }
 
 .main-content {
