@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 ---
 
 ### Hi there, I'm Wayne - aka [The-Repo-Club][website] 👋
