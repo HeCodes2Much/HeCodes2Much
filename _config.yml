@@ -7,14 +7,16 @@ read_time: true
 words_per_minute: 200
 
 gravatar:
-   hash: d5671aefc05a07fb90ccb47fbcc46084
-   size: 80
+  hash: d5671aefc05a07fb90ccb47fbcc46084
+  size: 80
 
+# utterances
 utterances:
-    repo: The-Repo-Club/The-Repo-Club
-    issueterm: title
-    theme: dark-blue
-    crossorigin: anonymous
+  enabled: true
+  repo: The-Repo-Club/The-Repo-Club
+  issueterm: title
+  theme: dark-blue
+  crossorigin: anonymous
 
 # Site configurations
 # Plugins (previously gems:)
@@ -43,38 +45,32 @@ permalink: /:year/:month/:day/:title/
 pagination:
   enabled: true
   per_page: 2
-  permalink: '/page/:num/'
-  title: ' - page :num'
+  permalink: "/page/:num/"
+  title: " - page :num"
   limit: 0
-  sort_field: 'date'
+  sort_field: "date"
   sort_reverse: true
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
-      comments: true  # add comments to all blog posts
-  -
-    scope:
+      comments: true # add comments to all blog posts
+  - scope:
       path: "" # all files
     values:
       layout: "default"
       show-avatar: true
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
-      nav-include: true  # include in header nav
+      nav-include: true # include in header nav
 
 # Google Analytics ID
 google_analytics:
-
-# utterances
-utterances: true
 
 # GitHub Values
 github:
