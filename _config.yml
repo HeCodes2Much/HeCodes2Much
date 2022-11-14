@@ -1,10 +1,10 @@
 # SEO Values
 title: The-Repo-Club
 tagline: Home page for all things repo club
+subtitle:
 description: Home page for all things repo club
 url: https://linuxrepos.org
-read_time: true
-words_per_minute: 200
+feed: /feed.xml
 
 gravatar:
   hash: d5671aefc05a07fb90ccb47fbcc46084
