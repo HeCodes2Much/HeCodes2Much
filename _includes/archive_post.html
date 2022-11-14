@@ -10,7 +10,6 @@
     <div class="list-group-item">
         <article class="w-100 justify-content-between">
             <a href="{{ post.url }}">{{post.title}}</a>
-            {{ post.content | split:"<!-- more -->" | first % }}
             {% include post/meta_index.html show_tags=show_tags %}
         </article>
     </div>
