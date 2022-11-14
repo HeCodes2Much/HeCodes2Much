@@ -18,10 +18,13 @@ utterances:
   theme: dark-blue
   crossorigin: anonymous
 
+show_header: true
+remote_theme: "The-Repo-Club/The-Repo-Club"
+
 # Site configurations
 # Plugins (previously gems:)
-gems:
-  - jekyll-paginate-v2
+plugins:
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-gist
@@ -40,16 +43,7 @@ sass:
   style: compressed
   sass_dir: _scss
 permalink: /:year/:month/:day/:title/
-
-# Pagination Settings
-pagination:
-  enabled: true
-  per_page: 2
-  permalink: "/page/:num/"
-  title: " - page :num"
-  limit: 0
-  sort_field: "date"
-  sort_reverse: true
+paginate: 5
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
@@ -69,6 +63,10 @@ defaults:
     values:
       nav-include: true # include in header nav
 
+# --- Footer options --- #
+
+footer-links-active: true
+
 # Google Analytics ID
 google_analytics:
 
@@ -85,7 +83,3 @@ author:
   github: The-Repo-Club
   linkedin: WayneWesley
   vsmarketplace: TheRepoClub
-
-show_header: true
-footer-links-active: true
-remote_theme: "The-Repo-Club/The-Repo-Club"
