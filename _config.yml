@@ -49,7 +49,7 @@ sass:
   style: compressed
   sass_dir: _scss
 paginate: 5
-paginate_path: '/blog/page:num'
+paginate_path: "/page:num/"
 permalink: /:year/:month/:day/:title/
 
 # Default YAML values (more information on Jekyll's site)
