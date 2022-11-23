@@ -1,7 +1,0 @@
-@import "_variables";
-
-@mixin box-variant($color) {
-    border-left-color: theme-color-level($color, $box-border-level);
-    background-color: theme-color-level($color, $box-bg-level);
-    color: theme-color-level($color, $box-color-level);
-}

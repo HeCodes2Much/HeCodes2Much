@@ -1,0 +1,20 @@
+$cool-colors: (
+	// slategray
+	"slategray-lightest": #c6cdd3,
+	"slategray-lighter": #a9b3bd,
+	"slategray-light": #8d9aa6,
+	"slategray": #708090,
+	"slategray-dark": #5a6773,
+	"slategray-darker": #434d57,
+	"slategray-darkest": #2d343a,
+	// gray colors
+	"gray-lightest": #cdcdcd,
+	"gray-lighter": #b3b3b3,
+	"gray-light": #9a9a9a,
+	"gray": #808080,
+	"gray-dark": #676767,
+	"gray-darker": #4d4d4d,
+	"gray-darkest": #343434
+) !default;
+
+@import "minimalist.scss";

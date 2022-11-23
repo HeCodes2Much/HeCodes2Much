@@ -1,9 +1,0 @@
-{%- capture base-path -%}/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}{%- endcapture -%}
-{%- capture image-href -%}{{ base-path }}/{{ include.image-file }}{%- endcapture -%}
-{%- if include.href -%}
-<a href="{{ include.href }}" target="{{ include.href-target | default: "_self" }}">
-    <img src="{{ image-href }}" alt="{{ include.description }}" title="{{ include.tooltip }}">
-</a>
-{%- else -%}
-<img src="{{ image-href }}" alt="{{ include.description }}" title="{{ include.tooltip }}">
-{%- endif -%}

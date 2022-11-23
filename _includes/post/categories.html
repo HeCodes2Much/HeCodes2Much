@@ -1,3 +1,0 @@
-{%- if page.categories.size > 0 or post.categories.size > 0 -%}
-	<i class="fas fa-tags"></i> {{ page.categories | join: ', ' }}{{ post.categories | join: ', ' }}
-{%- endif -%}

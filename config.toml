@@ -1,0 +1,60 @@
+baseURL = 'https://linuxrepos.org/'
+languageCode = 'en-us'
+paginate = 8
+summaryLength = 8
+theme = "minimalistcss"
+title = 'linuxrepos'
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[menu]
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 5
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 95
+[[menu.main]]
+identifier = "tags"
+name = "Tag"
+url = "/tags/"
+weight = 99
+
+[[menu.second]]
+identifier = "contact"
+name = "Contact"
+url = "https://github.com/The-Repo-Club/Feedback/issues/new"
+weight = 1
+[[menu.second]]
+identifier = "privacy"
+name = "Privacy"
+url = "/privacy"
+weight = 2
+
+[params]
+author = "Wayne Wesley"
+description = "Hello there, I’m Wayne Wesley aka The-Repo-Club"
+menu_item_separator = " - "
+
+[[params.social]]
+icon = "github"
+name = "Github"
+url = "https://github.com/MinimalistCSS"
+[[params.social]]
+icon = "rss"
+name = "RSS Feed"
+url = "/index.xml"
+
+[outputs]
+home = ["HTML", "RSS"]
