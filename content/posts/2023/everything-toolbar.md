@@ -64,7 +64,3 @@ Open Run command: Right-click start button and select run
 Disable the Service by stopping and disabling it
 
 ![](/images/2023/everything-toolbar/service.png)
-
-## Walkthrough Video
-
-{{< youtube "6Xg-BRA3rgQ" >}}

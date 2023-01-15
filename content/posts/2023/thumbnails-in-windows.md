@@ -56,7 +56,3 @@ The main one is in `HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Adva
 Screenshot of `regedit`
 
 ![](/images/2023/thumbnails-in-windows/regedit.png)
-
-## Walkthrough Video
-
-{{< youtube "JUEBG-_U1vc" >}}

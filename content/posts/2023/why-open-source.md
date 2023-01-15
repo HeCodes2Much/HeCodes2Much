@@ -34,6 +34,3 @@ Let's analyse how I make a million dollars off a project:
 - Less Secure - This is a strange belief that some subscribe to the security by obscurity line of thought. Popular open source projects have its code reviewed almost daily and security holes plugged quicker than closed source that might never even have an independent code review!
 - Hard to Maintain - Since more people are pushing requests and issues it becomes harder to maintain as a few have said. Any project that I stopped maintaining or it just became unwieldy was my fault. The person in charge of the open source project has to be willing to deny and refuse MANY pull requests. It is up to the project maintainer to be vigilant, clean the code, and have strict rules for contribution. Anytime I've failed to maintain a project, it was because of a poor understanding of a PR or GitHub in general.
 
-## Walkthrough Video
-
-{{< youtube dhox4jNrBQM >}}

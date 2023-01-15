@@ -50,7 +50,3 @@ Uninstalled Built-In Updates? Use the DISM++ Updates tab to scan and install new
 ### The Rest - Toolbox, Deploy, Drivers, etc.
 
 Since this is seeing less and less updates, I wouldn't use these tools. Microsoft is constantly updating and modifying Windows, hence using the less targeted tools is NOT Recommended.
-
-## Walkthrough Video
-
-{{< youtube 2hEde5WuCSY >}}

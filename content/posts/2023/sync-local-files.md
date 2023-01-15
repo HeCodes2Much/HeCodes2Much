@@ -78,6 +78,3 @@ Here is Syncthing's wonderful backup system. I always use this for the times I d
 
 ![](/images/2023/sync-local-files/backup.png)
 
-## Walkthrough Video
-
-{{< youtube dBVTedUWbfg >}}

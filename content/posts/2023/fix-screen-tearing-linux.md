@@ -93,7 +93,3 @@ CLI Method
 nvidia-settings --assign CurrentMetaMode="nvidia-auto-select +0+0 {ForceFullCompositionPipeline=On}"
 ```
 Reboot!
-
-## Walkthrough Video
-
-{{< youtube rVBq6d3c1gM >}}

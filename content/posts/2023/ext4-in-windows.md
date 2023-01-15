@@ -70,7 +70,3 @@ This will make it available in both Windows Explorer and WSL `/mnt/wsl/PhysicalD
 ```
 wsl --unmount \\.\PhysicalDrive1
 ```
-
-## Walkthrough Video
-
-{{< youtube aX1vH1j7m7U >}}

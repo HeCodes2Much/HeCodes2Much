@@ -135,6 +135,3 @@ sudo mkswap /home/swapfile
 sudo swapon /home/swapfile 
 ```
 
-## Walkthrough Video
-
-{{< youtube ttOs5iWgNzk >}}
