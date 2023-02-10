@@ -1,7 +1,7 @@
 ---
 title: "Flatseal: The Best Flatpak Addon"
 
-date: 2023-02-10
+date: 2023-02-09
 url: /flatseal-required-flatpak-addon/
 image: images/2023-thumbs/flatseal-required-flatpak-addon.jpg
 categories:
