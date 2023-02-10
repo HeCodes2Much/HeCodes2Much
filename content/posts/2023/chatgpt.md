@@ -1,3 +1,15 @@
+---
+title: "ChatGPT"
+
+date: 2023-02-10
+url: /chatgpt/
+image: images/2023-thumbs/dism-plus.jpg
+categories:
+  - AI
+tags:
+  - ChatGPT
+draft: false
+---
 # Introducing ChatGPT: The Powerful Language Model by OpenAI
 
 Have you ever had a conversation with a machine that feels like you're talking to a real person? That's the idea behind ChatGPT, a language model developed by OpenAI. In this blog post, we'll take a closer look at what ChatGPT is, how it works, and what makes it so special.
