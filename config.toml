@@ -3,7 +3,7 @@ languageCode = 'en-us'
 paginate = 8
 summaryLength = 8
 theme = "minimalistcss"
-title = 'linuxrepos'
+title = 'LinuxRepos'
 
 [markup.goldmark.renderer]
 unsafe = true
