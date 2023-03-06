@@ -2,7 +2,7 @@ baseURL = 'https://linuxrepos.org/'
 languageCode = 'en-us'
 paginate = 8
 summaryLength = 8
-theme = "minimalistcss"
+theme = "hugo-theme-arch"
 title = 'LinuxRepos'
 
 [markup.goldmark.renderer]
