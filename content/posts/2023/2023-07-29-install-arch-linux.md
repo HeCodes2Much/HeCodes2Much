@@ -9,6 +9,7 @@ tag:
 - 'linux'
 author: wayne6324@gmail.com
 author_profile: true
+draft: false
 ---
 
 # How to Install Arch Linux: A Comprehensive Guide

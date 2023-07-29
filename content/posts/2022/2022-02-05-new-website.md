@@ -1,4 +1,5 @@
 ---
+layout: 'post'
 title: 'New Website'
 date: '2022-02-05'
 categories:
@@ -8,6 +9,8 @@ tags:
 - 'website'
 - 'feb'
 - '2022'
+author: wayne6324@gmail.com
+author_profile: true
 draft: false
 ---
 

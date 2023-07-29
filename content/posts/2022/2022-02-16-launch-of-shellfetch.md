@@ -1,4 +1,5 @@
 ---
+layout: 'post'
 title: 'The Launch of Shellfetch'
 date: '2022-02-16'
 categories:
@@ -8,6 +9,9 @@ tags:
 - 'program'
 - 'feb'
 - '2022'
+author: wayne6324@gmail.com
+author_profile: true
+draft: false
 ---
 
 Hello guys and gals, today I have launched my all new and improved fetch tool called [shellfetch](https://github.com/The-Repo-Club/shellfetch)

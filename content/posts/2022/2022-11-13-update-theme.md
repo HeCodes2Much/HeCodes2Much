@@ -1,4 +1,5 @@
 ---
+layout: 'post'
 title: 'Updated the Theme'
 date: '2022-11-13'
 categories:
@@ -11,6 +12,7 @@ tags:
 - '2022'
 author: wayne6324@gmail.com
 author_profile: true
+draft: false
 ---
 
 Today I updated my websites theme to look a bit nicer but i will be doing more later.
