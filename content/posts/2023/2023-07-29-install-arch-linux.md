@@ -8,6 +8,8 @@ tags:
 - 'install'
 - 'arch'
 - 'linux'
+- 'july'
+- '2023'
 author: wayne6324@gmail.com
 author_profile: true
 draft: false
