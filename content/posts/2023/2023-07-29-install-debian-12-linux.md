@@ -19,6 +19,8 @@ draft: false
 
 In this guide, we will walk you through the step-by-step process of installing Debian 12, the latest stable release of the Debian operating system. Debian is known for its stability, security, and extensive package repositories, making it a popular choice for both beginners and experienced users.
 
+<!-- more -->
+
 ## Before You Begin
 
 Before you start the installation process, there are a few things you need to prepare:
