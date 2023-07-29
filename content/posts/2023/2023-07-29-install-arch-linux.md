@@ -3,7 +3,7 @@ layout: 'post'
 title: 'Install Arch Linux'
 date: '2023-07-29'
 category: 'Install'
-tag:
+tags:
 - 'install'
 - 'arch'
 - 'linux'
@@ -17,6 +17,8 @@ draft: false
 ![Arch Linux Logo](https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg)
 
 If you're someone who enjoys the thrill of customizing your Linux system to your exact specifications, then Arch Linux might be the perfect distribution for you. Arch Linux is known for its simplicity, minimalism, and do-it-yourself approach, offering a rolling release model that ensures you always have access to the latest software packages. In this guide, we'll walk you through the step-by-step process of installing Arch Linux on your machine.
+
+<!-- more -->
 
 ## Prerequisites
 
