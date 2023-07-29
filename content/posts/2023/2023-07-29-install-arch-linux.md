@@ -2,7 +2,8 @@
 layout: 'post'
 title: 'Install Arch Linux'
 date: '2023-07-29'
-category: 'Install'
+categories:
+- 'Install'
 tags:
 - 'install'
 - 'arch'
