@@ -2,7 +2,7 @@
 title: Home
 ---
 
-### Hi there, I'm Wayne - aka [The-Repo-Club][website] 👋
+### Hi there, I'm Wayne - aka [HeCodes2Much][website] 👋
 
 ---
 
@@ -20,14 +20,14 @@ title: Home
 
 ### Connect with me:
 
-[<img align="left" alt="The-Repo-Club | GitHub" width="50px" src="https://img.icons8.com/nolan/64/github.png" />][website]
-[<img align="left" alt="The-Repo-Club | Gmail" width="50px" src="https://img.icons8.com/nolan/64/gmail.png" />][email]
-[<img align="left" alt="The-Repo-Club | Twitter" width="50px" src="https://img.icons8.com/nolan/64/telegram-app.png" />][telegram]
+[<img align="left" alt="HeCodes2Much | GitHub" width="50px" src="https://img.icons8.com/nolan/64/github.png" />][website]
+[<img align="left" alt="HeCodes2Much | Gmail" width="50px" src="https://img.icons8.com/nolan/64/gmail.png" />][email]
+[<img align="left" alt="HeCodes2Much | Twitter" width="50px" src="https://img.icons8.com/nolan/64/telegram-app.png" />][telegram]
 
-[website]: https://github.com/The-Repo-Club/
+[website]: https://github.com/HeCodes2Much/
 [email]: mailto:wayne6324@gmail.com
 [telegram]: https://t.me/TheRepoClub
-[matrix]: https://matrix.to/#/@the-repo-club:kde.org
+[matrix]: https://matrix.to/#/@HeCodes2Much:kde.org
 
 <br />
 <br />
@@ -63,7 +63,7 @@ title: Home
 
 ### Trophys:
 
-![Trophys](https://github-profile-trophy.vercel.app/?username=The-Repo-Club&theme=nord&margin-w=8&margin-h=8&column=8 "Trophys")
+![Trophys](https://github-profile-trophy.vercel.app/?username=HeCodes2Much&theme=nord&margin-w=8&margin-h=8&column=8 "Trophys")
 
 <br />
 
@@ -71,9 +71,9 @@ title: Home
 
 ### GitHub Stats ⚡
 
-![Chart not found](https://github-readme-stats.vercel.app/api?username=The-Repo-Club&theme=nord&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=The-Repo-Club%27s+GitHub+Stats&layout=compact)
+![Chart not found](https://github-readme-stats.vercel.app/api?username=HeCodes2Much&theme=nord&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=HeCodes2Much%27s+GitHub+Stats&layout=compact)
 
-![Chart not found](https://github-readme-stats.vercel.app/api/top-langs/?username=the-repo-club&theme=nord&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=The-Repo-Club%27s+Top+Languages&layout=compact)
+![Chart not found](https://github-readme-stats.vercel.app/api/top-langs/?username=HeCodes2Much&theme=nord&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=HeCodes2Much%27s+Top+Languages&layout=compact)
 
 <br />
 
@@ -81,5 +81,5 @@ title: Home
 
 ### WakaTime Stats ⚡
 
-![Chart not found](https://github-readme-stats.vercel.app/api/wakatime?username=therepoclub&theme=nord&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=The-Repo-Club%27s+WakaTime+Stats&layout=compact)
+![Chart not found](https://github-readme-stats.vercel.app/api/wakatime?username=therepoclub&theme=nord&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=HeCodes2Much%27s+WakaTime+Stats&layout=compact)
 

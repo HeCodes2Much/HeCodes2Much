@@ -14,7 +14,7 @@ author_profile: true
 draft: false
 ---
 
-Hello guys and gals, today I have launched my all new and improved fetch tool called [shellfetch](https://github.com/The-Repo-Club/shellfetch)
+Hello guys and gals, today I have launched my all new and improved fetch tool called [shellfetch](https://github.com/HeCodes2Much/shellfetch)
 
 <!-- more -->
 
@@ -31,17 +31,17 @@ Hello guys and gals, today I have launched my all new and improved fetch tool ca
         This program may be freely redistributed
         under the terms of The MIT License.
 
-        The-Repo-Club <wayne6324@gmail.com>
+        HeCodes2Much <wayne6324@gmail.com>
 ```
 
 <p align='center'>
     <img src='https://img.shields.io/badge/Maintained-Yes-green?colorA=434c5e&colorB=ff59f9&style=flat-square'>
-    <img src='https://img.shields.io/github/last-commit/The-Repo-Club/shellfetch?colorA=434c5e&colorB=ff59f9&style=flat-square'>
-    <img src='https://img.shields.io/github/repo-size/The-Repo-Club/shellfetch?colorA=434c5e&colorB=ff59f9&style=flat-square'>
-    <img src='https://img.shields.io/github/issues/The-Repo-Club/shellfetch?colorA=434c5e&colorB=ff59f9&style=flat-square'>
-    <img src='https://img.shields.io/github/stars/The-Repo-Club/shellfetch?colorA=434c5e&colorB=ff59f9&style=flat-square'>
-    <img src='https://img.shields.io/github/forks/The-Repo-Club/shellfetch?colorA=434c5e&colorB=ff59f9&style=flat-square'>
-    <img src='https://img.shields.io/github/commit-activity/m/The-Repo-Club/shellfetch?colorA=434c5e&colorB=ff59f9&style=flat-square'>
+    <img src='https://img.shields.io/github/last-commit/HeCodes2Much/shellfetch?colorA=434c5e&colorB=ff59f9&style=flat-square'>
+    <img src='https://img.shields.io/github/repo-size/HeCodes2Much/shellfetch?colorA=434c5e&colorB=ff59f9&style=flat-square'>
+    <img src='https://img.shields.io/github/issues/HeCodes2Much/shellfetch?colorA=434c5e&colorB=ff59f9&style=flat-square'>
+    <img src='https://img.shields.io/github/stars/HeCodes2Much/shellfetch?colorA=434c5e&colorB=ff59f9&style=flat-square'>
+    <img src='https://img.shields.io/github/forks/HeCodes2Much/shellfetch?colorA=434c5e&colorB=ff59f9&style=flat-square'>
+    <img src='https://img.shields.io/github/commit-activity/m/HeCodes2Much/shellfetch?colorA=434c5e&colorB=ff59f9&style=flat-square'>
 </p>
 
 # How do I install shellfetch?
@@ -52,7 +52,7 @@ Hello guys and gals, today I have launched my all new and improved fetch tool ca
 
 Follow one of the 3 simple ways to install below.
 
-Download: [PKGBUILD](https://github.com/The-Repo-Club/ArchAUR/raw/main/shellfetch/PKGBUILD) and make with `makepkg -sfi`
+Download: [PKGBUILD](https://github.com/HeCodes2Much/ArchAUR/raw/main/shellfetch/PKGBUILD) and make with `makepkg -sfi`
 
 Install: [Custom Repo](https://arch.therepo.club/) then just use `pacman -S shellfetch`
 
@@ -64,7 +64,7 @@ First, install the dependencies: xrandr, figlet and bash.
 Then run the following commands
 
 ```
-git clone https://github.com/The-Repo-Club/shellfetch ~/.shellfetch
+git clone https://github.com/HeCodes2Much/shellfetch ~/.shellfetch
 cd ~/.shellfetch
 sudo make install
 ```
@@ -92,7 +92,7 @@ get_test() {
 <details>
     <summary>Click Me<i class="fa-solid fa-caret-down"></i></summary>
 
-<img src="https://github.com/The-Repo-Club/shellfetch/raw/main/screenshots/man.png" alt="man" style="max-width: 100%;">
+<img src="https://github.com/HeCodes2Much/shellfetch/raw/main/screenshots/man.png" alt="man" style="max-width: 100%;">
 
 </details>
 
@@ -102,10 +102,10 @@ get_test() {
 <details>
     <summary>Click Me<i class="fa-solid fa-caret-down"></i></summary>
 
-<img src="https://github.com/The-Repo-Club/shellfetch/raw/main/screenshots/1.png" alt="screenshot1" style="max-width: 100%;">
-<img src="https://github.com/The-Repo-Club/shellfetch/raw/main/screenshots/2.png" alt="screenshot2" style="max-width: 100%;">
-<img src="https://github.com/The-Repo-Club/shellfetch/raw/main/screenshots/3.png" alt="screenshot3" style="max-width: 100%;">
-<img src="https://github.com/The-Repo-Club/shellfetch/raw/main/screenshots/4.png" alt="screenshot4" style="max-width: 100%;">
+<img src="https://github.com/HeCodes2Much/shellfetch/raw/main/screenshots/1.png" alt="screenshot1" style="max-width: 100%;">
+<img src="https://github.com/HeCodes2Much/shellfetch/raw/main/screenshots/2.png" alt="screenshot2" style="max-width: 100%;">
+<img src="https://github.com/HeCodes2Much/shellfetch/raw/main/screenshots/3.png" alt="screenshot3" style="max-width: 100%;">
+<img src="https://github.com/HeCodes2Much/shellfetch/raw/main/screenshots/4.png" alt="screenshot4" style="max-width: 100%;">
 
 </details>
 

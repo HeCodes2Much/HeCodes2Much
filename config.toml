@@ -34,7 +34,7 @@ weight = 99
 [[menu.second]]
 identifier = "contact"
 name = "Contact"
-url = "https://github.com/The-Repo-Club/Feedback/issues/new"
+url = "https://github.com/HeCodes2Much/Feedback/issues/new"
 weight = 1
 [[menu.second]]
 identifier = "privacy"
@@ -44,7 +44,7 @@ weight = 2
 
 [params]
 author = "Wayne Wesley"
-description = "Hello there, I’m Wayne Wesley aka The-Repo-Club"
+description = "Hello there, I’m Wayne Wesley aka HeCodes2Much"
 menu_item_separator = " - "
 
 [[params.social]]
