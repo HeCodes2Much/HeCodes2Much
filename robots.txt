@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://linuxrepos.org/sitemap.xml
+Sitemap: https://063240.xyz/sitemap.xml

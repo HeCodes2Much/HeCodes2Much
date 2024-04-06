@@ -1,9 +1,9 @@
-baseURL = 'https://linuxrepos.org/'
+baseURL = 'https://063240.xyz/'
 languageCode = 'en-us'
 paginate = 8
 summaryLength = 8
 theme = "minimalistcss"
-title = 'LinuxRepos'
+title = '063240'
 
 [markup.goldmark.renderer]
 unsafe = true
