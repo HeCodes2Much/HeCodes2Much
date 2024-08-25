@@ -8,8 +8,8 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love nespresso coffee
+- 🥅 2024 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love my wife Karen.
 
 ---
 
@@ -21,7 +21,7 @@
 
 [website]: https://github.com/HeCodes2Much/
 [email]: mailto:wayne6324@gmail.com
-[telegram]: https://t.me/TheRepoClub
+[telegram]: https://t.me/HeCodes2Much
 [matrix]: https://matrix.to/#/@HeCodes2Much:kde.org
 
 <br />
@@ -48,32 +48,48 @@
 
 ---
 
-**GitHub Stats ⚡**
+**GitHub Stats 📊**
 
-| ![Chart not found](https://github-readme-stats.vercel.app/api?username=HeCodes2Much&theme=transparent&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&layout=compact) |  ![Chart not found](https://github-readme-stats.vercel.app/api/top-langs/?username=HeCodes2Much&theme=transparent&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&layout=compact) | 
-| ------------- | ------------- |
+<table>
+  <tr>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=HeCodes2Much&theme=transparent&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&layout=compact" /></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeCodes2Much&theme=transparent&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&layout=compact" /></td>
+  </tr>
+</table>
+
 
 ---
 
-#### Top Repositories
+**Top Repositories 🔝**
 
-
-<a href="https://github.com/HeCodes2Much/ArchLinux_Repo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HeCodes2Much&repo=ArchLinux_Repo&theme=transparent" />
-</a>
-<a href="https://github.com/HeCodes2Much/DotFiles_PacmanBase">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HeCodes2Much&repo=DotFiles_PacmanBase&theme=transparent" />
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/HeCodes2Much/ArchLinux_Repo">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HeCodes2Much&repo=ArchLinux_Repo&theme=transparent&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&layout=compact" />
+      </a>
+    </td>  
+    <td>
+      <a href="https://github.com/HeCodes2Much/DotFiles_PacmanBase">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HeCodes2Much&repo=DotFiles_PacmanBase&theme=transparent&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&layout=compact" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
 
 **WakaTime Stats ⚡**
 
-![Chart not found](https://github-readme-stats.vercel.app/api/wakatime?username=therepoclub&theme=transparent&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=HeCodes2Much%27s+WakaTime+Stats&layout=compact)
+<table>
+  <tr>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=therepoclub&theme=transparent&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=HeCodes2Much%27s+WakaTime+Stats&layout=compact" /></td>
+  </tr>
+</table>
 
 ---
 
-### Trophys:
+**Trophys 🏆**
 
 <img align="left" alt="Vim" width="1200px" src="https://github-profile-trophy.vercel.app/?username=HeCodes2Much&theme=transparent&margin-w=8&margin-h=8&column=8" />
