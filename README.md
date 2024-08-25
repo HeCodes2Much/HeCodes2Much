@@ -92,4 +92,4 @@
 
 **Trophys 🏆**
 
-<img align="left" alt="Vim" width="1200px" src="https://github-profile-trophy.vercel.app/?username=HeCodes2Much&theme=transparent&margin-w=15&margin-h=8&column=9" />
+<img align="left" alt="Vim" width="1200px" src="https://github-profile-trophy.vercel.app/?username=HeCodes2Much&theme=onestar&no-bg=true&margin-w=15&margin-h=8&column=9" />
