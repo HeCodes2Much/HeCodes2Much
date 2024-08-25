@@ -2,7 +2,7 @@ baseURL = 'https://063240.xyz/'
 languageCode = 'en-us'
 paginate = 8
 summaryLength = 8
-theme = "minimalistcss"
+theme = "midnite-sunrise"
 title = '063240'
 
 [markup.goldmark.renderer]
