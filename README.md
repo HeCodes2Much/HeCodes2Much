@@ -48,31 +48,32 @@
 
 ---
 
-### Trophys:
-
-<img align="left" alt="Vim" width="1200px" src="https://github-profile-trophy.vercel.app/?username=HeCodes2Much&theme=nord&margin-w=8&margin-h=8&column=8" />
-
----
-
-<br />
-<br />
-<br />
-<br />
-
----
-
 **GitHub Stats ⚡**
 
-![Alt](https://repobeats.axiom.co/api/embed/829458f59b8c767822414b08c808ba8621b6bad8.svg "Repobeats analytics image")
+| ![Chart not found](https://github-readme-stats.vercel.app/api?username=HeCodes2Much&theme=transparent&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&layout=compact) |  ![Chart not found](https://github-readme-stats.vercel.app/api/top-langs/?username=HeCodes2Much&theme=transparent&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&layout=compact) | 
+| ------------- | ------------- |
 
-![Chart not found](https://github-readme-stats.vercel.app/api?username=HeCodes2Much&theme=nord&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=HeCodes2Much%27s+GitHub+Stats&layout=compact)
+---
 
-![Chart not found](https://github-readme-stats.vercel.app/api/top-langs/?username=HeCodes2Much&theme=nord&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=HeCodes2Much%27s+Top+Languages&layout=compact)
+#### Top Repositories
+
+
+<a href="https://github.com/HeCodes2Much/ArchLinux_Repo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HeCodes2Much&repo=ArchLinux_Repo&theme=transparent" />
+</a>
+<a href="https://github.com/HeCodes2Much/DotFiles_PacmanBase">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HeCodes2Much&repo=DotFiles_PacmanBase&theme=transparent" />
+</a>
+
 
 ---
 
 **WakaTime Stats ⚡**
 
-![Chart not found](https://github-readme-stats.vercel.app/api/wakatime?username=therepoclub&theme=nord&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=HeCodes2Much%27s+WakaTime+Stats&layout=compact)
+![Chart not found](https://github-readme-stats.vercel.app/api/wakatime?username=therepoclub&theme=transparent&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=HeCodes2Much%27s+WakaTime+Stats&layout=compact)
 
 ---
+
+### Trophys:
+
+<img align="left" alt="Vim" width="1200px" src="https://github-profile-trophy.vercel.app/?username=HeCodes2Much&theme=transparent&margin-w=8&margin-h=8&column=8" />
